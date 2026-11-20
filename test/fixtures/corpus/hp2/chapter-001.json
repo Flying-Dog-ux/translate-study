@@ -1,0 +1,20 @@
+{
+  "bookId": "hp2",
+  "chapterIndex": 1,
+  "title": "The Worst Birthday",
+  "paragraphs": [
+    {
+      "index": 0,
+      "sentences": [
+        {
+          "text": "Not for the first time, an argument had broken out over breakfast at number four, Privet Drive.",
+          "wordCount": 17
+        },
+        {
+          "text": "Mr. Vernon Dursley had been woken in the early hours.",
+          "wordCount": 11
+        }
+      ]
+    }
+  ]
+}

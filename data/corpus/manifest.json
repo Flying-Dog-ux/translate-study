@@ -1,0 +1,1676 @@
+{
+  "version": 1,
+  "generatedAt": "2026-11-19T09:51:28.216Z",
+  "sourceDir": "D:\\书籍\\优质资源合集0724（1）\\优质书籍\\哈利波特电子书",
+  "books": [
+    {
+      "id": "hp1",
+      "order": 1,
+      "title": "Harry Potter and the Sorcerer's Stone",
+      "titleZh": "哈利·波特与魔法石",
+      "wordCount": 79197,
+      "paragraphCount": 2954,
+      "sentenceCount": 6372,
+      "chapters": [
+        {
+          "index": 1,
+          "number": "ONE",
+          "title": "The Boy Who Lived",
+          "paragraphCount": 110,
+          "sentenceCount": 346,
+          "file": "hp1/chapter-001.json"
+        },
+        {
+          "index": 2,
+          "number": "TWO",
+          "title": "The Vanishing Glass",
+          "paragraphCount": 100,
+          "sentenceCount": 232,
+          "file": "hp1/chapter-002.json"
+        },
+        {
+          "index": 3,
+          "number": "THREE",
+          "title": "The Letters from No One",
+          "paragraphCount": 121,
+          "sentenceCount": 288,
+          "file": "hp1/chapter-003.json"
+        },
+        {
+          "index": 4,
+          "number": "FOUR",
+          "title": "The Keeper of the Keys",
+          "paragraphCount": 146,
+          "sentenceCount": 315,
+          "file": "hp1/chapter-004.json"
+        },
+        {
+          "index": 5,
+          "number": "FIVE",
+          "title": "Diagon Alley",
+          "paragraphCount": 269,
+          "sentenceCount": 574,
+          "file": "hp1/chapter-005.json"
+        },
+        {
+          "index": 6,
+          "number": "SIX",
+          "title": "The Journey from Platform Nine and Three-Quarters",
+          "paragraphCount": 286,
+          "sentenceCount": 560,
+          "file": "hp1/chapter-006.json"
+        },
+        {
+          "index": 7,
+          "number": "SEVEN",
+          "title": "The Sorting Hat",
+          "paragraphCount": 145,
+          "sentenceCount": 340,
+          "file": "hp1/chapter-007.json"
+        },
+        {
+          "index": 8,
+          "number": "EIGHT",
+          "title": "The Potions Master",
+          "paragraphCount": 89,
+          "sentenceCount": 198,
+          "file": "hp1/chapter-008.json"
+        },
+        {
+          "index": 9,
+          "number": "NINE",
+          "title": "The Midnight Duel",
+          "paragraphCount": 211,
+          "sentenceCount": 400,
+          "file": "hp1/chapter-009.json"
+        },
+        {
+          "index": 10,
+          "number": "TEN",
+          "title": "Halloween",
+          "paragraphCount": 162,
+          "sentenceCount": 325,
+          "file": "hp1/chapter-010.json"
+        },
+        {
+          "index": 11,
+          "number": "ELEVEN",
+          "title": "Quidditch",
+          "paragraphCount": 137,
+          "sentenceCount": 270,
+          "file": "hp1/chapter-011.json"
+        },
+        {
+          "index": 12,
+          "number": "TWELVE",
+          "title": "The Mirror of Erised",
+          "paragraphCount": 205,
+          "sentenceCount": 443,
+          "file": "hp1/chapter-012.json"
+        },
+        {
+          "index": 13,
+          "number": "THIRTEEN",
+          "title": "Nicholas Flamel",
+          "paragraphCount": 120,
+          "sentenceCount": 252,
+          "file": "hp1/chapter-013.json"
+        },
+        {
+          "index": 14,
+          "number": "FOURTEEN",
+          "title": "Norbert the Norwegian Ridgeback",
+          "paragraphCount": 137,
+          "sentenceCount": 300,
+          "file": "hp1/chapter-014.json"
+        },
+        {
+          "index": 15,
+          "number": "FIFTEEN",
+          "title": "The Forbidden Forest",
+          "paragraphCount": 185,
+          "sentenceCount": 455,
+          "file": "hp1/chapter-015.json"
+        },
+        {
+          "index": 16,
+          "number": "SIXTEEN",
+          "title": "Through the Trapdoor",
+          "paragraphCount": 305,
+          "sentenceCount": 576,
+          "file": "hp1/chapter-016.json"
+        },
+        {
+          "index": 17,
+          "number": "SEVENTEEN",
+          "title": "The Man with Two Faces",
+          "paragraphCount": 226,
+          "sentenceCount": 498,
+          "file": "hp1/chapter-017.json"
+        }
+      ]
+    },
+    {
+      "id": "hp2",
+      "order": 2,
+      "title": "Harry Potter and the Chamber of Secrets",
+      "titleZh": "哈利·波特与密室",
+      "wordCount": 87434,
+      "paragraphCount": 3175,
+      "sentenceCount": 6714,
+      "chapters": [
+        {
+          "index": 1,
+          "number": "ONE",
+          "title": "The Worst Birthday",
+          "paragraphCount": 96,
+          "sentenceCount": 182,
+          "file": "hp2/chapter-001.json"
+        },
+        {
+          "index": 2,
+          "number": "TWO",
+          "title": "Dobby’s Warning",
+          "paragraphCount": 124,
+          "sentenceCount": 252,
+          "file": "hp2/chapter-002.json"
+        },
+        {
+          "index": 3,
+          "number": "THREE",
+          "title": "The Burrow",
+          "paragraphCount": 184,
+          "sentenceCount": 348,
+          "file": "hp2/chapter-003.json"
+        },
+        {
+          "index": 4,
+          "number": "FOUR",
+          "title": "At Flourish and Blotts",
+          "paragraphCount": 197,
+          "sentenceCount": 411,
+          "file": "hp2/chapter-004.json"
+        },
+        {
+          "index": 5,
+          "number": "FIVE",
+          "title": "The Whomping Willow",
+          "paragraphCount": 199,
+          "sentenceCount": 389,
+          "file": "hp2/chapter-005.json"
+        },
+        {
+          "index": 6,
+          "number": "SIX",
+          "title": "Gilderoy Lockhart",
+          "paragraphCount": 148,
+          "sentenceCount": 331,
+          "file": "hp2/chapter-006.json"
+        },
+        {
+          "index": 7,
+          "number": "SEVEN",
+          "title": "Mudbloods and Murmurs",
+          "paragraphCount": 170,
+          "sentenceCount": 399,
+          "file": "hp2/chapter-007.json"
+        },
+        {
+          "index": 8,
+          "number": "EIGHT",
+          "title": "The Deathday Party",
+          "paragraphCount": 178,
+          "sentenceCount": 328,
+          "file": "hp2/chapter-008.json"
+        },
+        {
+          "index": 9,
+          "number": "NINE",
+          "title": "The Writing on the Wall",
+          "paragraphCount": 209,
+          "sentenceCount": 426,
+          "file": "hp2/chapter-009.json"
+        },
+        {
+          "index": 10,
+          "number": "TEN",
+          "title": "The Rogue Bludger",
+          "paragraphCount": 179,
+          "sentenceCount": 396,
+          "file": "hp2/chapter-010.json"
+        },
+        {
+          "index": 11,
+          "number": "ELEVEN",
+          "title": "The Dueling Club",
+          "paragraphCount": 190,
+          "sentenceCount": 434,
+          "file": "hp2/chapter-011.json"
+        },
+        {
+          "index": 12,
+          "number": "TWELVE",
+          "title": "The Polyjuice Potion",
+          "paragraphCount": 211,
+          "sentenceCount": 429,
+          "file": "hp2/chapter-012.json"
+        },
+        {
+          "index": 13,
+          "number": "THIRTEEN",
+          "title": "The Very Secret Diary",
+          "paragraphCount": 208,
+          "sentenceCount": 427,
+          "file": "hp2/chapter-013.json"
+        },
+        {
+          "index": 14,
+          "number": "FOURTEEN",
+          "title": "Cornelius Fudge",
+          "paragraphCount": 148,
+          "sentenceCount": 303,
+          "file": "hp2/chapter-014.json"
+        },
+        {
+          "index": 15,
+          "number": "FIFTEEN",
+          "title": "Aragog",
+          "paragraphCount": 161,
+          "sentenceCount": 337,
+          "file": "hp2/chapter-015.json"
+        },
+        {
+          "index": 16,
+          "number": "SIXTEEN",
+          "title": "The Chamber of Secrets",
+          "paragraphCount": 237,
+          "sentenceCount": 511,
+          "file": "hp2/chapter-016.json"
+        },
+        {
+          "index": 17,
+          "number": "SEVENTEEN",
+          "title": "The Heir of Slytherin",
+          "paragraphCount": 190,
+          "sentenceCount": 485,
+          "file": "hp2/chapter-017.json"
+        },
+        {
+          "index": 18,
+          "number": "EIGHTEEN",
+          "title": "Dobby’s Reward",
+          "paragraphCount": 146,
+          "sentenceCount": 326,
+          "file": "hp2/chapter-018.json"
+        }
+      ]
+    },
+    {
+      "id": "hp3",
+      "order": 3,
+      "title": "Harry Potter and the Prisoner of Azkaban",
+      "titleZh": "哈利·波特与阿兹卡班的囚徒",
+      "wordCount": 111327,
+      "paragraphCount": 4168,
+      "sentenceCount": 9033,
+      "chapters": [
+        {
+          "index": 1,
+          "number": "ONE",
+          "title": "Owl Post",
+          "paragraphCount": 93,
+          "sentenceCount": 237,
+          "file": "hp3/chapter-001.json"
+        },
+        {
+          "index": 2,
+          "number": "TWO",
+          "title": "Aunt Marge’s Big Mistake",
+          "paragraphCount": 132,
+          "sentenceCount": 293,
+          "file": "hp3/chapter-002.json"
+        },
+        {
+          "index": 3,
+          "number": "THREE",
+          "title": "The Knight Bus",
+          "paragraphCount": 172,
+          "sentenceCount": 354,
+          "file": "hp3/chapter-003.json"
+        },
+        {
+          "index": 4,
+          "number": "FOUR",
+          "title": "The Leaky Cauldron",
+          "paragraphCount": 182,
+          "sentenceCount": 371,
+          "file": "hp3/chapter-004.json"
+        },
+        {
+          "index": 5,
+          "number": "FIVE",
+          "title": "The Dementor",
+          "paragraphCount": 271,
+          "sentenceCount": 510,
+          "file": "hp3/chapter-005.json"
+        },
+        {
+          "index": 6,
+          "number": "SIX",
+          "title": "Talons and Tea Leaves",
+          "paragraphCount": 256,
+          "sentenceCount": 525,
+          "file": "hp3/chapter-006.json"
+        },
+        {
+          "index": 7,
+          "number": "SEVEN",
+          "title": "The Boggart in the Wardrobe",
+          "paragraphCount": 189,
+          "sentenceCount": 369,
+          "file": "hp3/chapter-007.json"
+        },
+        {
+          "index": 8,
+          "number": "EIGHT",
+          "title": "Flight of the Fat Lady",
+          "paragraphCount": 217,
+          "sentenceCount": 406,
+          "file": "hp3/chapter-008.json"
+        },
+        {
+          "index": 9,
+          "number": "NINE",
+          "title": "Grim Defeat",
+          "paragraphCount": 213,
+          "sentenceCount": 446,
+          "file": "hp3/chapter-009.json"
+        },
+        {
+          "index": 10,
+          "number": "TEN",
+          "title": "The Marauder’s Map",
+          "paragraphCount": 242,
+          "sentenceCount": 564,
+          "file": "hp3/chapter-010.json"
+        },
+        {
+          "index": 11,
+          "number": "ELEVEN",
+          "title": "The Firebolt",
+          "paragraphCount": 217,
+          "sentenceCount": 437,
+          "file": "hp3/chapter-011.json"
+        },
+        {
+          "index": 12,
+          "number": "TWELVE",
+          "title": "The Patronus",
+          "paragraphCount": 189,
+          "sentenceCount": 431,
+          "file": "hp3/chapter-012.json"
+        },
+        {
+          "index": 13,
+          "number": "THIRTEEN",
+          "title": "Gryffindor Versus Ravenclaw",
+          "paragraphCount": 155,
+          "sentenceCount": 316,
+          "file": "hp3/chapter-013.json"
+        },
+        {
+          "index": 14,
+          "number": "FOURTEEN",
+          "title": "Snape’s Grudge",
+          "paragraphCount": 223,
+          "sentenceCount": 479,
+          "file": "hp3/chapter-014.json"
+        },
+        {
+          "index": 15,
+          "number": "FIFTEEN",
+          "title": "The Quidditch Final",
+          "paragraphCount": 199,
+          "sentenceCount": 469,
+          "file": "hp3/chapter-015.json"
+        },
+        {
+          "index": 16,
+          "number": "SIXTEEN",
+          "title": "Professor Trelawney’s Prediction",
+          "paragraphCount": 174,
+          "sentenceCount": 366,
+          "file": "hp3/chapter-016.json"
+        },
+        {
+          "index": 17,
+          "number": "SEVENTEEN",
+          "title": "Cat, Rat, and Dog",
+          "paragraphCount": 187,
+          "sentenceCount": 387,
+          "file": "hp3/chapter-017.json"
+        },
+        {
+          "index": 18,
+          "number": "EIGHTEEN",
+          "title": "Mooney, Wormtail, Padfoot, and Prongs",
+          "paragraphCount": 60,
+          "sentenceCount": 181,
+          "file": "hp3/chapter-018.json"
+        },
+        {
+          "index": 19,
+          "number": "NINETEEN",
+          "title": "The Servant of Lord Voldemort",
+          "paragraphCount": 193,
+          "sentenceCount": 477,
+          "file": "hp3/chapter-019.json"
+        },
+        {
+          "index": 20,
+          "number": "TWENTY",
+          "title": "The Dementor’s Kiss",
+          "paragraphCount": 74,
+          "sentenceCount": 193,
+          "file": "hp3/chapter-020.json"
+        },
+        {
+          "index": 21,
+          "number": "TWENTY-ONE",
+          "title": "Hermione’s Secret",
+          "paragraphCount": 345,
+          "sentenceCount": 764,
+          "file": "hp3/chapter-021.json"
+        },
+        {
+          "index": 22,
+          "number": "TWENTY-TWO",
+          "title": "Owl Post Again",
+          "paragraphCount": 185,
+          "sentenceCount": 458,
+          "file": "hp3/chapter-022.json"
+        }
+      ]
+    },
+    {
+      "id": "hp4",
+      "order": 4,
+      "title": "Harry Potter and the Goblet of Fire",
+      "titleZh": "哈利·波特与火焰杯",
+      "wordCount": 197956,
+      "paragraphCount": 6080,
+      "sentenceCount": 14016,
+      "chapters": [
+        {
+          "index": 1,
+          "number": "ONE",
+          "title": "The Riddle House",
+          "paragraphCount": 107,
+          "sentenceCount": 280,
+          "file": "hp4/chapter-001.json"
+        },
+        {
+          "index": 2,
+          "number": "TWO",
+          "title": "The Scar",
+          "paragraphCount": 42,
+          "sentenceCount": 152,
+          "file": "hp4/chapter-002.json"
+        },
+        {
+          "index": 3,
+          "number": "THREE",
+          "title": "The Invitation",
+          "paragraphCount": 87,
+          "sentenceCount": 209,
+          "file": "hp4/chapter-003.json"
+        },
+        {
+          "index": 4,
+          "number": "FOUR",
+          "title": "Back to the Burrow",
+          "paragraphCount": 99,
+          "sentenceCount": 225,
+          "file": "hp4/chapter-004.json"
+        },
+        {
+          "index": 5,
+          "number": "FIVE",
+          "title": "Weasleys’ Wizard Wheezes",
+          "paragraphCount": 113,
+          "sentenceCount": 262,
+          "file": "hp4/chapter-005.json"
+        },
+        {
+          "index": 6,
+          "number": "SIX",
+          "title": "The Portkey",
+          "paragraphCount": 88,
+          "sentenceCount": 182,
+          "file": "hp4/chapter-006.json"
+        },
+        {
+          "index": 7,
+          "number": "SEVEN",
+          "title": "Bagman and Crouch",
+          "paragraphCount": 166,
+          "sentenceCount": 393,
+          "file": "hp4/chapter-007.json"
+        },
+        {
+          "index": 8,
+          "number": "EIGHT",
+          "title": "The Quidditch World Cup",
+          "paragraphCount": 157,
+          "sentenceCount": 382,
+          "file": "hp4/chapter-008.json"
+        },
+        {
+          "index": 9,
+          "number": "NINE",
+          "title": "The Dark Mark",
+          "paragraphCount": 264,
+          "sentenceCount": 589,
+          "file": "hp4/chapter-009.json"
+        },
+        {
+          "index": 10,
+          "number": "TEN",
+          "title": "Mayhem at the Ministry",
+          "paragraphCount": 113,
+          "sentenceCount": 245,
+          "file": "hp4/chapter-010.json"
+        },
+        {
+          "index": 11,
+          "number": "ELEVEN",
+          "title": "Aboard the Hogwarts Express",
+          "paragraphCount": 122,
+          "sentenceCount": 241,
+          "file": "hp4/chapter-011.json"
+        },
+        {
+          "index": 12,
+          "number": "TWELVE",
+          "title": "The Triwizard Tournament",
+          "paragraphCount": 162,
+          "sentenceCount": 366,
+          "file": "hp4/chapter-012.json"
+        },
+        {
+          "index": 13,
+          "number": "THIRTEEN",
+          "title": "Mad-Eye Moody",
+          "paragraphCount": 156,
+          "sentenceCount": 280,
+          "file": "hp4/chapter-013.json"
+        },
+        {
+          "index": 14,
+          "number": "FOURTEEN",
+          "title": "The Unforgivable Curses",
+          "paragraphCount": 181,
+          "sentenceCount": 367,
+          "file": "hp4/chapter-014.json"
+        },
+        {
+          "index": 15,
+          "number": "FIFTEEN",
+          "title": "Beauxbatons and Durmstrang",
+          "paragraphCount": 153,
+          "sentenceCount": 330,
+          "file": "hp4/chapter-015.json"
+        },
+        {
+          "index": 16,
+          "number": "SIXTEEN",
+          "title": "The Goblet of Fire",
+          "paragraphCount": 202,
+          "sentenceCount": 432,
+          "file": "hp4/chapter-016.json"
+        },
+        {
+          "index": 17,
+          "number": "SEVENTEEN",
+          "title": "The Four Champions",
+          "paragraphCount": 143,
+          "sentenceCount": 324,
+          "file": "hp4/chapter-017.json"
+        },
+        {
+          "index": 18,
+          "number": "EIGHTEEN",
+          "title": "The Weighing of the Wands",
+          "paragraphCount": 215,
+          "sentenceCount": 468,
+          "file": "hp4/chapter-018.json"
+        },
+        {
+          "index": 19,
+          "number": "NINETEEN",
+          "title": "The Hungarian Horntail",
+          "paragraphCount": 174,
+          "sentenceCount": 419,
+          "file": "hp4/chapter-019.json"
+        },
+        {
+          "index": 20,
+          "number": "TWENTY",
+          "title": "The First Task",
+          "paragraphCount": 212,
+          "sentenceCount": 499,
+          "file": "hp4/chapter-020.json"
+        },
+        {
+          "index": 21,
+          "number": "TWENTY-ONE",
+          "title": "The House-Elf Liberation Front",
+          "paragraphCount": 187,
+          "sentenceCount": 404,
+          "file": "hp4/chapter-021.json"
+        },
+        {
+          "index": 22,
+          "number": "TWENTY-TWO",
+          "title": "The Unexpected Task",
+          "paragraphCount": 187,
+          "sentenceCount": 348,
+          "file": "hp4/chapter-022.json"
+        },
+        {
+          "index": 23,
+          "number": "TWENTY-THREE",
+          "title": "The Yule Ball",
+          "paragraphCount": 247,
+          "sentenceCount": 573,
+          "file": "hp4/chapter-023.json"
+        },
+        {
+          "index": 24,
+          "number": "TWENTY-FOUR",
+          "title": "Rita Skeeter’s Scoop",
+          "paragraphCount": 199,
+          "sentenceCount": 472,
+          "file": "hp4/chapter-024.json"
+        },
+        {
+          "index": 25,
+          "number": "TWENTY-FIVE",
+          "title": "The Egg and the Eye",
+          "paragraphCount": 181,
+          "sentenceCount": 396,
+          "file": "hp4/chapter-025.json"
+        },
+        {
+          "index": 26,
+          "number": "TWENTY-SIX",
+          "title": "The Second Task",
+          "paragraphCount": 221,
+          "sentenceCount": 510,
+          "file": "hp4/chapter-026.json"
+        },
+        {
+          "index": 27,
+          "number": "TWENTY-SEVEN",
+          "title": "Padfoot Returns",
+          "paragraphCount": 212,
+          "sentenceCount": 498,
+          "file": "hp4/chapter-027.json"
+        },
+        {
+          "index": 28,
+          "number": "TWENTY-EIGHT",
+          "title": "The Madness of Mr. Crouch",
+          "paragraphCount": 285,
+          "sentenceCount": 614,
+          "file": "hp4/chapter-028.json"
+        },
+        {
+          "index": 29,
+          "number": "TWENTY-NINE",
+          "title": "The Dream",
+          "paragraphCount": 161,
+          "sentenceCount": 374,
+          "file": "hp4/chapter-029.json"
+        },
+        {
+          "index": 30,
+          "number": "THIRTY",
+          "title": "The Pensieve",
+          "paragraphCount": 206,
+          "sentenceCount": 495,
+          "file": "hp4/chapter-030.json"
+        },
+        {
+          "index": 31,
+          "number": "THIRTY-ONE",
+          "title": "The Third Task",
+          "paragraphCount": 258,
+          "sentenceCount": 627,
+          "file": "hp4/chapter-031.json"
+        },
+        {
+          "index": 32,
+          "number": "THIRTY-TWO",
+          "title": "Flesh, Blood, and Bone",
+          "paragraphCount": 55,
+          "sentenceCount": 126,
+          "file": "hp4/chapter-032.json"
+        },
+        {
+          "index": 33,
+          "number": "THIRTY-THREE",
+          "title": "The Death Eaters",
+          "paragraphCount": 107,
+          "sentenceCount": 272,
+          "file": "hp4/chapter-033.json"
+        },
+        {
+          "index": 34,
+          "number": "THIRTY-FOUR",
+          "title": "Priori Incantatem",
+          "paragraphCount": 69,
+          "sentenceCount": 139,
+          "file": "hp4/chapter-034.json"
+        },
+        {
+          "index": 35,
+          "number": "THIRTY-FIVE",
+          "title": "Veritaserum",
+          "paragraphCount": 171,
+          "sentenceCount": 597,
+          "file": "hp4/chapter-035.json"
+        },
+        {
+          "index": 36,
+          "number": "THIRTY-SIX",
+          "title": "The Parting of the Ways",
+          "paragraphCount": 203,
+          "sentenceCount": 513,
+          "file": "hp4/chapter-036.json"
+        },
+        {
+          "index": 37,
+          "number": "THIRTY-SEVEN",
+          "title": "The Beginning",
+          "paragraphCount": 175,
+          "sentenceCount": 413,
+          "file": "hp4/chapter-037.json"
+        }
+      ]
+    },
+    {
+      "id": "hp5",
+      "order": 5,
+      "title": "Harry Potter and the Order of the Phoenix",
+      "titleZh": "哈利·波特与凤凰社",
+      "wordCount": 266210,
+      "paragraphCount": 8856,
+      "sentenceCount": 17655,
+      "chapters": [
+        {
+          "index": 1,
+          "number": "ONE",
+          "title": "Dudley Demented",
+          "paragraphCount": 182,
+          "sentenceCount": 410,
+          "file": "hp5/chapter-001.json"
+        },
+        {
+          "index": 2,
+          "number": "TWO",
+          "title": "A Peck of Owls",
+          "paragraphCount": 247,
+          "sentenceCount": 523,
+          "file": "hp5/chapter-002.json"
+        },
+        {
+          "index": 3,
+          "number": "THREE",
+          "title": "The Advanced Guard",
+          "paragraphCount": 180,
+          "sentenceCount": 383,
+          "file": "hp5/chapter-003.json"
+        },
+        {
+          "index": 4,
+          "number": "FOUR",
+          "title": "Number Twelve, Grimmauld Place",
+          "paragraphCount": 229,
+          "sentenceCount": 438,
+          "file": "hp5/chapter-004.json"
+        },
+        {
+          "index": 5,
+          "number": "FIVE",
+          "title": "The Order of the Phoenix",
+          "paragraphCount": 212,
+          "sentenceCount": 408,
+          "file": "hp5/chapter-005.json"
+        },
+        {
+          "index": 6,
+          "number": "SIX",
+          "title": "The Noble and Most Ancient House of Black",
+          "paragraphCount": 222,
+          "sentenceCount": 414,
+          "file": "hp5/chapter-006.json"
+        },
+        {
+          "index": 7,
+          "number": "SEVEN",
+          "title": "The Ministry of Magic",
+          "paragraphCount": 156,
+          "sentenceCount": 290,
+          "file": "hp5/chapter-007.json"
+        },
+        {
+          "index": 8,
+          "number": "EIGHT",
+          "title": "The Hearing",
+          "paragraphCount": 154,
+          "sentenceCount": 296,
+          "file": "hp5/chapter-008.json"
+        },
+        {
+          "index": 9,
+          "number": "NINE",
+          "title": "The Woes of Mrs. Weasley",
+          "paragraphCount": 312,
+          "sentenceCount": 585,
+          "file": "hp5/chapter-009.json"
+        },
+        {
+          "index": 10,
+          "number": "TEN",
+          "title": "Luna Lovegood",
+          "paragraphCount": 221,
+          "sentenceCount": 426,
+          "file": "hp5/chapter-010.json"
+        },
+        {
+          "index": 11,
+          "number": "ELEVEN",
+          "title": "The Sorting Hat’s New Song",
+          "paragraphCount": 168,
+          "sentenceCount": 349,
+          "file": "hp5/chapter-011.json"
+        },
+        {
+          "index": 12,
+          "number": "TWELVE",
+          "title": "Professor Umbridge",
+          "paragraphCount": 339,
+          "sentenceCount": 606,
+          "file": "hp5/chapter-012.json"
+        },
+        {
+          "index": 13,
+          "number": "THIRTEEN",
+          "title": "Detention with Dolores",
+          "paragraphCount": 285,
+          "sentenceCount": 586,
+          "file": "hp5/chapter-013.json"
+        },
+        {
+          "index": 14,
+          "number": "FOURTEEN",
+          "title": "Percy and Padfoot",
+          "paragraphCount": 286,
+          "sentenceCount": 524,
+          "file": "hp5/chapter-014.json"
+        },
+        {
+          "index": 15,
+          "number": "FIFTEEN",
+          "title": "The Hogwarts High Inquisitor",
+          "paragraphCount": 258,
+          "sentenceCount": 457,
+          "file": "hp5/chapter-015.json"
+        },
+        {
+          "index": 16,
+          "number": "SIXTEEN",
+          "title": "In the Hog’s Head",
+          "paragraphCount": 209,
+          "sentenceCount": 365,
+          "file": "hp5/chapter-016.json"
+        },
+        {
+          "index": 17,
+          "number": "SEVENTEEN",
+          "title": "Educational Decree Number Twenty-Four",
+          "paragraphCount": 260,
+          "sentenceCount": 468,
+          "file": "hp5/chapter-017.json"
+        },
+        {
+          "index": 18,
+          "number": "EIGHTEEN",
+          "title": "Dumbledore’s Army",
+          "paragraphCount": 263,
+          "sentenceCount": 486,
+          "file": "hp5/chapter-018.json"
+        },
+        {
+          "index": 19,
+          "number": "NINETEEN",
+          "title": "The Lion and the Serpent",
+          "paragraphCount": 206,
+          "sentenceCount": 394,
+          "file": "hp5/chapter-019.json"
+        },
+        {
+          "index": 20,
+          "number": "TWENTY",
+          "title": "Hagrid’s Tale",
+          "paragraphCount": 253,
+          "sentenceCount": 497,
+          "file": "hp5/chapter-020.json"
+        },
+        {
+          "index": 21,
+          "number": "TWENTY-ONE",
+          "title": "The Eye of the Snake",
+          "paragraphCount": 253,
+          "sentenceCount": 515,
+          "file": "hp5/chapter-021.json"
+        },
+        {
+          "index": 22,
+          "number": "TWENTY-TWO",
+          "title": "St. Mungo’s Hospital for Magical Maladies and Injuries",
+          "paragraphCount": 235,
+          "sentenceCount": 497,
+          "file": "hp5/chapter-022.json"
+        },
+        {
+          "index": 23,
+          "number": "TWENTY-THREE",
+          "title": "Christmas on the Closed Ward",
+          "paragraphCount": 219,
+          "sentenceCount": 477,
+          "file": "hp5/chapter-023.json"
+        },
+        {
+          "index": 24,
+          "number": "TWENTY-FOUR",
+          "title": "Occlumency",
+          "paragraphCount": 285,
+          "sentenceCount": 564,
+          "file": "hp5/chapter-024.json"
+        },
+        {
+          "index": 25,
+          "number": "TWENTY-FIVE",
+          "title": "The Beetle at Bay",
+          "paragraphCount": 249,
+          "sentenceCount": 532,
+          "file": "hp5/chapter-025.json"
+        },
+        {
+          "index": 26,
+          "number": "TWENTY-SIX",
+          "title": "Seen and Unforeseen",
+          "paragraphCount": 268,
+          "sentenceCount": 565,
+          "file": "hp5/chapter-026.json"
+        },
+        {
+          "index": 27,
+          "number": "TWENTY-SEVEN",
+          "title": "The Centaur and the Sneak",
+          "paragraphCount": 261,
+          "sentenceCount": 523,
+          "file": "hp5/chapter-027.json"
+        },
+        {
+          "index": 28,
+          "number": "TWENTY-EIGHT",
+          "title": "Snape’s Worst Memory",
+          "paragraphCount": 293,
+          "sentenceCount": 598,
+          "file": "hp5/chapter-028.json"
+        },
+        {
+          "index": 29,
+          "number": "TWENTY-NINE",
+          "title": "Career Advice",
+          "paragraphCount": 266,
+          "sentenceCount": 491,
+          "file": "hp5/chapter-029.json"
+        },
+        {
+          "index": 30,
+          "number": "THIRTY",
+          "title": "Grawp",
+          "paragraphCount": 259,
+          "sentenceCount": 557,
+          "file": "hp5/chapter-030.json"
+        },
+        {
+          "index": 31,
+          "number": "THIRTY-ONE",
+          "title": "O.W.L.S",
+          "paragraphCount": 212,
+          "sentenceCount": 456,
+          "file": "hp5/chapter-031.json"
+        },
+        {
+          "index": 32,
+          "number": "THIRTY-TWO",
+          "title": "Out of the Fire",
+          "paragraphCount": 234,
+          "sentenceCount": 490,
+          "file": "hp5/chapter-032.json"
+        },
+        {
+          "index": 33,
+          "number": "THIRTY-THREE",
+          "title": "Fight and Flight",
+          "paragraphCount": 138,
+          "sentenceCount": 264,
+          "file": "hp5/chapter-033.json"
+        },
+        {
+          "index": 34,
+          "number": "THIRTY-FOUR",
+          "title": "The Department of Mysteries",
+          "paragraphCount": 179,
+          "sentenceCount": 349,
+          "file": "hp5/chapter-034.json"
+        },
+        {
+          "index": 35,
+          "number": "THIRTY-FIVE",
+          "title": "Beyond the Veil",
+          "paragraphCount": 278,
+          "sentenceCount": 523,
+          "file": "hp5/chapter-035.json"
+        },
+        {
+          "index": 36,
+          "number": "THIRTY-SIX",
+          "title": "The Only One He Ever Feared",
+          "paragraphCount": 114,
+          "sentenceCount": 260,
+          "file": "hp5/chapter-036.json"
+        },
+        {
+          "index": 37,
+          "number": "THIRTY-SEVEN",
+          "title": "The Lost Prophecy",
+          "paragraphCount": 210,
+          "sentenceCount": 550,
+          "file": "hp5/chapter-037.json"
+        },
+        {
+          "index": 38,
+          "number": "THIRTY-EIGHT",
+          "title": "The Second War Begins",
+          "paragraphCount": 261,
+          "sentenceCount": 539,
+          "file": "hp5/chapter-038.json"
+        }
+      ]
+    },
+    {
+      "id": "hp6",
+      "order": 6,
+      "title": "Harry Potter and the Half-Blood Prince",
+      "titleZh": "哈利·波特与混血王子",
+      "wordCount": 174544,
+      "paragraphCount": 5718,
+      "sentenceCount": 11862,
+      "chapters": [
+        {
+          "index": 1,
+          "number": "ONE",
+          "title": "The Other Minister",
+          "paragraphCount": 134,
+          "sentenceCount": 328,
+          "file": "hp6/chapter-001.json"
+        },
+        {
+          "index": 2,
+          "number": "TWO",
+          "title": "Spinner’s End",
+          "paragraphCount": 175,
+          "sentenceCount": 393,
+          "file": "hp6/chapter-002.json"
+        },
+        {
+          "index": 3,
+          "number": "THREE",
+          "title": "Will and Won’t",
+          "paragraphCount": 138,
+          "sentenceCount": 279,
+          "file": "hp6/chapter-003.json"
+        },
+        {
+          "index": 4,
+          "number": "FOUR",
+          "title": "Horace Slughorn",
+          "paragraphCount": 231,
+          "sentenceCount": 462,
+          "file": "hp6/chapter-004.json"
+        },
+        {
+          "index": 5,
+          "number": "FIVE",
+          "title": "An Excess of Phlegm",
+          "paragraphCount": 252,
+          "sentenceCount": 481,
+          "file": "hp6/chapter-005.json"
+        },
+        {
+          "index": 6,
+          "number": "SIX",
+          "title": "Draco’s Detour",
+          "paragraphCount": 228,
+          "sentenceCount": 432,
+          "file": "hp6/chapter-006.json"
+        },
+        {
+          "index": 7,
+          "number": "SEVEN",
+          "title": "The Slug Club",
+          "paragraphCount": 238,
+          "sentenceCount": 480,
+          "file": "hp6/chapter-007.json"
+        },
+        {
+          "index": 8,
+          "number": "EIGHT",
+          "title": "Snape Victorious",
+          "paragraphCount": 137,
+          "sentenceCount": 277,
+          "file": "hp6/chapter-008.json"
+        },
+        {
+          "index": 9,
+          "number": "NINE",
+          "title": "The Half-Blood Prince",
+          "paragraphCount": 194,
+          "sentenceCount": 411,
+          "file": "hp6/chapter-009.json"
+        },
+        {
+          "index": 10,
+          "number": "TEN",
+          "title": "The House of Gaunt",
+          "paragraphCount": 207,
+          "sentenceCount": 421,
+          "file": "hp6/chapter-010.json"
+        },
+        {
+          "index": 11,
+          "number": "ELEVEN",
+          "title": "Hermione’s Helping Hand",
+          "paragraphCount": 164,
+          "sentenceCount": 362,
+          "file": "hp6/chapter-011.json"
+        },
+        {
+          "index": 12,
+          "number": "TWELVE",
+          "title": "Silver and Opals",
+          "paragraphCount": 198,
+          "sentenceCount": 369,
+          "file": "hp6/chapter-012.json"
+        },
+        {
+          "index": 13,
+          "number": "THIRTEEN",
+          "title": "The Secret Riddle",
+          "paragraphCount": 196,
+          "sentenceCount": 400,
+          "file": "hp6/chapter-013.json"
+        },
+        {
+          "index": 14,
+          "number": "FOURTEEN",
+          "title": "Felix Felicis",
+          "paragraphCount": 211,
+          "sentenceCount": 420,
+          "file": "hp6/chapter-014.json"
+        },
+        {
+          "index": 15,
+          "number": "FIFTEEN",
+          "title": "The Unbreakable Vow",
+          "paragraphCount": 204,
+          "sentenceCount": 416,
+          "file": "hp6/chapter-015.json"
+        },
+        {
+          "index": 16,
+          "number": "SIXTEEN",
+          "title": "A Very Frosty Christmas",
+          "paragraphCount": 227,
+          "sentenceCount": 476,
+          "file": "hp6/chapter-016.json"
+        },
+        {
+          "index": 17,
+          "number": "SEVENTEEN",
+          "title": "A Sluggish Memory",
+          "paragraphCount": 204,
+          "sentenceCount": 442,
+          "file": "hp6/chapter-017.json"
+        },
+        {
+          "index": 18,
+          "number": "EIGHTEEN",
+          "title": "Birthday Surprises",
+          "paragraphCount": 226,
+          "sentenceCount": 455,
+          "file": "hp6/chapter-018.json"
+        },
+        {
+          "index": 19,
+          "number": "NINETEEN",
+          "title": "Elf Tails",
+          "paragraphCount": 208,
+          "sentenceCount": 415,
+          "file": "hp6/chapter-019.json"
+        },
+        {
+          "index": 20,
+          "number": "TWENTY",
+          "title": "Lord Voldemort’s Request",
+          "paragraphCount": 202,
+          "sentenceCount": 423,
+          "file": "hp6/chapter-020.json"
+        },
+        {
+          "index": 21,
+          "number": "TWENTY-ONE",
+          "title": "The Unknowable Room",
+          "paragraphCount": 191,
+          "sentenceCount": 377,
+          "file": "hp6/chapter-021.json"
+        },
+        {
+          "index": 22,
+          "number": "TWENTY-TWO",
+          "title": "After the Burial",
+          "paragraphCount": 222,
+          "sentenceCount": 447,
+          "file": "hp6/chapter-022.json"
+        },
+        {
+          "index": 23,
+          "number": "TWENTY-THREE",
+          "title": "Horcruxes",
+          "paragraphCount": 162,
+          "sentenceCount": 387,
+          "file": "hp6/chapter-023.json"
+        },
+        {
+          "index": 24,
+          "number": "TWENTY-FOUR",
+          "title": "Sectumsempra",
+          "paragraphCount": 161,
+          "sentenceCount": 371,
+          "file": "hp6/chapter-024.json"
+        },
+        {
+          "index": 25,
+          "number": "TWENTY-FIVE",
+          "title": "The Seer Overheard",
+          "paragraphCount": 212,
+          "sentenceCount": 412,
+          "file": "hp6/chapter-025.json"
+        },
+        {
+          "index": 26,
+          "number": "TWENTY-SIX",
+          "title": "The Cave",
+          "paragraphCount": 222,
+          "sentenceCount": 430,
+          "file": "hp6/chapter-026.json"
+        },
+        {
+          "index": 27,
+          "number": "TWENTY-SEVEN",
+          "title": "The Lightning-Struck Tower",
+          "paragraphCount": 160,
+          "sentenceCount": 356,
+          "file": "hp6/chapter-027.json"
+        },
+        {
+          "index": 28,
+          "number": "TWENTY-EIGHT",
+          "title": "Flight of the Prince",
+          "paragraphCount": 99,
+          "sentenceCount": 210,
+          "file": "hp6/chapter-028.json"
+        },
+        {
+          "index": 29,
+          "number": "TWENTY-NINE",
+          "title": "The Phoenix Lament",
+          "paragraphCount": 184,
+          "sentenceCount": 402,
+          "file": "hp6/chapter-029.json"
+        },
+        {
+          "index": 30,
+          "number": "THIRTY",
+          "title": "The White Tomb",
+          "paragraphCount": 131,
+          "sentenceCount": 328,
+          "file": "hp6/chapter-030.json"
+        }
+      ]
+    },
+    {
+      "id": "hp7",
+      "order": 7,
+      "title": "Harry Potter and the Deathly Hallows",
+      "titleZh": "哈利·波特与死亡圣器",
+      "wordCount": 202296,
+      "paragraphCount": 6901,
+      "sentenceCount": 14552,
+      "chapters": [
+        {
+          "index": 1,
+          "number": "ONE",
+          "title": "The Dark Lord Ascending",
+          "paragraphCount": 107,
+          "sentenceCount": 228,
+          "file": "hp7/chapter-001.json"
+        },
+        {
+          "index": 2,
+          "number": "TWO",
+          "title": "In Memoriam",
+          "paragraphCount": 66,
+          "sentenceCount": 195,
+          "file": "hp7/chapter-002.json"
+        },
+        {
+          "index": 3,
+          "number": "THREE",
+          "title": "The Dursleys Departing",
+          "paragraphCount": 121,
+          "sentenceCount": 248,
+          "file": "hp7/chapter-003.json"
+        },
+        {
+          "index": 4,
+          "number": "FOUR",
+          "title": "The Seven Potters",
+          "paragraphCount": 166,
+          "sentenceCount": 322,
+          "file": "hp7/chapter-004.json"
+        },
+        {
+          "index": 5,
+          "number": "FIVE",
+          "title": "Fallen Warrior",
+          "paragraphCount": 259,
+          "sentenceCount": 520,
+          "file": "hp7/chapter-005.json"
+        },
+        {
+          "index": 6,
+          "number": "SIX",
+          "title": "The Ghoul in Pajamas",
+          "paragraphCount": 225,
+          "sentenceCount": 466,
+          "file": "hp7/chapter-006.json"
+        },
+        {
+          "index": 7,
+          "number": "SEVEN",
+          "title": "The Will of Albus Dumbledore",
+          "paragraphCount": 271,
+          "sentenceCount": 534,
+          "file": "hp7/chapter-007.json"
+        },
+        {
+          "index": 8,
+          "number": "EIGHT",
+          "title": "The Wedding",
+          "paragraphCount": 211,
+          "sentenceCount": 434,
+          "file": "hp7/chapter-008.json"
+        },
+        {
+          "index": 9,
+          "number": "NINE",
+          "title": "A Place to Hide",
+          "paragraphCount": 145,
+          "sentenceCount": 290,
+          "file": "hp7/chapter-009.json"
+        },
+        {
+          "index": 10,
+          "number": "TEN",
+          "title": "Kreacher’s Tale",
+          "paragraphCount": 197,
+          "sentenceCount": 475,
+          "file": "hp7/chapter-010.json"
+        },
+        {
+          "index": 11,
+          "number": "ELEVEN",
+          "title": "The Bribe",
+          "paragraphCount": 211,
+          "sentenceCount": 393,
+          "file": "hp7/chapter-011.json"
+        },
+        {
+          "index": 12,
+          "number": "TWELVE",
+          "title": "Magic Is Might",
+          "paragraphCount": 217,
+          "sentenceCount": 432,
+          "file": "hp7/chapter-012.json"
+        },
+        {
+          "index": 13,
+          "number": "THIRTEEN",
+          "title": "The Muggle-Born Registration Commission",
+          "paragraphCount": 187,
+          "sentenceCount": 399,
+          "file": "hp7/chapter-013.json"
+        },
+        {
+          "index": 14,
+          "number": "FOURTEEN",
+          "title": "The Thief",
+          "paragraphCount": 137,
+          "sentenceCount": 286,
+          "file": "hp7/chapter-014.json"
+        },
+        {
+          "index": 15,
+          "number": "FIFTEEN",
+          "title": "The Goblin’s Revenge",
+          "paragraphCount": 279,
+          "sentenceCount": 539,
+          "file": "hp7/chapter-015.json"
+        },
+        {
+          "index": 16,
+          "number": "SIXTEEN",
+          "title": "Godric’s Hollow",
+          "paragraphCount": 133,
+          "sentenceCount": 315,
+          "file": "hp7/chapter-016.json"
+        },
+        {
+          "index": 17,
+          "number": "SEVENTEEN",
+          "title": "Bathilda’s Secret",
+          "paragraphCount": 209,
+          "sentenceCount": 408,
+          "file": "hp7/chapter-017.json"
+        },
+        {
+          "index": 18,
+          "number": "EIGHTEEN",
+          "title": "The Life and Lies of Albus Dumbledore",
+          "paragraphCount": 82,
+          "sentenceCount": 229,
+          "file": "hp7/chapter-018.json"
+        },
+        {
+          "index": 19,
+          "number": "NINETEEN",
+          "title": "The Silver Doe",
+          "paragraphCount": 229,
+          "sentenceCount": 490,
+          "file": "hp7/chapter-019.json"
+        },
+        {
+          "index": 20,
+          "number": "TWENTY",
+          "title": "Xenophilius Lovegood",
+          "paragraphCount": 160,
+          "sentenceCount": 343,
+          "file": "hp7/chapter-020.json"
+        },
+        {
+          "index": 21,
+          "number": "TWENTY-ONE",
+          "title": "The Tale of the Three Brothers",
+          "paragraphCount": 180,
+          "sentenceCount": 388,
+          "file": "hp7/chapter-021.json"
+        },
+        {
+          "index": 22,
+          "number": "TWENTY-TWO",
+          "title": "The Deathly Hallows",
+          "paragraphCount": 195,
+          "sentenceCount": 454,
+          "file": "hp7/chapter-022.json"
+        },
+        {
+          "index": 23,
+          "number": "TWENTY-THREE",
+          "title": "Malfoy Manor",
+          "paragraphCount": 343,
+          "sentenceCount": 690,
+          "file": "hp7/chapter-023.json"
+        },
+        {
+          "index": 24,
+          "number": "TWENTY-FOUR",
+          "title": "The Wandmaker",
+          "paragraphCount": 255,
+          "sentenceCount": 572,
+          "file": "hp7/chapter-024.json"
+        },
+        {
+          "index": 25,
+          "number": "TWENTY-FIVE",
+          "title": "Shell Cottage",
+          "paragraphCount": 164,
+          "sentenceCount": 335,
+          "file": "hp7/chapter-025.json"
+        },
+        {
+          "index": 26,
+          "number": "TWENTY-SIX",
+          "title": "Gringotts",
+          "paragraphCount": 188,
+          "sentenceCount": 383,
+          "file": "hp7/chapter-026.json"
+        },
+        {
+          "index": 27,
+          "number": "TWENTY-SEVEN",
+          "title": "The Final Hiding Place",
+          "paragraphCount": 69,
+          "sentenceCount": 151,
+          "file": "hp7/chapter-027.json"
+        },
+        {
+          "index": 28,
+          "number": "TWENTY-EIGHT",
+          "title": "The Missing Mirror",
+          "paragraphCount": 151,
+          "sentenceCount": 344,
+          "file": "hp7/chapter-028.json"
+        },
+        {
+          "index": 29,
+          "number": "TWENTY-NINE",
+          "title": "The Lost Diadem",
+          "paragraphCount": 163,
+          "sentenceCount": 370,
+          "file": "hp7/chapter-029.json"
+        },
+        {
+          "index": 30,
+          "number": "THIRTY",
+          "title": "The Sacking of Severus Snape",
+          "paragraphCount": 195,
+          "sentenceCount": 373,
+          "file": "hp7/chapter-030.json"
+        },
+        {
+          "index": 31,
+          "number": "THIRTY-ONE",
+          "title": "The Battle of Hogwarts",
+          "paragraphCount": 287,
+          "sentenceCount": 559,
+          "file": "hp7/chapter-031.json"
+        },
+        {
+          "index": 32,
+          "number": "THIRTY-TWO",
+          "title": "The Elder Wand",
+          "paragraphCount": 178,
+          "sentenceCount": 340,
+          "file": "hp7/chapter-032.json"
+        },
+        {
+          "index": 33,
+          "number": "THIRTY-THREE",
+          "title": "The Prince’s Tale",
+          "paragraphCount": 355,
+          "sentenceCount": 732,
+          "file": "hp7/chapter-033.json"
+        },
+        {
+          "index": 34,
+          "number": "THIRTY-FOUR",
+          "title": "The Forest Again",
+          "paragraphCount": 118,
+          "sentenceCount": 288,
+          "file": "hp7/chapter-034.json"
+        },
+        {
+          "index": 35,
+          "number": "THIRTY-FIVE",
+          "title": "King’s Cross",
+          "paragraphCount": 175,
+          "sentenceCount": 431,
+          "file": "hp7/chapter-035.json"
+        },
+        {
+          "index": 36,
+          "number": "THIRTY-SIX",
+          "title": "The Flaw in the Plan",
+          "paragraphCount": 196,
+          "sentenceCount": 446,
+          "file": "hp7/chapter-036.json"
+        },
+        {
+          "index": 37,
+          "number": "EPILOGUE",
+          "title": "Nineteen Years Later",
+          "paragraphCount": 77,
+          "sentenceCount": 150,
+          "file": "hp7/chapter-037.json"
+        }
+      ]
+    }
+  ]
+}

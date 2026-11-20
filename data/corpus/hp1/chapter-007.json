@@ -1,0 +1,2092 @@
+{
+  "bookId": "hp1",
+  "chapterIndex": 7,
+  "title": "The Sorting Hat",
+  "paragraphs": [
+    {
+      "index": 0,
+      "sentences": [
+        {
+          "text": "The door swung open at once.",
+          "wordCount": 6
+        },
+        {
+          "text": "A tall, black-haired witch in emerald-green robes stood there.",
+          "wordCount": 9
+        },
+        {
+          "text": "She had a very stern face and Harry’s first thought was that this was not someone to cross.",
+          "wordCount": 18
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "sentences": [
+        {
+          "text": "“The firs’ years, Professor McGonagall,” said Hagrid.",
+          "wordCount": 7
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "sentences": [
+        {
+          "text": "“Thank you, Hagrid.",
+          "wordCount": 3
+        },
+        {
+          "text": "I will take them from here.”",
+          "wordCount": 6
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "sentences": [
+        {
+          "text": "She pulled the door wide.",
+          "wordCount": 5
+        },
+        {
+          "text": "The entrance hall was so big you could have fit the whole of the Dursleys’ house in it.",
+          "wordCount": 18
+        },
+        {
+          "text": "The stone walls were lit with flaming torches like the ones at Gringotts, the ceiling was too high to make out, and a magnificent marble staircase facing them led to the upper floors.",
+          "wordCount": 33
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "sentences": [
+        {
+          "text": "They followed Professor McGonagall across the flagged stone floor.",
+          "wordCount": 9
+        },
+        {
+          "text": "Harry could hear the drone of hundreds of voices from a doorway to the right — the rest of the school must already be here — but Professor McGonagall showed the first years into a small, empty chamber off the hall.",
+          "wordCount": 41
+        },
+        {
+          "text": "They crowded in, standing rather closer together than they would usually have done, peering about nervously.",
+          "wordCount": 16
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "sentences": [
+        {
+          "text": "“Welcome to Hogwarts,” said Professor McGonagall.",
+          "wordCount": 6
+        },
+        {
+          "text": "“The start-of-term banquet will begin shortly, but before you take your seats in the Great Hall, you will be sorted into your Houses.",
+          "wordCount": 23
+        },
+        {
+          "text": "The Sorting is a very important ceremony because, while you are here, your House will be something like your family within Hogwarts.",
+          "wordCount": 22
+        },
+        {
+          "text": "You will have classes with the rest of your House, sleep in your House dormitory, and spend free time in your House common room.",
+          "wordCount": 24
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "sentences": [
+        {
+          "text": "“The four Houses are called Gryffindor, Hufflepuff, Ravenclaw, and Slytherin.",
+          "wordCount": 10
+        },
+        {
+          "text": "Each House has its own noble history and each has produced outstanding witches and wizards.",
+          "wordCount": 15
+        },
+        {
+          "text": "While you are at Hogwarts, your triumphs will earn your House points, while any rule-breaking will lose House points.",
+          "wordCount": 19
+        },
+        {
+          "text": "At the end of the year, the House with the most points is awarded the House cup, a great honor.",
+          "wordCount": 20
+        },
+        {
+          "text": "I hope each of you will be a credit to whichever House becomes yours.",
+          "wordCount": 14
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "sentences": [
+        {
+          "text": "“The Sorting Ceremony will take place in a few minutes in front of the rest of the school.",
+          "wordCount": 18
+        },
+        {
+          "text": "I suggest you all smarten yourselves up as much as you can while you are waiting.”",
+          "wordCount": 16
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "sentences": [
+        {
+          "text": "Her eyes lingered for a moment on Neville’s cloak, which was fastened under his left ear, and on Ron’s smudged nose.",
+          "wordCount": 21
+        },
+        {
+          "text": "Harry nervously tried to flatten his hair.",
+          "wordCount": 7
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "sentences": [
+        {
+          "text": "“I shall return when we are ready for you,” said Professor McGonagall.",
+          "wordCount": 12
+        },
+        {
+          "text": "“Please wait quietly.”",
+          "wordCount": 3
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "sentences": [
+        {
+          "text": "She left the chamber.",
+          "wordCount": 4
+        },
+        {
+          "text": "Harry swallowed.",
+          "wordCount": 2
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "sentences": [
+        {
+          "text": "“How exactly do they sort us into Houses?” he asked Ron.",
+          "wordCount": 11
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "sentences": [
+        {
+          "text": "“Some sort of test, I think.",
+          "wordCount": 6
+        },
+        {
+          "text": "Fred said it hurts a lot, but I think he was joking.”",
+          "wordCount": 12
+        }
+      ]
+    },
+    {
+      "index": 13,
+      "sentences": [
+        {
+          "text": "Harry’s heart gave a horrible jolt.",
+          "wordCount": 6
+        },
+        {
+          "text": "A test?",
+          "wordCount": 2
+        },
+        {
+          "text": "In front of the whole school?",
+          "wordCount": 6
+        },
+        {
+          "text": "But he didn’t know any magic yet — what on earth would he have to do?",
+          "wordCount": 16
+        },
+        {
+          "text": "He hadn’t expected something like this the moment they arrived.",
+          "wordCount": 10
+        },
+        {
+          "text": "He looked around anxiously and saw that everyone else looked terrified, too.",
+          "wordCount": 12
+        },
+        {
+          "text": "No one was talking much except Hermione Granger, who was whispering very fast about all the spells she’d learned and wondering which one she’d need.",
+          "wordCount": 25
+        },
+        {
+          "text": "Harry tried hard not to listen to her.",
+          "wordCount": 8
+        },
+        {
+          "text": "He’d never been more nervous, never, not even when he’d had to take a school report home to the Dursleys saying that he’d somehow turned his teachers wig blue.",
+          "wordCount": 29
+        },
+        {
+          "text": "He kept his eyes fixed on the door.",
+          "wordCount": 8
+        },
+        {
+          "text": "Any second now, Professor McGonagall would come back and lead him to his doom.",
+          "wordCount": 14
+        }
+      ]
+    },
+    {
+      "index": 14,
+      "sentences": [
+        {
+          "text": "Then something happened that made him jump about a foot in the air — several people behind him screamed.",
+          "wordCount": 19
+        }
+      ]
+    },
+    {
+      "index": 15,
+      "sentences": [
+        {
+          "text": "“What the — ?”",
+          "wordCount": 4
+        }
+      ]
+    },
+    {
+      "index": 16,
+      "sentences": [
+        {
+          "text": "He gasped.",
+          "wordCount": 2
+        },
+        {
+          "text": "So did the people around him.",
+          "wordCount": 6
+        },
+        {
+          "text": "About twenty ghosts had just streamed through the back wall.",
+          "wordCount": 10
+        },
+        {
+          "text": "Pearly-white and slightly transparent, they glided across the room talking to one another and hardly glancing at the first years.",
+          "wordCount": 20
+        },
+        {
+          "text": "They seemed to be arguing.",
+          "wordCount": 5
+        },
+        {
+          "text": "What looked like a fat little monk was saying: “Forgive and forget, I say, we ought to give him a second chance —”",
+          "wordCount": 23
+        }
+      ]
+    },
+    {
+      "index": 17,
+      "sentences": [
+        {
+          "text": "“My dear Friar, haven’t we given Peeves all the chances he de-serves?",
+          "wordCount": 12
+        },
+        {
+          "text": "He gives us all a bad name and you know, he’s not really even a ghost — I say, what are you all doing here?”",
+          "wordCount": 25
+        }
+      ]
+    },
+    {
+      "index": 18,
+      "sentences": [
+        {
+          "text": "A ghost wearing a ruff and tights had suddenly noticed the first years.",
+          "wordCount": 13
+        }
+      ]
+    },
+    {
+      "index": 19,
+      "sentences": [
+        {
+          "text": "Nobody answered.",
+          "wordCount": 2
+        }
+      ]
+    },
+    {
+      "index": 20,
+      "sentences": [
+        {
+          "text": "“New students!” said the Fat Friar, smiling around at them.",
+          "wordCount": 10
+        },
+        {
+          "text": "“About to be Sorted, I suppose?”",
+          "wordCount": 6
+        }
+      ]
+    },
+    {
+      "index": 21,
+      "sentences": [
+        {
+          "text": "A few people nodded mutely.",
+          "wordCount": 5
+        }
+      ]
+    },
+    {
+      "index": 22,
+      "sentences": [
+        {
+          "text": "“Hope to see you in Hufflepuff!” said the Friar.",
+          "wordCount": 9
+        },
+        {
+          "text": "“My old House, you know.”",
+          "wordCount": 5
+        }
+      ]
+    },
+    {
+      "index": 23,
+      "sentences": [
+        {
+          "text": "“Move along now,” said a sharp voice.",
+          "wordCount": 7
+        },
+        {
+          "text": "“The Sorting Ceremony’s about to start.”",
+          "wordCount": 6
+        }
+      ]
+    },
+    {
+      "index": 24,
+      "sentences": [
+        {
+          "text": "Professor McGonagall had returned.",
+          "wordCount": 4
+        },
+        {
+          "text": "One by one, the ghosts floated away through the opposite wall.",
+          "wordCount": 11
+        }
+      ]
+    },
+    {
+      "index": 25,
+      "sentences": [
+        {
+          "text": "“Now, form a line,” Professor McGonagall told the first years, “and follow me.”",
+          "wordCount": 13
+        }
+      ]
+    },
+    {
+      "index": 26,
+      "sentences": [
+        {
+          "text": "Feeling oddly as though his legs had turned to lead, Harry got into line behind a boy with sandy hair, with Ron behind him, and they walked out of the chamber, back across the hall, and through a pair of double doors into the Great Hall.",
+          "wordCount": 46
+        }
+      ]
+    },
+    {
+      "index": 27,
+      "sentences": [
+        {
+          "text": "Harry had never even imagined such a strange and splendid place.",
+          "wordCount": 11
+        },
+        {
+          "text": "It was lit by thousands and thousands of candles that were floating in midair over four long tables, where the rest of the students were sitting.",
+          "wordCount": 26
+        },
+        {
+          "text": "These tables were laid with glittering golden plates and goblets.",
+          "wordCount": 10
+        },
+        {
+          "text": "At the top of the hall was another long table where the teachers were sitting.",
+          "wordCount": 15
+        },
+        {
+          "text": "Professor McGonagall led the first years up here, so that they came to a halt in a line facing the other students, with the teachers behind them.",
+          "wordCount": 27
+        },
+        {
+          "text": "The hundreds of faces staring at them looked like pale lanterns in the flickering candlelight.",
+          "wordCount": 15
+        },
+        {
+          "text": "Dotted here and there among the students, the ghosts shone misty silver.",
+          "wordCount": 12
+        },
+        {
+          "text": "Mainly to avoid all the staring eyes, Harry looked upward and saw a velvety black ceiling dotted with stars.",
+          "wordCount": 19
+        },
+        {
+          "text": "He heard Hermione whisper, “It’s bewitched to look like the sky outside.",
+          "wordCount": 12
+        },
+        {
+          "text": "I read about it in Hogwarts, A History.”",
+          "wordCount": 8
+        }
+      ]
+    },
+    {
+      "index": 28,
+      "sentences": [
+        {
+          "text": "It was hard to believe there was a ceiling there at all, and that the Great Hall didn’t simply open on to the heavens.",
+          "wordCount": 24
+        }
+      ]
+    },
+    {
+      "index": 29,
+      "sentences": [
+        {
+          "text": "Harry quickly looked down again as Professor McGonagall silently placed a four-legged stool in front of the first years.",
+          "wordCount": 19
+        },
+        {
+          "text": "On top of the stool she put a pointed wizard’s hat.",
+          "wordCount": 11
+        },
+        {
+          "text": "This hat was patched and frayed and extremely dirty.",
+          "wordCount": 9
+        },
+        {
+          "text": "Aunt Petunia wouldn’t have let it in the house.",
+          "wordCount": 9
+        }
+      ]
+    },
+    {
+      "index": 30,
+      "sentences": [
+        {
+          "text": "Maybe they had to try and get a rabbit out of it, Harry thought wildly, that seemed the sort of thing — noticing that everyone in the hall was now staring at the hat, he stared at it, too.",
+          "wordCount": 39
+        },
+        {
+          "text": "For a few seconds, there was complete silence.",
+          "wordCount": 8
+        },
+        {
+          "text": "Then the hat twitched.",
+          "wordCount": 4
+        },
+        {
+          "text": "A rip near the brim opened wide like a mouth — and the hat began to sing:",
+          "wordCount": 17
+        }
+      ]
+    },
+    {
+      "index": 31,
+      "sentences": [
+        {
+          "text": "“Oh, you may not think I’m pretty, But don’t judge on what you see, I’ll eat myself if you can find A smarter hat than me.",
+          "wordCount": 26
+        },
+        {
+          "text": "You can keep your bowlers black, Your top hats sleek and tall, For I’m the Hogwarts Sorting Hat And I can cap them all.",
+          "wordCount": 24
+        },
+        {
+          "text": "There’s nothing hidden in your head The Sorting Hat can’t see, So try me on and I will tell you Where you ought to be.",
+          "wordCount": 25
+        },
+        {
+          "text": "You might belong in Gryffindor, Where dwell the brave at heart, Their daring, nerve, and chivalry Set Gryffindors apart; You might belong in Hufflepuff, Where they are just and loyal, Those patient Hufflepuffs are true And unafraid of toil; Or yet in wise old Ravenclaw, If you’ve a ready mind, Where those of wit and learning, Will always find their kind; Or perhaps in Slytherin You’ll make your real friends, Those cunning folk use any means To achieve their ends.",
+          "wordCount": 80
+        },
+        {
+          "text": "So put me on!",
+          "wordCount": 4
+        },
+        {
+          "text": "Don’t be afraid!",
+          "wordCount": 3
+        },
+        {
+          "text": "And don’t get in a flap!",
+          "wordCount": 6
+        },
+        {
+          "text": "You’re in safe hands (though I have none) For I’m a Thinking Cap!”",
+          "wordCount": 13
+        }
+      ]
+    },
+    {
+      "index": 32,
+      "sentences": [
+        {
+          "text": "The whole hall burst into applause as the hat finished its song.",
+          "wordCount": 12
+        },
+        {
+          "text": "It bowed to each of the four tables and then became quite still again.",
+          "wordCount": 14
+        }
+      ]
+    },
+    {
+      "index": 33,
+      "sentences": [
+        {
+          "text": "“So we’ve just got to try on the hat!”",
+          "wordCount": 9
+        },
+        {
+          "text": "Ron whispered to Harry.",
+          "wordCount": 4
+        },
+        {
+          "text": "“I’ll kill Fred, he was going on about wrestling a troll.”",
+          "wordCount": 11
+        }
+      ]
+    },
+    {
+      "index": 34,
+      "sentences": [
+        {
+          "text": "Harry smiled weakly.",
+          "wordCount": 3
+        },
+        {
+          "text": "Yes, trying on the hat was a lot better than having to do a spell, but he did wish they could have tried it on without everyone watching.",
+          "wordCount": 28
+        },
+        {
+          "text": "The hat seemed to be asking rather a lot; Harry didn’t feel brave or quick-witted or any of it at the moment.",
+          "wordCount": 22
+        },
+        {
+          "text": "If only the hat had mentioned a House for people who felt a bit queasy, that would have been the one for him.",
+          "wordCount": 23
+        }
+      ]
+    },
+    {
+      "index": 35,
+      "sentences": [
+        {
+          "text": "Professor McGonagall now stepped forward holding a long roll of parchment.",
+          "wordCount": 11
+        }
+      ]
+    },
+    {
+      "index": 36,
+      "sentences": [
+        {
+          "text": "“When I call your name, you will put on the hat and sit on the stool to be sorted,” she said.",
+          "wordCount": 21
+        },
+        {
+          "text": "“Abbott, Hannah!”",
+          "wordCount": 2
+        }
+      ]
+    },
+    {
+      "index": 37,
+      "sentences": [
+        {
+          "text": "A pink-faced girl with blonde pigtails stumbled out of line, put on the hat, which fell right down over her eyes, and sat down.",
+          "wordCount": 24
+        },
+        {
+          "text": "A moment’s pause —",
+          "wordCount": 4
+        }
+      ]
+    },
+    {
+      "index": 38,
+      "sentences": [
+        {
+          "text": "“HUFFLEPUFF!” shouted the hat.",
+          "wordCount": 4
+        }
+      ]
+    },
+    {
+      "index": 39,
+      "sentences": [
+        {
+          "text": "The table on the right cheered and clapped as Hannah went to sit down at the Hufflepuff table.",
+          "wordCount": 18
+        },
+        {
+          "text": "Harry saw the ghost of the Fat Friar waving merrily at her.",
+          "wordCount": 12
+        }
+      ]
+    },
+    {
+      "index": 40,
+      "sentences": [
+        {
+          "text": "“Bones, Susan!”",
+          "wordCount": 2
+        }
+      ]
+    },
+    {
+      "index": 41,
+      "sentences": [
+        {
+          "text": "“HUFFLEPUFF!” shouted the hat again, and Susan scuttled off to sit next to Hannah.",
+          "wordCount": 14
+        }
+      ]
+    },
+    {
+      "index": 42,
+      "sentences": [
+        {
+          "text": "“Boot, Terry!”",
+          "wordCount": 2
+        }
+      ]
+    },
+    {
+      "index": 43,
+      "sentences": [
+        {
+          "text": "“RAVENCLAW!”",
+          "wordCount": 1
+        }
+      ]
+    },
+    {
+      "index": 44,
+      "sentences": [
+        {
+          "text": "The table second from the left clapped this time; several Ravenclaws stood up to shake hands with Terry as he joined them.",
+          "wordCount": 22
+        }
+      ]
+    },
+    {
+      "index": 45,
+      "sentences": [
+        {
+          "text": "“Brocklehurst, Mandy” went to Ravenclaw too, but “Brown, Lavender” became the first new Gryffindor, and the table on the far left exploded with cheers; Harry could see Ron’s twin brothers cat-calling.",
+          "wordCount": 31
+        }
+      ]
+    },
+    {
+      "index": 46,
+      "sentences": [
+        {
+          "text": "“Bulstrode, Millicent” then became a Slytherin.",
+          "wordCount": 6
+        },
+        {
+          "text": "Perhaps it was Harry’s imagination, after all he’d heard about Slytherin, but he thought they looked like an unpleasant lot.",
+          "wordCount": 20
+        }
+      ]
+    },
+    {
+      "index": 47,
+      "sentences": [
+        {
+          "text": "He was starting to feel definitely sick now.",
+          "wordCount": 8
+        },
+        {
+          "text": "He remembered being picked for teams during gym at his old school.",
+          "wordCount": 12
+        },
+        {
+          "text": "He had always been last to be chosen, not because he was no good, but because no one wanted Dudley to think they liked him.",
+          "wordCount": 25
+        }
+      ]
+    },
+    {
+      "index": 48,
+      "sentences": [
+        {
+          "text": "“Finch-Fletchley, Justin!”",
+          "wordCount": 2
+        }
+      ]
+    },
+    {
+      "index": 49,
+      "sentences": [
+        {
+          "text": "“HUFFLEPUFF!”",
+          "wordCount": 1
+        }
+      ]
+    },
+    {
+      "index": 50,
+      "sentences": [
+        {
+          "text": "Sometimes, Harry noticed, the hat shouted out the House at once, but at others it took a little while to decide.",
+          "wordCount": 21
+        },
+        {
+          "text": "“Finnigan, Seamus,” the sandy-haired boy next to Harry in the line, sat on the stool for almost a whole minute before the hat declared him a Gryffindor.",
+          "wordCount": 27
+        }
+      ]
+    },
+    {
+      "index": 51,
+      "sentences": [
+        {
+          "text": "“Granger, Hermione!”",
+          "wordCount": 2
+        }
+      ]
+    },
+    {
+      "index": 52,
+      "sentences": [
+        {
+          "text": "Hermione almost ran to the stool and jammed the hat eagerly on her head.",
+          "wordCount": 14
+        }
+      ]
+    },
+    {
+      "index": 53,
+      "sentences": [
+        {
+          "text": "“GRYFFINDOR!” shouted the hat.",
+          "wordCount": 4
+        },
+        {
+          "text": "Ron groaned.",
+          "wordCount": 2
+        }
+      ]
+    },
+    {
+      "index": 54,
+      "sentences": [
+        {
+          "text": "A horrible thought struck Harry, as horrible thoughts always do when you’re very nervous.",
+          "wordCount": 14
+        },
+        {
+          "text": "What if he wasn’t chosen at all?",
+          "wordCount": 7
+        },
+        {
+          "text": "What if he just sat there with the hat over his eyes for ages, until Professor McGonagall jerked it off his head and said there had obviously been a mistake and he’d better get back on the train?",
+          "wordCount": 38
+        }
+      ]
+    },
+    {
+      "index": 55,
+      "sentences": [
+        {
+          "text": "When Neville Longbottom, the boy who kept losing his toad, was called, he fell over on his way to the stool.",
+          "wordCount": 21
+        },
+        {
+          "text": "The hat took a long time to decide with Neville.",
+          "wordCount": 10
+        },
+        {
+          "text": "When it finally shouted, “GRYFFINDOR,” Neville ran off still wearing it, and had to jog back amid gales of laughter to give it to “MacDougal, Morag.”",
+          "wordCount": 26
+        }
+      ]
+    },
+    {
+      "index": 56,
+      "sentences": [
+        {
+          "text": "Malfoy swaggered forward when his name was called and got his wish at once: the hat had barely touched his head when it screamed, “SLYTHERIN!”",
+          "wordCount": 25
+        }
+      ]
+    },
+    {
+      "index": 57,
+      "sentences": [
+        {
+          "text": "Malfoy went to join his friends Crabbe and Goyle, looking pleased with himself.",
+          "wordCount": 13
+        }
+      ]
+    },
+    {
+      "index": 58,
+      "sentences": [
+        {
+          "text": "There weren’t many people left now.",
+          "wordCount": 6
+        }
+      ]
+    },
+    {
+      "index": 59,
+      "sentences": [
+        {
+          "text": "“Moon” . . . , “Nott” . . . , “Parkinson” . . . , then a pair of twin girls, “Patil” and “Patil” . . . , then “Perks, Sally-Anne” . . . , and then, at last —",
+          "wordCount": 40
+        }
+      ]
+    },
+    {
+      "index": 60,
+      "sentences": [
+        {
+          "text": "“Potter, Harry!”",
+          "wordCount": 2
+        }
+      ]
+    },
+    {
+      "index": 61,
+      "sentences": [
+        {
+          "text": "As Harry stepped forward, whispers suddenly broke out like little hissing fires all over the hall.",
+          "wordCount": 16
+        }
+      ]
+    },
+    {
+      "index": 62,
+      "sentences": [
+        {
+          "text": "“Potter, did she say?”",
+          "wordCount": 4
+        }
+      ]
+    },
+    {
+      "index": 63,
+      "sentences": [
+        {
+          "text": "“The Harry Potter?”",
+          "wordCount": 3
+        }
+      ]
+    },
+    {
+      "index": 64,
+      "sentences": [
+        {
+          "text": "The last thing Harry saw before the hat dropped over his eyes was the hall full of people craning to get a good look at him.",
+          "wordCount": 26
+        },
+        {
+          "text": "Next second he was looking at the black inside of the hat.",
+          "wordCount": 12
+        },
+        {
+          "text": "He waited.",
+          "wordCount": 2
+        }
+      ]
+    },
+    {
+      "index": 65,
+      "sentences": [
+        {
+          "text": "“Hmm,” said a small voice in his ear.",
+          "wordCount": 8
+        },
+        {
+          "text": "“Difficult.",
+          "wordCount": 1
+        },
+        {
+          "text": "Very difficult.",
+          "wordCount": 2
+        },
+        {
+          "text": "Plenty of courage, I see.",
+          "wordCount": 5
+        },
+        {
+          "text": "Not a bad mind either.",
+          "wordCount": 5
+        },
+        {
+          "text": "There’s talent, oh my goodness, yes — and a nice thirst to prove yourself, now that’s interesting. . . .",
+          "wordCount": 20
+        },
+        {
+          "text": "So where shall I put you?”",
+          "wordCount": 6
+        }
+      ]
+    },
+    {
+      "index": 66,
+      "sentences": [
+        {
+          "text": "Harry gripped the edges of the stool and thought, Not Slytherin, not Slytherin.",
+          "wordCount": 13
+        }
+      ]
+    },
+    {
+      "index": 67,
+      "sentences": [
+        {
+          "text": "“Not Slytherin, eh?” said the small voice.",
+          "wordCount": 7
+        },
+        {
+          "text": "“Are you sure?",
+          "wordCount": 3
+        },
+        {
+          "text": "You could be great, you know, it’s all here in your head, and Slytherin will help you on the way to greatness, no doubt about that — no?",
+          "wordCount": 28
+        },
+        {
+          "text": "Well, if you’re sure — better be GRYFFINDOR!”",
+          "wordCount": 8
+        }
+      ]
+    },
+    {
+      "index": 68,
+      "sentences": [
+        {
+          "text": "Harry heard the hat shout the last word to the whole hall.",
+          "wordCount": 12
+        },
+        {
+          "text": "He took off the hat and walked shakily toward the Gryffindor table.",
+          "wordCount": 12
+        },
+        {
+          "text": "He was so relieved to have been chosen and not put in Slytherin, he hardly noticed that he was getting the loudest cheer yet.",
+          "wordCount": 24
+        },
+        {
+          "text": "Percy the Prefect got up and shook his hand vigorously, while the Weasley twins yelled, “We got Potter!",
+          "wordCount": 18
+        },
+        {
+          "text": "We got Potter!”",
+          "wordCount": 3
+        },
+        {
+          "text": "Harry sat down opposite the ghost in the ruff he’d seen earlier.",
+          "wordCount": 12
+        },
+        {
+          "text": "The ghost patted his arm, giving Harry the sudden, horrible feeling he’d just plunged it into a bucket of ice-cold water.",
+          "wordCount": 21
+        }
+      ]
+    },
+    {
+      "index": 69,
+      "sentences": [
+        {
+          "text": "He could see the High Table properly now.",
+          "wordCount": 8
+        },
+        {
+          "text": "At the end nearest him sat Hagrid, who caught his eye and gave him the thumbs up.",
+          "wordCount": 17
+        },
+        {
+          "text": "Harry grinned back.",
+          "wordCount": 3
+        },
+        {
+          "text": "And there, in the center of the High Table, in a large gold chair, sat Albus Dumbledore.",
+          "wordCount": 17
+        },
+        {
+          "text": "Harry recognized him at once from the card he’d gotten out of the Chocolate Frog on the train.",
+          "wordCount": 18
+        },
+        {
+          "text": "Dumbledore’s silver hair was the only thing in the whole hall that shone as brightly as the ghosts.",
+          "wordCount": 18
+        },
+        {
+          "text": "Harry spotted Professor Quirrell, too, the nervous young man from the Leaky Cauldron.",
+          "wordCount": 13
+        },
+        {
+          "text": "He was looking very peculiar in a large purple turban.",
+          "wordCount": 10
+        }
+      ]
+    },
+    {
+      "index": 70,
+      "sentences": [
+        {
+          "text": "And now there were only four people left to be sorted.",
+          "wordCount": 11
+        },
+        {
+          "text": "“Thomas, Dean,” a Black boy even taller than Ron, joined Harry at the Gryffindor table.",
+          "wordCount": 15
+        },
+        {
+          "text": "“Turpin, Lisa,” became a Ravenclaw and then it was Ron’s turn.",
+          "wordCount": 11
+        },
+        {
+          "text": "He was pale green by now.",
+          "wordCount": 6
+        },
+        {
+          "text": "Harry crossed his fingers under the table and a second later the hat had shouted, “GRYFFINDOR!”",
+          "wordCount": 16
+        }
+      ]
+    },
+    {
+      "index": 71,
+      "sentences": [
+        {
+          "text": "Harry clapped loudly with the rest as Ron collapsed into the chair next to him.",
+          "wordCount": 15
+        }
+      ]
+    },
+    {
+      "index": 72,
+      "sentences": [
+        {
+          "text": "“Well done, Ron, excellent,” said Percy Weasley pompously across Harry as “Zabini, Blaise,” was made a Slytherin.",
+          "wordCount": 17
+        },
+        {
+          "text": "Professor McGonagall rolled up her scroll and took the Sorting Hat away.",
+          "wordCount": 12
+        }
+      ]
+    },
+    {
+      "index": 73,
+      "sentences": [
+        {
+          "text": "Harry looked down at his empty gold plate.",
+          "wordCount": 8
+        },
+        {
+          "text": "He had only just realized how hungry he was.",
+          "wordCount": 9
+        },
+        {
+          "text": "The pumpkin pasties seemed ages ago.",
+          "wordCount": 6
+        }
+      ]
+    },
+    {
+      "index": 74,
+      "sentences": [
+        {
+          "text": "Albus Dumbledore had gotten to his feet.",
+          "wordCount": 7
+        },
+        {
+          "text": "He was beaming at the students, his arms opened wide, as if nothing could have pleased him more than to see them all there.",
+          "wordCount": 24
+        }
+      ]
+    },
+    {
+      "index": 75,
+      "sentences": [
+        {
+          "text": "“Welcome!” he said.",
+          "wordCount": 3
+        },
+        {
+          "text": "“Welcome to a new year at Hogwarts!",
+          "wordCount": 7
+        },
+        {
+          "text": "Before we begin our banquet, I would like to say a few words.",
+          "wordCount": 13
+        },
+        {
+          "text": "And here they are: Nitwit!",
+          "wordCount": 5
+        },
+        {
+          "text": "Blubber!",
+          "wordCount": 1
+        },
+        {
+          "text": "Oddment!",
+          "wordCount": 1
+        },
+        {
+          "text": "Tweak!",
+          "wordCount": 1
+        }
+      ]
+    },
+    {
+      "index": 76,
+      "sentences": [
+        {
+          "text": "“Thank you!”",
+          "wordCount": 2
+        }
+      ]
+    },
+    {
+      "index": 77,
+      "sentences": [
+        {
+          "text": "He sat back down.",
+          "wordCount": 4
+        },
+        {
+          "text": "Everybody clapped and cheered.",
+          "wordCount": 4
+        },
+        {
+          "text": "Harry didn’t know whether to laugh or not.",
+          "wordCount": 8
+        }
+      ]
+    },
+    {
+      "index": 78,
+      "sentences": [
+        {
+          "text": "“Is he — a bit mad?” he asked Percy uncertainly.",
+          "wordCount": 10
+        }
+      ]
+    },
+    {
+      "index": 79,
+      "sentences": [
+        {
+          "text": "“Mad?” said Percy airily.",
+          "wordCount": 4
+        },
+        {
+          "text": "“He’s a genius!",
+          "wordCount": 3
+        },
+        {
+          "text": "Best wizard in the world!",
+          "wordCount": 5
+        },
+        {
+          "text": "But he is a bit mad, yes.",
+          "wordCount": 7
+        },
+        {
+          "text": "Potatoes, Harry?”",
+          "wordCount": 2
+        }
+      ]
+    },
+    {
+      "index": 80,
+      "sentences": [
+        {
+          "text": "Harry’s mouth fell open.",
+          "wordCount": 4
+        },
+        {
+          "text": "The dishes in front of him were now piled with food.",
+          "wordCount": 11
+        },
+        {
+          "text": "He had never seen so many things he liked to eat on one table: roast beef, roast chicken, pork chops and lamb chops, sausages, bacon and steak, boiled potatoes, roast potatoes, fries, Yorkshire pudding, peas, carrots, gravy, ketchup, and, for some strange reason, peppermint humbugs.",
+          "wordCount": 45
+        }
+      ]
+    },
+    {
+      "index": 81,
+      "sentences": [
+        {
+          "text": "The Dursleys had never exactly starved Harry, but he’d never been allowed to eat as much as he liked.",
+          "wordCount": 19
+        },
+        {
+          "text": "Dudley had always taken anything that Harry really wanted, even if it made him sick.",
+          "wordCount": 15
+        },
+        {
+          "text": "Harry piled his plate with a bit of everything except the peppermints and began to eat.",
+          "wordCount": 16
+        },
+        {
+          "text": "It was all delicious.",
+          "wordCount": 4
+        }
+      ]
+    },
+    {
+      "index": 82,
+      "sentences": [
+        {
+          "text": "“That does look good,” said the ghost in the ruff sadly, watching Harry cut up his steak.",
+          "wordCount": 17
+        }
+      ]
+    },
+    {
+      "index": 83,
+      "sentences": [
+        {
+          "text": "“Can’t you — ?”",
+          "wordCount": 4
+        }
+      ]
+    },
+    {
+      "index": 84,
+      "sentences": [
+        {
+          "text": "“I haven’t eaten for nearly five hundred years,” said the ghost.",
+          "wordCount": 11
+        },
+        {
+          "text": "“I don’t need to, of course, but one does miss it.",
+          "wordCount": 11
+        },
+        {
+          "text": "I don’t think I’ve introduced myself?",
+          "wordCount": 6
+        },
+        {
+          "text": "Sir Nicholas de Mimsy-Porpington at your service.",
+          "wordCount": 7
+        },
+        {
+          "text": "Resident ghost of Gryffindor Tower.”",
+          "wordCount": 5
+        }
+      ]
+    },
+    {
+      "index": 85,
+      "sentences": [
+        {
+          "text": "“I know who you are!” said Ron suddenly.",
+          "wordCount": 8
+        },
+        {
+          "text": "“My brothers told me about you — you’re Nearly Headless Nick!”",
+          "wordCount": 11
+        }
+      ]
+    },
+    {
+      "index": 86,
+      "sentences": [
+        {
+          "text": "“I would prefer you to call me Sir Nicholas de Mimsy —” the ghost began stiffly, but sandy-haired Seamus Finnigan interrupted.",
+          "wordCount": 21
+        }
+      ]
+    },
+    {
+      "index": 87,
+      "sentences": [
+        {
+          "text": "“Nearly Headless?",
+          "wordCount": 2
+        },
+        {
+          "text": "How can you be nearly headless?”",
+          "wordCount": 6
+        }
+      ]
+    },
+    {
+      "index": 88,
+      "sentences": [
+        {
+          "text": "Sir Nicholas looked extremely miffed, as if their little chat wasn’t going at all the way he wanted.",
+          "wordCount": 18
+        }
+      ]
+    },
+    {
+      "index": 89,
+      "sentences": [
+        {
+          "text": "“Like this,” he said irritably.",
+          "wordCount": 5
+        },
+        {
+          "text": "He seized his left ear and pulled.",
+          "wordCount": 7
+        },
+        {
+          "text": "His whole head swung off his neck and fell onto his shoulder as if it was on a hinge.",
+          "wordCount": 19
+        },
+        {
+          "text": "Someone had obviously tried to behead him, but not done it properly.",
+          "wordCount": 12
+        },
+        {
+          "text": "Looking pleased at the stunned looks on their faces, Nearly Headless Nick flipped his head back onto his neck, coughed, and said, “So — new Gryffindors!",
+          "wordCount": 26
+        },
+        {
+          "text": "I hope you’re going to help us win the House Championship this year?",
+          "wordCount": 13
+        },
+        {
+          "text": "Gryffindors have never gone so long without winning.",
+          "wordCount": 8
+        },
+        {
+          "text": "Slytherins have got the cup six years in a row!",
+          "wordCount": 10
+        },
+        {
+          "text": "The Bloody Baron’s becoming almost unbearable — he’s the Slytherin ghost.”",
+          "wordCount": 11
+        }
+      ]
+    },
+    {
+      "index": 90,
+      "sentences": [
+        {
+          "text": "Harry looked over at the Slytherin table and saw a horrible ghost sitting there, with blank staring eyes, a gaunt face, and robes stained with silver blood.",
+          "wordCount": 27
+        },
+        {
+          "text": "He was right next to Malfoy who, Harry was pleased to see, didn’t look too pleased with the seating arrangements.",
+          "wordCount": 20
+        }
+      ]
+    },
+    {
+      "index": 91,
+      "sentences": [
+        {
+          "text": "“How did he get covered in blood?” asked Seamus with great interest.",
+          "wordCount": 12
+        }
+      ]
+    },
+    {
+      "index": 92,
+      "sentences": [
+        {
+          "text": "“I’ve never asked,” said Nearly Headless Nick delicately.",
+          "wordCount": 8
+        }
+      ]
+    },
+    {
+      "index": 93,
+      "sentences": [
+        {
+          "text": "When everyone had eaten as much as they could, the remains of the food faded from the plates, leaving them sparkling clean as before.",
+          "wordCount": 24
+        },
+        {
+          "text": "A moment later the desserts appeared.",
+          "wordCount": 6
+        },
+        {
+          "text": "Blocks of ice cream in every flavor you could think of, apple pies, treacle tarts, chocolate éclairs and jam doughnuts, trifle, strawberries, Jell-O, rice pudding . . .",
+          "wordCount": 28
+        }
+      ]
+    },
+    {
+      "index": 94,
+      "sentences": [
+        {
+          "text": "As Harry helped himself to a treacle tart, the talk turned to their families.",
+          "wordCount": 14
+        }
+      ]
+    },
+    {
+      "index": 95,
+      "sentences": [
+        {
+          "text": "“I’m half-and-half,” said Seamus.",
+          "wordCount": 4
+        },
+        {
+          "text": "“Me dad’s a Muggle.",
+          "wordCount": 4
+        },
+        {
+          "text": "Mom didn’t tell him she was a witch ’til after they were married.",
+          "wordCount": 13
+        },
+        {
+          "text": "Bit of a nasty shock for him.”",
+          "wordCount": 7
+        }
+      ]
+    },
+    {
+      "index": 96,
+      "sentences": [
+        {
+          "text": "The others laughed.",
+          "wordCount": 3
+        }
+      ]
+    },
+    {
+      "index": 97,
+      "sentences": [
+        {
+          "text": "“What about you, Neville?” said Ron.",
+          "wordCount": 6
+        }
+      ]
+    },
+    {
+      "index": 98,
+      "sentences": [
+        {
+          "text": "“Well, my gran brought me up and she’s a witch,” said Neville, “but the family thought I was all-Muggle for ages.",
+          "wordCount": 21
+        },
+        {
+          "text": "My Great Uncle Algie kept trying to catch me off my guard and force some magic out of me — he pushed me off the end of Blackpool pier once, I nearly drowned — but nothing happened until I was eight.",
+          "wordCount": 41
+        },
+        {
+          "text": "Great Uncle Algie came round for dinner, and he was hanging me out of an upstairs window by the ankles when my Great Auntie Enid offered him a meringue and he accidentally let go.",
+          "wordCount": 34
+        },
+        {
+          "text": "But I bounced — all the way down the garden and into the road.",
+          "wordCount": 14
+        },
+        {
+          "text": "They were all really pleased, Gran was crying, she was so happy.",
+          "wordCount": 12
+        },
+        {
+          "text": "And you should have seen their faces when I got in here — they thought I might not be magic enough to come, you see.",
+          "wordCount": 25
+        },
+        {
+          "text": "Great Uncle Algie was so pleased he bought me my toad.”",
+          "wordCount": 11
+        }
+      ]
+    },
+    {
+      "index": 99,
+      "sentences": [
+        {
+          "text": "On Harry’s other side, Percy Weasley and Hermione were talking about lessons (“I do hope they start right away, there’s so much to learn, I’m particularly interested in Transfiguration, you know, turning something into something else, of course, it’s supposed to be very difficult —”; “You’ll be starting small, just matches into needles and that sort of thing —”).",
+          "wordCount": 59
+        }
+      ]
+    },
+    {
+      "index": 100,
+      "sentences": [
+        {
+          "text": "Harry, who was starting to feel warm and sleepy, looked up at the High Table again.",
+          "wordCount": 16
+        },
+        {
+          "text": "Hagrid was drinking deeply from his goblet.",
+          "wordCount": 7
+        },
+        {
+          "text": "Professor McGonagall was talking to Professor Dumbledore.",
+          "wordCount": 7
+        },
+        {
+          "text": "Professor Quirrell, in his absurd turban, was talking to a teacher with greasy black hair, a hooked nose, and sallow skin.",
+          "wordCount": 21
+        }
+      ]
+    },
+    {
+      "index": 101,
+      "sentences": [
+        {
+          "text": "It happened very suddenly.",
+          "wordCount": 4
+        },
+        {
+          "text": "The hook-nosed teacher looked past Quirrell’s turban straight into Harry’s eyes — and a sharp, hot pain shot across the scar on Harry’s forehead.",
+          "wordCount": 24
+        }
+      ]
+    },
+    {
+      "index": 102,
+      "sentences": [
+        {
+          "text": "“Ouch!”",
+          "wordCount": 1
+        },
+        {
+          "text": "Harry clapped a hand to his head.",
+          "wordCount": 7
+        }
+      ]
+    },
+    {
+      "index": 103,
+      "sentences": [
+        {
+          "text": "“What is it?” asked Percy.",
+          "wordCount": 5
+        }
+      ]
+    },
+    {
+      "index": 104,
+      "sentences": [
+        {
+          "text": "“N-nothing.”",
+          "wordCount": 1
+        }
+      ]
+    },
+    {
+      "index": 105,
+      "sentences": [
+        {
+          "text": "The pain had gone as quickly as it had come.",
+          "wordCount": 10
+        },
+        {
+          "text": "Harder to shake off was the feeling Harry had gotten from the teachers look — a feeling that he didn’t like Harry at all.",
+          "wordCount": 24
+        }
+      ]
+    },
+    {
+      "index": 106,
+      "sentences": [
+        {
+          "text": "“Who’s that teacher talking to Professor Quirrell?” he asked Percy.",
+          "wordCount": 10
+        }
+      ]
+    },
+    {
+      "index": 107,
+      "sentences": [
+        {
+          "text": "“Oh, you know Quirrell already, do you?",
+          "wordCount": 7
+        },
+        {
+          "text": "No wonder he’s looking so nervous, that’s Professor Snape.",
+          "wordCount": 9
+        },
+        {
+          "text": "He teaches Potions, but he doesn’t want to — everyone knows he’s after Quirrell’s job.",
+          "wordCount": 15
+        },
+        {
+          "text": "Knows an awful lot about the Dark Arts, Snape.”",
+          "wordCount": 9
+        }
+      ]
+    },
+    {
+      "index": 108,
+      "sentences": [
+        {
+          "text": "Harry watched Snape for a while, but Snape didn’t look at him again.",
+          "wordCount": 13
+        }
+      ]
+    },
+    {
+      "index": 109,
+      "sentences": [
+        {
+          "text": "At last, the desserts too disappeared, and Professor Dumbledore got to his feet again.",
+          "wordCount": 14
+        },
+        {
+          "text": "The hall fell silent.",
+          "wordCount": 4
+        }
+      ]
+    },
+    {
+      "index": 110,
+      "sentences": [
+        {
+          "text": "“Ahem — just a few more words now that we are all fed and watered.",
+          "wordCount": 15
+        },
+        {
+          "text": "I have a few start-of-term notices to give you.",
+          "wordCount": 9
+        }
+      ]
+    },
+    {
+      "index": 111,
+      "sentences": [
+        {
+          "text": "“First years should note that the forest on the grounds is forbidden to all pupils.",
+          "wordCount": 15
+        },
+        {
+          "text": "And a few of our older students would do well to remember that as well.”",
+          "wordCount": 15
+        }
+      ]
+    },
+    {
+      "index": 112,
+      "sentences": [
+        {
+          "text": "Dumbledore’s twinkling eyes flashed in the direction of the Weasley twins.",
+          "wordCount": 11
+        }
+      ]
+    },
+    {
+      "index": 113,
+      "sentences": [
+        {
+          "text": "“I have also been asked by Mr. Filch, the caretaker, to remind you all that no magic should be used between classes in the corridors.",
+          "wordCount": 25
+        }
+      ]
+    },
+    {
+      "index": 114,
+      "sentences": [
+        {
+          "text": "“Quidditch trials will be held in the second week of the term.",
+          "wordCount": 12
+        },
+        {
+          "text": "Anyone interested in playing for their House teams should contact Madam Hooch.",
+          "wordCount": 12
+        }
+      ]
+    },
+    {
+      "index": 115,
+      "sentences": [
+        {
+          "text": "“And finally, I must tell you that this year, the third-floor corridor on the right-hand side is out of bounds to everyone who does not wish to die a very painful death.”",
+          "wordCount": 32
+        }
+      ]
+    },
+    {
+      "index": 116,
+      "sentences": [
+        {
+          "text": "Harry laughed, but he was one of the few who did.",
+          "wordCount": 11
+        }
+      ]
+    },
+    {
+      "index": 117,
+      "sentences": [
+        {
+          "text": "“He’s not serious?” he muttered to Percy.",
+          "wordCount": 7
+        }
+      ]
+    },
+    {
+      "index": 118,
+      "sentences": [
+        {
+          "text": "“Must be,” said Percy, frowning at Dumbledore.",
+          "wordCount": 7
+        },
+        {
+          "text": "“It’s odd, because he usually gives us a reason why we’re not allowed to go somewhere — the forest’s full of dangerous beasts, everyone knows that.",
+          "wordCount": 26
+        },
+        {
+          "text": "I do think he might have told us prefects, at least.”",
+          "wordCount": 11
+        }
+      ]
+    },
+    {
+      "index": 119,
+      "sentences": [
+        {
+          "text": "“And now, before we go to bed, let us sing the school song!” cried Dumbledore.",
+          "wordCount": 15
+        },
+        {
+          "text": "Harry noticed that the other teachers’ smiles had become rather fixed.",
+          "wordCount": 11
+        }
+      ]
+    },
+    {
+      "index": 120,
+      "sentences": [
+        {
+          "text": "Dumbledore gave his wand a little flick, as if he was trying to get a fly off the end, and a long golden ribbon flew out of it, which rose high above the tables and twisted itself, snakelike, into words.",
+          "wordCount": 40
+        }
+      ]
+    },
+    {
+      "index": 121,
+      "sentences": [
+        {
+          "text": "“Everyone pick their favorite tune,” said Dumbledore, “and off we go!”",
+          "wordCount": 11
+        }
+      ]
+    },
+    {
+      "index": 122,
+      "sentences": [
+        {
+          "text": "And the school bellowed:",
+          "wordCount": 4
+        }
+      ]
+    },
+    {
+      "index": 123,
+      "sentences": [
+        {
+          "text": "“Hogwarts, Hogwarts, Hoggy Warty Hogwarts, Teach us something please, Whether we be old and bald Or young with scabby knees, Our heads could do with filling With some interesting stuff, For now they’re bare and full of air, Dead flies and bits of fluff, So teach us things worth knowing, Bring back what we’ve forgot, Just do your best, we’ll do the rest, And learn until our brains all rot.”",
+          "wordCount": 70
+        }
+      ]
+    },
+    {
+      "index": 124,
+      "sentences": [
+        {
+          "text": "Everybody finished the song at different times.",
+          "wordCount": 7
+        },
+        {
+          "text": "At last, only the Weasley twins were left singing along to a very slow funeral march.",
+          "wordCount": 16
+        },
+        {
+          "text": "Dumbledore conducted their last few lines with his wand and when they had finished, he was one of those who clapped loudest.",
+          "wordCount": 22
+        }
+      ]
+    },
+    {
+      "index": 125,
+      "sentences": [
+        {
+          "text": "“Ah, music,” he said, wiping his eyes.",
+          "wordCount": 7
+        },
+        {
+          "text": "“A magic beyond all we do here!",
+          "wordCount": 7
+        },
+        {
+          "text": "And now, bedtime.",
+          "wordCount": 3
+        },
+        {
+          "text": "Off you trot!”",
+          "wordCount": 3
+        }
+      ]
+    },
+    {
+      "index": 126,
+      "sentences": [
+        {
+          "text": "The Gryffindor first years followed Percy through the chattering crowds, out of the Great Hall, and up the marble staircase.",
+          "wordCount": 20
+        },
+        {
+          "text": "Harry’s legs were like lead again, but only because he was so tired and full of food.",
+          "wordCount": 17
+        },
+        {
+          "text": "He was too sleepy even to be surprised that the people in the portraits along the corridors whispered and pointed as they passed, or that twice Percy led them through doorways hidden behind sliding panels and hanging tapestries.",
+          "wordCount": 38
+        },
+        {
+          "text": "They climbed more staircases, yawning and dragging their feet, and Harry was just wondering how much farther they had to go when they came to a sudden halt.",
+          "wordCount": 28
+        }
+      ]
+    },
+    {
+      "index": 127,
+      "sentences": [
+        {
+          "text": "A bundle of walking sticks was floating in midair ahead of them, and as Percy took a step toward them they started throwing themselves at him.",
+          "wordCount": 26
+        }
+      ]
+    },
+    {
+      "index": 128,
+      "sentences": [
+        {
+          "text": "“Peeves,” Percy whispered to the first years.",
+          "wordCount": 7
+        },
+        {
+          "text": "“A poltergeist.”",
+          "wordCount": 2
+        },
+        {
+          "text": "He raised his voice, “Peeves — show yourself.”",
+          "wordCount": 8
+        }
+      ]
+    },
+    {
+      "index": 129,
+      "sentences": [
+        {
+          "text": "A loud, rude sound, like the air being let out of a balloon, answered.",
+          "wordCount": 14
+        }
+      ]
+    },
+    {
+      "index": 130,
+      "sentences": [
+        {
+          "text": "“Do you want me to go to the Bloody Baron?”",
+          "wordCount": 10
+        }
+      ]
+    },
+    {
+      "index": 131,
+      "sentences": [
+        {
+          "text": "There was a pop, and a little man with wicked, dark eyes and a wide mouth appeared, floating cross-legged in the air, clutching the walking sticks.",
+          "wordCount": 26
+        }
+      ]
+    },
+    {
+      "index": 132,
+      "sentences": [
+        {
+          "text": "“Oooooooh!” he said, with an evil cackle.",
+          "wordCount": 7
+        },
+        {
+          "text": "“Ickle Firsties!",
+          "wordCount": 2
+        },
+        {
+          "text": "What fun!”",
+          "wordCount": 2
+        }
+      ]
+    },
+    {
+      "index": 133,
+      "sentences": [
+        {
+          "text": "He swooped suddenly at them.",
+          "wordCount": 5
+        },
+        {
+          "text": "They all ducked.",
+          "wordCount": 3
+        }
+      ]
+    },
+    {
+      "index": 134,
+      "sentences": [
+        {
+          "text": "“Go away, Peeves, or the Baron’ll hear about this, I mean it!” barked Percy.",
+          "wordCount": 14
+        }
+      ]
+    },
+    {
+      "index": 135,
+      "sentences": [
+        {
+          "text": "Peeves stuck out his tongue and vanished, dropping the walking sticks on Neville’s head.",
+          "wordCount": 14
+        },
+        {
+          "text": "They heard him zooming away, rattling coats of armor as he passed.",
+          "wordCount": 12
+        }
+      ]
+    },
+    {
+      "index": 136,
+      "sentences": [
+        {
+          "text": "“You want to watch out for Peeves,” said Percy, as they set off again.",
+          "wordCount": 14
+        },
+        {
+          "text": "“The Bloody Baron’s the only one who can control him, he won’t even listen to us prefects.",
+          "wordCount": 17
+        },
+        {
+          "text": "Here we are.”",
+          "wordCount": 3
+        }
+      ]
+    },
+    {
+      "index": 137,
+      "sentences": [
+        {
+          "text": "At the very end of the corridor hung a portrait of a very fat woman in a pink silk dress.",
+          "wordCount": 20
+        }
+      ]
+    },
+    {
+      "index": 138,
+      "sentences": [
+        {
+          "text": "“Password?” she said.",
+          "wordCount": 3
+        }
+      ]
+    },
+    {
+      "index": 139,
+      "sentences": [
+        {
+          "text": "“Caput Draconis,” said Percy, and the portrait swung forward to reveal a round hole in the wall.",
+          "wordCount": 17
+        },
+        {
+          "text": "They all scrambled through it — Neville needed a leg up — and found themselves in the Gryffindor common room, a cozy, round room full of squashy armchairs.",
+          "wordCount": 28
+        }
+      ]
+    },
+    {
+      "index": 140,
+      "sentences": [
+        {
+          "text": "Percy directed the girls through one door to their dormitory and the boys through another.",
+          "wordCount": 15
+        },
+        {
+          "text": "At the top of a spiral staircase — they were obviously in one of the towers — they found their beds at last: five four-posters hung with deep red, velvet curtains.",
+          "wordCount": 31
+        },
+        {
+          "text": "Their trunks had already been brought up.",
+          "wordCount": 7
+        },
+        {
+          "text": "Too tired to talk much, they pulled on their pajamas and fell into bed.",
+          "wordCount": 14
+        }
+      ]
+    },
+    {
+      "index": 141,
+      "sentences": [
+        {
+          "text": "“Great food, isn’t it?”",
+          "wordCount": 4
+        },
+        {
+          "text": "Ron muttered to Harry through the hangings.",
+          "wordCount": 7
+        },
+        {
+          "text": "“Get off, Scabbers!",
+          "wordCount": 3
+        },
+        {
+          "text": "He’s chewing my sheets.”",
+          "wordCount": 4
+        }
+      ]
+    },
+    {
+      "index": 142,
+      "sentences": [
+        {
+          "text": "Harry was going to ask Ron if he’d had any of the treacle tart, but he fell asleep almost at once.",
+          "wordCount": 21
+        }
+      ]
+    },
+    {
+      "index": 143,
+      "sentences": [
+        {
+          "text": "Perhaps Harry had eaten a bit too much, because he had a very strange dream.",
+          "wordCount": 15
+        },
+        {
+          "text": "He was wearing Professor Quirrell’s turban, which kept talking to him, telling him he must transfer to Slytherin at once, because it was his destiny.",
+          "wordCount": 25
+        },
+        {
+          "text": "Harry told the turban he didn’t want to be in Slytherin; it got heavier and heavier; he tried to pull it off but it tightened painfully — and there was Malfoy, laughing at him as he struggled with it — then Malfoy turned into the hook-nosed teacher, Snape, whose laugh became high and cold — there was a burst of green light and Harry woke, sweating and shaking.",
+          "wordCount": 68
+        }
+      ]
+    },
+    {
+      "index": 144,
+      "sentences": [
+        {
+          "text": "He rolled over and fell asleep again, and when he woke next day, he didn’t remember the dream at all.",
+          "wordCount": 20
+        }
+      ]
+    }
+  ]
+}

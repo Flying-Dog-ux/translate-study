@@ -1,0 +1,14 @@
+{
+  "name": "translate-study",
+  "version": "1.0.0",
+  "private": true,
+  "description": "逐句译 · 哈利波特逐句英译中练习（零依赖 Node 后端 + 原生前端）",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "start": "node server/index.js",
+    "test": "node --test test/"
+  }
+}

@@ -1,0 +1,1620 @@
+{
+  "bookId": "hp4",
+  "chapterIndex": 5,
+  "title": "Weasleys’ Wizard Wheezes",
+  "paragraphs": [
+    {
+      "index": 0,
+      "sentences": [
+        {
+          "text": "Harry spun faster and faster, elbows tucked tightly to his sides, blurred fireplaces flashing past him, until he started to feel sick and closed his eyes.",
+          "wordCount": 26
+        },
+        {
+          "text": "Then, when at last he felt himself slowing down, he threw out his hands and came to a halt in time to prevent himself from falling face forward out of the Weasleys’ kitchen fire.",
+          "wordCount": 34
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "sentences": [
+        {
+          "text": "“Did he eat it?” said Fred excitedly, holding out a hand to pull Harry to his feet.",
+          "wordCount": 17
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "sentences": [
+        {
+          "text": "“Yeah,” said Harry, straightening up.",
+          "wordCount": 5
+        },
+        {
+          "text": "“What was it?”",
+          "wordCount": 3
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "sentences": [
+        {
+          "text": "“Ton-Tongue Toffee,” said Fred brightly.",
+          "wordCount": 5
+        },
+        {
+          "text": "“George and I invented them, and we’ve been looking for someone to test them on all summer. . . .”",
+          "wordCount": 20
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "sentences": [
+        {
+          "text": "The tiny kitchen exploded with laughter; Harry looked around and saw that Ron and George were sitting at the scrubbed wooden table with two red-haired people Harry had never seen before, though he knew immediately who they must be: Bill and Charlie, the two eldest Weasley brothers.",
+          "wordCount": 47
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "sentences": [
+        {
+          "text": "“How’re you doing, Harry?” said the nearer of the two, grinning at him and holding out a large hand, which Harry shook, feeling calluses and blisters under his fingers.",
+          "wordCount": 29
+        },
+        {
+          "text": "This had to be Charlie, who worked with dragons in Romania.",
+          "wordCount": 11
+        },
+        {
+          "text": "Charlie was built like the twins, shorter and stockier than Percy and Ron, who were both long and lanky.",
+          "wordCount": 19
+        },
+        {
+          "text": "He had a broad, good-natured face, which was weather-beaten and so freckly that he looked almost tanned; his arms were muscular, and one of them had a large, shiny burn on it.",
+          "wordCount": 32
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "sentences": [
+        {
+          "text": "Bill got to his feet, smiling, and also shook Harry’s hand.",
+          "wordCount": 11
+        },
+        {
+          "text": "Bill came as something of a surprise.",
+          "wordCount": 7
+        },
+        {
+          "text": "Harry knew that he worked for the wizarding bank, Gringotts, and that Bill had been Head Boy at Hogwarts; Harry had always imagined Bill to be an older version of Percy: fussy about rule-breaking and fond of bossing everyone around.",
+          "wordCount": 40
+        },
+        {
+          "text": "However, Bill was — there was no other word for it — cool.",
+          "wordCount": 13
+        },
+        {
+          "text": "He was tall, with long hair that he had tied back in a ponytail.",
+          "wordCount": 14
+        },
+        {
+          "text": "He was wearing an earring with what looked like a fang dangling from it.",
+          "wordCount": 14
+        },
+        {
+          "text": "Bill’s clothes would not have looked out of place at a rock concert, except that Harry recognized his boots to be made, not of leather, but of dragon hide.",
+          "wordCount": 29
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "sentences": [
+        {
+          "text": "Before any of them could say anything else, there was a faint popping noise, and Mr. Weasley appeared out of thin air at George’s shoulder.",
+          "wordCount": 25
+        },
+        {
+          "text": "He was looking angrier than Harry had ever seen him.",
+          "wordCount": 10
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "sentences": [
+        {
+          "text": "“That wasn’t funny, Fred!” he shouted.",
+          "wordCount": 6
+        },
+        {
+          "text": "“What on earth did you give that Muggle boy?”",
+          "wordCount": 9
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "sentences": [
+        {
+          "text": "“I didn’t give him anything,” said Fred, with another evil grin.",
+          "wordCount": 11
+        },
+        {
+          "text": "“I just dropped it. . . .",
+          "wordCount": 7
+        },
+        {
+          "text": "It was his fault he went and ate it, I never told him to.”",
+          "wordCount": 14
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "sentences": [
+        {
+          "text": "“You dropped it on purpose!” roared Mr. Weasley.",
+          "wordCount": 8
+        },
+        {
+          "text": "“You knew he’d eat it, you knew he was on a diet —”",
+          "wordCount": 13
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "sentences": [
+        {
+          "text": "“How big did his tongue get?”",
+          "wordCount": 6
+        },
+        {
+          "text": "George asked eagerly.",
+          "wordCount": 3
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "sentences": [
+        {
+          "text": "“It was four feet long before his parents would let me shrink it!”",
+          "wordCount": 13
+        }
+      ]
+    },
+    {
+      "index": 13,
+      "sentences": [
+        {
+          "text": "Harry and the Weasleys roared with laughter again.",
+          "wordCount": 8
+        }
+      ]
+    },
+    {
+      "index": 14,
+      "sentences": [
+        {
+          "text": "“It isn’t funny!”",
+          "wordCount": 3
+        },
+        {
+          "text": "Mr. Weasley shouted.",
+          "wordCount": 3
+        },
+        {
+          "text": "“That sort of behavior seriously undermines wizard–Muggle relations!",
+          "wordCount": 8
+        },
+        {
+          "text": "I spend half my life campaigning against the mistreatment of Muggles, and my own sons —”",
+          "wordCount": 16
+        }
+      ]
+    },
+    {
+      "index": 15,
+      "sentences": [
+        {
+          "text": "“We didn’t give it to him because he’s a Muggle!” said Fred indignantly.",
+          "wordCount": 13
+        }
+      ]
+    },
+    {
+      "index": 16,
+      "sentences": [
+        {
+          "text": "“No, we gave it to him because he’s a great bullying git,” said George.",
+          "wordCount": 14
+        },
+        {
+          "text": "“Isn’t he, Harry?”",
+          "wordCount": 3
+        }
+      ]
+    },
+    {
+      "index": 17,
+      "sentences": [
+        {
+          "text": "“Yeah, he is, Mr. Weasley,” said Harry earnestly.",
+          "wordCount": 8
+        }
+      ]
+    },
+    {
+      "index": 18,
+      "sentences": [
+        {
+          "text": "“That’s not the point!” raged Mr. Weasley.",
+          "wordCount": 7
+        },
+        {
+          "text": "“You wait until I tell your mother —”",
+          "wordCount": 8
+        }
+      ]
+    },
+    {
+      "index": 19,
+      "sentences": [
+        {
+          "text": "“Tell me what?” said a voice behind them.",
+          "wordCount": 8
+        }
+      ]
+    },
+    {
+      "index": 20,
+      "sentences": [
+        {
+          "text": "Mrs. Weasley had just entered the kitchen.",
+          "wordCount": 7
+        },
+        {
+          "text": "She was a short, plump woman with a very kind face, though her eyes were presently narrowed with suspicion.",
+          "wordCount": 19
+        }
+      ]
+    },
+    {
+      "index": 21,
+      "sentences": [
+        {
+          "text": "“Oh hello, Harry, dear,” she said, spotting him and smiling.",
+          "wordCount": 10
+        },
+        {
+          "text": "Then her eyes snapped back to her husband.",
+          "wordCount": 8
+        },
+        {
+          "text": "“Tell me what, Arthur?”",
+          "wordCount": 4
+        }
+      ]
+    },
+    {
+      "index": 22,
+      "sentences": [
+        {
+          "text": "Mr. Weasley hesitated.",
+          "wordCount": 3
+        },
+        {
+          "text": "Harry could tell that, however angry he was with Fred and George, he hadn’t really intended to tell Mrs. Weasley what had happened.",
+          "wordCount": 23
+        },
+        {
+          "text": "There was a silence, while Mr. Weasley eyed his wife nervously.",
+          "wordCount": 11
+        },
+        {
+          "text": "Then two girls appeared in the kitchen doorway behind Mrs. Weasley.",
+          "wordCount": 11
+        },
+        {
+          "text": "One, with very bushy brown hair and rather large front teeth, was Harry’s and Ron’s friend, Hermione Granger.",
+          "wordCount": 18
+        },
+        {
+          "text": "The other, who was small and red-haired, was Ron’s younger sister, Ginny.",
+          "wordCount": 12
+        },
+        {
+          "text": "Both of them smiled at Harry, who grinned back, which made Ginny go scarlet — she had been very taken with Harry ever since his first visit to the Burrow.",
+          "wordCount": 30
+        }
+      ]
+    },
+    {
+      "index": 23,
+      "sentences": [
+        {
+          "text": "“Tell me what, Arthur?”",
+          "wordCount": 4
+        },
+        {
+          "text": "Mrs. Weasley repeated, in a dangerous sort of voice.",
+          "wordCount": 9
+        }
+      ]
+    },
+    {
+      "index": 24,
+      "sentences": [
+        {
+          "text": "“It’s nothing, Molly,” mumbled Mr. Weasley, “Fred and George just — but I’ve had words with them —”",
+          "wordCount": 18
+        }
+      ]
+    },
+    {
+      "index": 25,
+      "sentences": [
+        {
+          "text": "“What have they done this time?” said Mrs. Weasley.",
+          "wordCount": 9
+        },
+        {
+          "text": "“If it’s got anything to do with Weasleys’ Wizard Wheezes —”",
+          "wordCount": 11
+        }
+      ]
+    },
+    {
+      "index": 26,
+      "sentences": [
+        {
+          "text": "“Why don’t you show Harry where he’s sleeping, Ron?” said Hermione from the doorway.",
+          "wordCount": 14
+        }
+      ]
+    },
+    {
+      "index": 27,
+      "sentences": [
+        {
+          "text": "“He knows where he’s sleeping,” said Ron, “in my room, he slept there last —”",
+          "wordCount": 15
+        }
+      ]
+    },
+    {
+      "index": 28,
+      "sentences": [
+        {
+          "text": "“We can all go,” said Hermione pointedly.",
+          "wordCount": 7
+        }
+      ]
+    },
+    {
+      "index": 29,
+      "sentences": [
+        {
+          "text": "“Oh,” said Ron, cottoning on.",
+          "wordCount": 5
+        },
+        {
+          "text": "“Right.”",
+          "wordCount": 1
+        }
+      ]
+    },
+    {
+      "index": 30,
+      "sentences": [
+        {
+          "text": "“Yeah, we’ll come too,” said George.",
+          "wordCount": 6
+        }
+      ]
+    },
+    {
+      "index": 31,
+      "sentences": [
+        {
+          "text": "“You stay where you are!” snarled Mrs. Weasley.",
+          "wordCount": 8
+        }
+      ]
+    },
+    {
+      "index": 32,
+      "sentences": [
+        {
+          "text": "Harry and Ron edged out of the kitchen, and they, Hermione, and Ginny set off along the narrow hallway and up the rickety staircase that zigzagged through the house to the upper stories.",
+          "wordCount": 33
+        }
+      ]
+    },
+    {
+      "index": 33,
+      "sentences": [
+        {
+          "text": "“What are Weasleys’ Wizard Wheezes?”",
+          "wordCount": 5
+        },
+        {
+          "text": "Harry asked as they climbed.",
+          "wordCount": 5
+        }
+      ]
+    },
+    {
+      "index": 34,
+      "sentences": [
+        {
+          "text": "Ron and Ginny both laughed, although Hermione didn’t.",
+          "wordCount": 8
+        }
+      ]
+    },
+    {
+      "index": 35,
+      "sentences": [
+        {
+          "text": "“Mum found this stack of order forms when she was cleaning Fred and George’s room,” said Ron quietly.",
+          "wordCount": 18
+        },
+        {
+          "text": "“Great long price lists for stuff they’ve invented.",
+          "wordCount": 8
+        },
+        {
+          "text": "Joke stuff, you know.",
+          "wordCount": 4
+        },
+        {
+          "text": "Fake wands and trick sweets, loads of stuff.",
+          "wordCount": 8
+        },
+        {
+          "text": "It was brilliant, I never knew they’d been inventing all that . . .”",
+          "wordCount": 14
+        }
+      ]
+    },
+    {
+      "index": 36,
+      "sentences": [
+        {
+          "text": "“We’ve been hearing explosions out of their room for ages, but we never thought they were actually making things,” said Ginny.",
+          "wordCount": 21
+        },
+        {
+          "text": "“We thought they just liked the noise.”",
+          "wordCount": 7
+        }
+      ]
+    },
+    {
+      "index": 37,
+      "sentences": [
+        {
+          "text": "“Only, most of the stuff — well, all of it, really — was a bit dangerous,” said Ron, “and, you know, they were planning to sell it at Hogwarts to make some money, and Mum went mad at them.",
+          "wordCount": 39
+        },
+        {
+          "text": "Told them they weren’t allowed to make any more of it, and burned all the order forms. . . .",
+          "wordCount": 20
+        },
+        {
+          "text": "She’s furious at them anyway.",
+          "wordCount": 5
+        },
+        {
+          "text": "They didn’t get as many O.W.L.s as she expected.”",
+          "wordCount": 9
+        }
+      ]
+    },
+    {
+      "index": 38,
+      "sentences": [
+        {
+          "text": "O.W.L.s were Ordinary Wizarding Levels, the examinations Hogwarts students took at the age of fifteen.",
+          "wordCount": 15
+        }
+      ]
+    },
+    {
+      "index": 39,
+      "sentences": [
+        {
+          "text": "“And then there was this big row,” Ginny said, “because Mum wants them to go into the Ministry of Magic like Dad, and they told her all they want to do is open a joke shop.”",
+          "wordCount": 36
+        }
+      ]
+    },
+    {
+      "index": 40,
+      "sentences": [
+        {
+          "text": "Just then a door on the second landing opened, and a face poked out wearing horn-rimmed glasses and a very annoyed expression.",
+          "wordCount": 22
+        }
+      ]
+    },
+    {
+      "index": 41,
+      "sentences": [
+        {
+          "text": "“Hi, Percy,” said Harry.",
+          "wordCount": 4
+        }
+      ]
+    },
+    {
+      "index": 42,
+      "sentences": [
+        {
+          "text": "“Oh hello, Harry,” said Percy.",
+          "wordCount": 5
+        },
+        {
+          "text": "“I was wondering who was making all the noise.",
+          "wordCount": 9
+        },
+        {
+          "text": "I’m trying to work in here, you know — I’ve got a report to finish for the office — and it’s rather difficult to concentrate when people keep thundering up and down the stairs.”",
+          "wordCount": 34
+        }
+      ]
+    },
+    {
+      "index": 43,
+      "sentences": [
+        {
+          "text": "“We’re not thundering,” said Ron irritably.",
+          "wordCount": 6
+        },
+        {
+          "text": "“We’re walking.",
+          "wordCount": 2
+        },
+        {
+          "text": "Sorry if we’ve disturbed the top-secret workings of the Ministry of Magic.”",
+          "wordCount": 12
+        }
+      ]
+    },
+    {
+      "index": 44,
+      "sentences": [
+        {
+          "text": "“What are you working on?” said Harry.",
+          "wordCount": 7
+        }
+      ]
+    },
+    {
+      "index": 45,
+      "sentences": [
+        {
+          "text": "“A report for the Department of International Magical Cooperation,” said Percy smugly.",
+          "wordCount": 12
+        },
+        {
+          "text": "“We’re trying to standardize cauldron thickness.",
+          "wordCount": 6
+        },
+        {
+          "text": "Some of these foreign imports are just a shade too thin — leakages have been increasing at a rate of almost three per-cent a year —”",
+          "wordCount": 26
+        }
+      ]
+    },
+    {
+      "index": 46,
+      "sentences": [
+        {
+          "text": "“That’ll change the world, that report will,” said Ron.",
+          "wordCount": 9
+        },
+        {
+          "text": "“Front page of the Daily Prophet, I expect, cauldron leaks.”",
+          "wordCount": 10
+        }
+      ]
+    },
+    {
+      "index": 47,
+      "sentences": [
+        {
+          "text": "Percy went slightly pink.",
+          "wordCount": 4
+        }
+      ]
+    },
+    {
+      "index": 48,
+      "sentences": [
+        {
+          "text": "“You might sneer, Ron,” he said heatedly, “but unless some sort of international law is imposed we might well find the market flooded with flimsy, shallow-bottomed products that seriously endanger —”",
+          "wordCount": 31
+        }
+      ]
+    },
+    {
+      "index": 49,
+      "sentences": [
+        {
+          "text": "“Yeah, yeah, all right,” said Ron, and he started off upstairs again.",
+          "wordCount": 12
+        },
+        {
+          "text": "Percy slammed his bedroom door shut.",
+          "wordCount": 6
+        },
+        {
+          "text": "As Harry, Hermione, and Ginny followed Ron up three more flights of stairs, shouts from the kitchen below echoed up to them.",
+          "wordCount": 22
+        },
+        {
+          "text": "It sounded as though Mr. Weasley had told Mrs. Weasley about the toffees.",
+          "wordCount": 13
+        }
+      ]
+    },
+    {
+      "index": 50,
+      "sentences": [
+        {
+          "text": "The room at the top of the house where Ron slept looked much as it had the last time that Harry had come to stay: the same posters of Ron’s favorite Quidditch team, the Chudley Cannons, were whirling and waving on the walls and sloping ceiling, and the fish tank on the windowsill, which had previously held frog spawn, now contained one extremely large frog.",
+          "wordCount": 65
+        },
+        {
+          "text": "Ron’s old rat, Scabbers, was here no more, but instead there was the tiny gray owl that had delivered Ron’s letter to Harry in Privet Drive.",
+          "wordCount": 26
+        },
+        {
+          "text": "It was hopping up and down in a small cage and twittering madly.",
+          "wordCount": 13
+        }
+      ]
+    },
+    {
+      "index": 51,
+      "sentences": [
+        {
+          "text": "“Shut up, Pig,” said Ron, edging his way between two of the four beds that had been squeezed into the room.",
+          "wordCount": 21
+        },
+        {
+          "text": "“Fred and George are in here with us, because Bill and Charlie are in their room,” he told Harry.",
+          "wordCount": 19
+        },
+        {
+          "text": "“Percy gets to keep his room all to himself because he’s got to work.”",
+          "wordCount": 14
+        }
+      ]
+    },
+    {
+      "index": 52,
+      "sentences": [
+        {
+          "text": "“Er — why are you calling that owl Pig?”",
+          "wordCount": 9
+        },
+        {
+          "text": "Harry asked Ron.",
+          "wordCount": 3
+        }
+      ]
+    },
+    {
+      "index": 53,
+      "sentences": [
+        {
+          "text": "“Because he’s being stupid,” said Ginny.",
+          "wordCount": 6
+        },
+        {
+          "text": "“Its proper name is Pigwidgeon.”",
+          "wordCount": 5
+        }
+      ]
+    },
+    {
+      "index": 54,
+      "sentences": [
+        {
+          "text": "“Yeah, and that’s not a stupid name at all,” said Ron sarcastically.",
+          "wordCount": 12
+        },
+        {
+          "text": "“Ginny named him,” he explained to Harry.",
+          "wordCount": 7
+        },
+        {
+          "text": "“She reckons it’s sweet.",
+          "wordCount": 4
+        },
+        {
+          "text": "And I tried to change it, but it was too late, he won’t answer to anything else.",
+          "wordCount": 17
+        },
+        {
+          "text": "So now he’s Pig.",
+          "wordCount": 4
+        },
+        {
+          "text": "I’ve got to keep him up here because he annoys Errol and Hermes.",
+          "wordCount": 13
+        },
+        {
+          "text": "He annoys me too, come to that.”",
+          "wordCount": 7
+        }
+      ]
+    },
+    {
+      "index": 55,
+      "sentences": [
+        {
+          "text": "Pigwidgeon zoomed happily around his cage, hooting shrilly.",
+          "wordCount": 8
+        },
+        {
+          "text": "Harry knew Ron too well to take him seriously.",
+          "wordCount": 9
+        },
+        {
+          "text": "He had moaned continually about his old rat, Scabbers, but had been most upset when Hermione’s cat, Crookshanks, appeared to have eaten him.",
+          "wordCount": 23
+        }
+      ]
+    },
+    {
+      "index": 56,
+      "sentences": [
+        {
+          "text": "“Where’s Crookshanks?”",
+          "wordCount": 2
+        },
+        {
+          "text": "Harry asked Hermione now.",
+          "wordCount": 4
+        }
+      ]
+    },
+    {
+      "index": 57,
+      "sentences": [
+        {
+          "text": "“Out in the garden, I expect,” she said.",
+          "wordCount": 8
+        },
+        {
+          "text": "“He likes chasing gnomes.",
+          "wordCount": 4
+        },
+        {
+          "text": "He’s never seen any before.”",
+          "wordCount": 5
+        }
+      ]
+    },
+    {
+      "index": 58,
+      "sentences": [
+        {
+          "text": "“Percy’s enjoying work, then?” said Harry, sitting down on one of the beds and watching the Chudley Cannons zooming in and out of the posters on the ceiling.",
+          "wordCount": 28
+        }
+      ]
+    },
+    {
+      "index": 59,
+      "sentences": [
+        {
+          "text": "“Enjoying it?” said Ron darkly.",
+          "wordCount": 5
+        },
+        {
+          "text": "“I don’t reckon he’d come home if Dad didn’t make him.",
+          "wordCount": 11
+        },
+        {
+          "text": "He’s obsessed.",
+          "wordCount": 2
+        },
+        {
+          "text": "Just don’t get him onto the subject of his boss.",
+          "wordCount": 10
+        },
+        {
+          "text": "According to Mr. Crouch . . . as I was saying to Mr. Crouch . . .",
+          "wordCount": 17
+        },
+        {
+          "text": "Mr. Crouch is of the opinion . . .",
+          "wordCount": 9
+        },
+        {
+          "text": "Mr. Crouch was telling me . . .",
+          "wordCount": 8
+        },
+        {
+          "text": "They’ll be announcing their engagement any day now.”",
+          "wordCount": 8
+        }
+      ]
+    },
+    {
+      "index": 60,
+      "sentences": [
+        {
+          "text": "“Have you had a good summer, Harry?” said Hermione.",
+          "wordCount": 9
+        },
+        {
+          "text": "“Did you get our food parcels and everything?”",
+          "wordCount": 8
+        }
+      ]
+    },
+    {
+      "index": 61,
+      "sentences": [
+        {
+          "text": "“Yeah, thanks a lot,” said Harry.",
+          "wordCount": 6
+        },
+        {
+          "text": "“They saved my life, those cakes.”",
+          "wordCount": 6
+        }
+      ]
+    },
+    {
+      "index": 62,
+      "sentences": [
+        {
+          "text": "“And have you heard from — ?”",
+          "wordCount": 7
+        },
+        {
+          "text": "Ron began, but at a look from Hermione he fell silent.",
+          "wordCount": 11
+        },
+        {
+          "text": "Harry knew Ron had been about to ask about Sirius.",
+          "wordCount": 10
+        },
+        {
+          "text": "Ron and Hermione had been so deeply involved in helping Sirius escape from the Ministry of Magic that they were almost as concerned about Harry’s godfather as he was.",
+          "wordCount": 29
+        },
+        {
+          "text": "However, discussing him in front of Ginny was a bad idea.",
+          "wordCount": 11
+        },
+        {
+          "text": "Nobody but themselves and Professor Dumbledore knew about how Sirius had escaped, or believed in his innocence.",
+          "wordCount": 17
+        }
+      ]
+    },
+    {
+      "index": 63,
+      "sentences": [
+        {
+          "text": "“I think they’ve stopped arguing,” said Hermione, to cover the awkward moment, because Ginny was looking curiously from Ron to Harry.",
+          "wordCount": 21
+        },
+        {
+          "text": "“Shall we go down and help your mum with dinner?”",
+          "wordCount": 10
+        }
+      ]
+    },
+    {
+      "index": 64,
+      "sentences": [
+        {
+          "text": "“Yeah, all right,” said Ron.",
+          "wordCount": 5
+        },
+        {
+          "text": "The four of them left Ron’s room and went back downstairs to find Mrs. Weasley alone in the kitchen, looking extremely bad-tempered.",
+          "wordCount": 22
+        }
+      ]
+    },
+    {
+      "index": 65,
+      "sentences": [
+        {
+          "text": "“We’re eating out in the garden,” she said when they came in.",
+          "wordCount": 12
+        },
+        {
+          "text": "“There’s just not room for eleven people in here.",
+          "wordCount": 9
+        },
+        {
+          "text": "Could you take the plates outside, girls?",
+          "wordCount": 7
+        },
+        {
+          "text": "Bill and Charlie are setting up the tables.",
+          "wordCount": 8
+        },
+        {
+          "text": "Knives and forks, please, you two,” she said to Ron and Harry, pointing her wand a little more vigorously than she had intended at a pile of potatoes in the sink, which shot out of their skins so fast that they ricocheted off the walls and ceiling.",
+          "wordCount": 47
+        }
+      ]
+    },
+    {
+      "index": 66,
+      "sentences": [
+        {
+          "text": "“Oh for heaven’s sake,” she snapped, now directing her wand at a dustpan, which hopped off the sideboard and started skating across the floor, scooping up the potatoes.",
+          "wordCount": 28
+        },
+        {
+          "text": "“Those two!” she burst out savagely, now pulling pots and pans out of a cupboard, and Harry knew she meant Fred and George.",
+          "wordCount": 23
+        },
+        {
+          "text": "“I don’t know what’s going to happen to them, I really don’t.",
+          "wordCount": 12
+        },
+        {
+          "text": "No ambition, unless you count making as much trouble as they possibly can. . . .”",
+          "wordCount": 16
+        }
+      ]
+    },
+    {
+      "index": 67,
+      "sentences": [
+        {
+          "text": "Mrs. Weasley slammed a large copper saucepan down on the kitchen table and began to wave her wand around inside it.",
+          "wordCount": 21
+        },
+        {
+          "text": "A creamy sauce poured from the wand tip as she stirred.",
+          "wordCount": 11
+        }
+      ]
+    },
+    {
+      "index": 68,
+      "sentences": [
+        {
+          "text": "“It’s not as though they haven’t got brains,” she continued irritably, taking the saucepan over to the stove and lighting it with a further poke of her wand, “but they’re wasting them, and unless they pull themselves together soon, they’ll be in real trouble.",
+          "wordCount": 44
+        },
+        {
+          "text": "I’ve had more owls from Hogwarts about them than the rest put together.",
+          "wordCount": 13
+        },
+        {
+          "text": "If they carry on the way they’re going, they’ll end up in front of the Improper Use of Magic Office.”",
+          "wordCount": 20
+        }
+      ]
+    },
+    {
+      "index": 69,
+      "sentences": [
+        {
+          "text": "Mrs. Weasley jabbed her wand at the cutlery drawer, which shot open.",
+          "wordCount": 12
+        },
+        {
+          "text": "Harry and Ron both jumped out of the way as several knives soared out of it, flew across the kitchen, and began chopping the potatoes, which had just been tipped back into the sink by the dustpan.",
+          "wordCount": 37
+        }
+      ]
+    },
+    {
+      "index": 70,
+      "sentences": [
+        {
+          "text": "“I don’t know where we went wrong with them,” said Mrs. Weasley, putting down her wand and starting to pull out still more saucepans.",
+          "wordCount": 24
+        },
+        {
+          "text": "“It’s been the same for years, one thing after another, and they won’t listen to — OH NOT AGAIN !”",
+          "wordCount": 20
+        }
+      ]
+    },
+    {
+      "index": 71,
+      "sentences": [
+        {
+          "text": "She had picked up her wand from the table, and it had emitted a loud squeak and turned into a giant rubber mouse.",
+          "wordCount": 23
+        }
+      ]
+    },
+    {
+      "index": 72,
+      "sentences": [
+        {
+          "text": "“One of their fake wands again!” she shouted.",
+          "wordCount": 8
+        },
+        {
+          "text": "“How many times have I told them not to leave them lying around?”",
+          "wordCount": 13
+        }
+      ]
+    },
+    {
+      "index": 73,
+      "sentences": [
+        {
+          "text": "She grabbed her real wand and turned around to find that the sauce on the stove was smoking.",
+          "wordCount": 18
+        }
+      ]
+    },
+    {
+      "index": 74,
+      "sentences": [
+        {
+          "text": "“C’mon,” Ron said hurriedly to Harry, seizing a handful of cutlery from the open drawer, “let’s go and help Bill and Charlie.”",
+          "wordCount": 22
+        }
+      ]
+    },
+    {
+      "index": 75,
+      "sentences": [
+        {
+          "text": "They left Mrs. Weasley and headed out the back door into the yard.",
+          "wordCount": 13
+        }
+      ]
+    },
+    {
+      "index": 76,
+      "sentences": [
+        {
+          "text": "They had only gone a few paces when Hermione’s bandy-legged ginger cat, Crookshanks, came pelting out of the garden, bottle-brush tail held high in the air, chasing what looked like a muddy potato on legs.",
+          "wordCount": 35
+        },
+        {
+          "text": "Harry recognized it instantly as a gnome.",
+          "wordCount": 7
+        },
+        {
+          "text": "Barely ten inches high, its horny little feet pattered very fast as it sprinted across the yard and dived headlong into one of the Wellington boots that lay scattered around the door.",
+          "wordCount": 32
+        },
+        {
+          "text": "Harry could hear the gnome giggling madly as Crookshanks inserted a paw into the boot, trying to reach it.",
+          "wordCount": 19
+        },
+        {
+          "text": "Meanwhile, a very loud crashing noise was coming from the other side of the house.",
+          "wordCount": 15
+        },
+        {
+          "text": "The source of the commotion was revealed as they entered the garden, and saw that Bill and Charlie both had their wands out, and were making two bat-tered old tables fly high above the lawn, smashing into each other, each attempting to knock the other’s out of the air.",
+          "wordCount": 49
+        },
+        {
+          "text": "Fred and George were cheering, Ginny was laughing, and Hermione was hovering near the hedge, apparently torn between amusement and anxiety.",
+          "wordCount": 21
+        }
+      ]
+    },
+    {
+      "index": 77,
+      "sentences": [
+        {
+          "text": "Bill’s table caught Charlie’s with a huge bang and knocked one of its legs off.",
+          "wordCount": 15
+        },
+        {
+          "text": "There was a clatter from overhead, and they all looked up to see Percy’s head poking out of a window on the second floor.",
+          "wordCount": 24
+        }
+      ]
+    },
+    {
+      "index": 78,
+      "sentences": [
+        {
+          "text": "“Will you keep it down?!” he bellowed.",
+          "wordCount": 7
+        }
+      ]
+    },
+    {
+      "index": 79,
+      "sentences": [
+        {
+          "text": "“Sorry, Perce,” said Bill, grinning.",
+          "wordCount": 5
+        },
+        {
+          "text": "“How’re the cauldron bottoms coming on?”",
+          "wordCount": 6
+        }
+      ]
+    },
+    {
+      "index": 80,
+      "sentences": [
+        {
+          "text": "“Very badly,” said Percy peevishly, and he slammed the window shut.",
+          "wordCount": 11
+        },
+        {
+          "text": "Chuckling, Bill and Charlie directed the tables safely onto the grass, end to end, and then, with a flick of his wand, Bill reattached the table leg and conjured tablecloths from nowhere.",
+          "wordCount": 32
+        }
+      ]
+    },
+    {
+      "index": 81,
+      "sentences": [
+        {
+          "text": "By seven o’clock, the two tables were groaning under dishes and dishes of Mrs. Weasley’s excellent cooking, and the nine Weasleys, Harry, and Hermione were settling themselves down to eat beneath a clear, deep-blue sky.",
+          "wordCount": 35
+        },
+        {
+          "text": "To somebody who had been living on meals of increasingly stale cake all summer, this was paradise, and at first, Harry listened rather than talked as he helped himself to chicken and ham pie, boiled potatoes, and salad.",
+          "wordCount": 38
+        }
+      ]
+    },
+    {
+      "index": 82,
+      "sentences": [
+        {
+          "text": "At the far end of the table, Percy was telling his father all about his report on cauldron bottoms.",
+          "wordCount": 19
+        }
+      ]
+    },
+    {
+      "index": 83,
+      "sentences": [
+        {
+          "text": "“I’ve told Mr. Crouch that I’ll have it ready by Tuesday,” Percy was saying pompously.",
+          "wordCount": 15
+        },
+        {
+          "text": "“That’s a bit sooner than he expected it, but I like to keep on top of things.",
+          "wordCount": 17
+        },
+        {
+          "text": "I think he’ll be grateful I’ve done it in good time, I mean, it’s extremely busy in our department just now, what with all the arrangements for the World Cup.",
+          "wordCount": 30
+        },
+        {
+          "text": "We’re just not getting the support we need from the Department of Magical Games and Sports.",
+          "wordCount": 16
+        },
+        {
+          "text": "Ludo Bagman —”",
+          "wordCount": 3
+        }
+      ]
+    },
+    {
+      "index": 84,
+      "sentences": [
+        {
+          "text": "“I like Ludo,” said Mr. Weasley mildly.",
+          "wordCount": 7
+        },
+        {
+          "text": "“He was the one who got us such good tickets for the Cup.",
+          "wordCount": 13
+        },
+        {
+          "text": "I did him a bit of a favor: His brother, Otto, got into a spot of trouble — a lawnmower with unnatural powers — I smoothed the whole thing over.”",
+          "wordCount": 30
+        }
+      ]
+    },
+    {
+      "index": 85,
+      "sentences": [
+        {
+          "text": "“Oh Bagman’s likable enough, of course,” said Percy dismissively, “but how he ever got to be Head of Department . . . when I compare him to Mr. Crouch!",
+          "wordCount": 29
+        },
+        {
+          "text": "I can’t see Mr. Crouch losing a member of our department and not trying to find out what’s happened to them.",
+          "wordCount": 21
+        },
+        {
+          "text": "You realize Bertha Jorkins has been missing for over a month now?",
+          "wordCount": 12
+        },
+        {
+          "text": "Went on holiday to Albania and never came back?”",
+          "wordCount": 9
+        }
+      ]
+    },
+    {
+      "index": 86,
+      "sentences": [
+        {
+          "text": "“Yes, I was asking Ludo about that,” said Mr. Weasley, frowning.",
+          "wordCount": 11
+        },
+        {
+          "text": "“He says Bertha’s gotten lost plenty of times before now — though I must say, if it was someone in my department, I’d be worried. . . .”",
+          "wordCount": 28
+        }
+      ]
+    },
+    {
+      "index": 87,
+      "sentences": [
+        {
+          "text": "“Oh Bertha’s hopeless, all right,” said Percy.",
+          "wordCount": 7
+        },
+        {
+          "text": "“I hear she’s been shunted from department to department for years, much more trouble than she’s worth . . . but all the same, Bagman ought to be trying to find her.",
+          "wordCount": 32
+        },
+        {
+          "text": "Mr. Crouch has been taking a personal interest, she worked in our department at one time, you know, and I think Mr. Crouch was quite fond of her — but Bagman just keeps laughing and saying she probably misread the map and ended up in Australia instead of Albania.",
+          "wordCount": 49
+        },
+        {
+          "text": "However” — Percy heaved an impressive sigh and took a deep swig of elderflower wine — “we’ve got quite enough on our plates at the Department of International Magical Cooperation without trying to find members of other departments too.",
+          "wordCount": 39
+        },
+        {
+          "text": "As you know, we’ve got another big event to organize right after the World Cup.”",
+          "wordCount": 15
+        }
+      ]
+    },
+    {
+      "index": 88,
+      "sentences": [
+        {
+          "text": "Percy cleared his throat significantly and looked down toward the end of the table where Harry, Ron, and Hermione were sitting.",
+          "wordCount": 21
+        },
+        {
+          "text": "“You know the one I’m talking about, Father.”",
+          "wordCount": 8
+        },
+        {
+          "text": "He raised his voice slightly.",
+          "wordCount": 5
+        },
+        {
+          "text": "“The top-secret one.”",
+          "wordCount": 3
+        }
+      ]
+    },
+    {
+      "index": 89,
+      "sentences": [
+        {
+          "text": "Ron rolled his eyes and muttered to Harry and Hermione, “He’s been trying to get us to ask what that event is ever since he started work.",
+          "wordCount": 27
+        },
+        {
+          "text": "Probably an exhibition of thick-bottomed cauldrons.”",
+          "wordCount": 6
+        }
+      ]
+    },
+    {
+      "index": 90,
+      "sentences": [
+        {
+          "text": "In the middle of the table, Mrs. Weasley was arguing with Bill about his earring, which seemed to be a recent acquisition.",
+          "wordCount": 22
+        }
+      ]
+    },
+    {
+      "index": 91,
+      "sentences": [
+        {
+          "text": "“. . . with a horrible great fang on it.",
+          "wordCount": 10
+        },
+        {
+          "text": "Really, Bill, what do they say at the bank?”",
+          "wordCount": 9
+        }
+      ]
+    },
+    {
+      "index": 92,
+      "sentences": [
+        {
+          "text": "“Mum, no one at the bank gives a damn how I dress as long as I bring home plenty of treasure,” said Bill patiently.",
+          "wordCount": 24
+        }
+      ]
+    },
+    {
+      "index": 93,
+      "sentences": [
+        {
+          "text": "“And your hair’s getting silly, dear,” said Mrs. Weasley, fingering her wand lovingly.",
+          "wordCount": 13
+        },
+        {
+          "text": "“I wish you’d let me give it a trim. . . .”",
+          "wordCount": 12
+        }
+      ]
+    },
+    {
+      "index": 94,
+      "sentences": [
+        {
+          "text": "“I like it,” said Ginny, who was sitting beside Bill.",
+          "wordCount": 10
+        },
+        {
+          "text": "“You’re so old-fashioned, Mum.",
+          "wordCount": 4
+        },
+        {
+          "text": "Anyway, it’s nowhere near as long as Professor Dumbledore’s. . . .”",
+          "wordCount": 12
+        }
+      ]
+    },
+    {
+      "index": 95,
+      "sentences": [
+        {
+          "text": "Next to Mrs. Weasley, Fred, George, and Charlie were all talking spiritedly about the World Cup.",
+          "wordCount": 16
+        }
+      ]
+    },
+    {
+      "index": 96,
+      "sentences": [
+        {
+          "text": "“It’s got to be Ireland,” said Charlie thickly, through a mouthful of potato.",
+          "wordCount": 13
+        },
+        {
+          "text": "“They flattened Peru in the semifinals.”",
+          "wordCount": 6
+        }
+      ]
+    },
+    {
+      "index": 97,
+      "sentences": [
+        {
+          "text": "“Bulgaria has got Viktor Krum, though,” said Fred.",
+          "wordCount": 8
+        }
+      ]
+    },
+    {
+      "index": 98,
+      "sentences": [
+        {
+          "text": "“Krum’s one decent player, Ireland has got seven,” said Charlie shortly.",
+          "wordCount": 11
+        },
+        {
+          "text": "“I wish England had got through.",
+          "wordCount": 6
+        },
+        {
+          "text": "That was embarrassing, that was.”",
+          "wordCount": 5
+        }
+      ]
+    },
+    {
+      "index": 99,
+      "sentences": [
+        {
+          "text": "“What happened?” said Harry eagerly, regretting more than ever his isolation from the wizarding world when he was stuck on Privet Drive.",
+          "wordCount": 22
+        }
+      ]
+    },
+    {
+      "index": 100,
+      "sentences": [
+        {
+          "text": "“Went down to Transylvania, three hundred and ninety to ten,” said Charlie gloomily.",
+          "wordCount": 13
+        },
+        {
+          "text": "“Shocking performance.",
+          "wordCount": 2
+        },
+        {
+          "text": "And Wales lost to Uganda, and Scotland was slaughtered by Luxembourg.”",
+          "wordCount": 11
+        }
+      ]
+    },
+    {
+      "index": 101,
+      "sentences": [
+        {
+          "text": "Harry had been on the Gryffindor House Quidditch team ever since his first year at Hogwarts and owned one of the best racing brooms in the world, a Firebolt.",
+          "wordCount": 29
+        },
+        {
+          "text": "Flying came more naturally to Harry than anything else in the magical world, and he played in the position of Seeker on the Gryffindor House team.",
+          "wordCount": 26
+        }
+      ]
+    },
+    {
+      "index": 102,
+      "sentences": [
+        {
+          "text": "Mr. Weasley conjured up candles to light the darkening garden before they had their homemade strawberry ice cream, and by the time they had finished, moths were fluttering low over the table, and the warm air was perfumed with the smells of grass and honeysuckle.",
+          "wordCount": 45
+        },
+        {
+          "text": "Harry was feeling extremely well fed and at peace with the world as he watched several gnomes sprinting through the rosebushes, laughing madly and closely pursued by Crookshanks.",
+          "wordCount": 28
+        }
+      ]
+    },
+    {
+      "index": 103,
+      "sentences": [
+        {
+          "text": "Ron looked carefully up the table to check that the rest of the family were all busy talking, then he said very quietly to Harry, “So — have you heard from Sirius lately?”",
+          "wordCount": 33
+        }
+      ]
+    },
+    {
+      "index": 104,
+      "sentences": [
+        {
+          "text": "Hermione looked around, listening closely.",
+          "wordCount": 5
+        }
+      ]
+    },
+    {
+      "index": 105,
+      "sentences": [
+        {
+          "text": "“Yeah,” said Harry softly, “twice.",
+          "wordCount": 5
+        },
+        {
+          "text": "He sounds okay.",
+          "wordCount": 3
+        },
+        {
+          "text": "I wrote to him yesterday.",
+          "wordCount": 5
+        },
+        {
+          "text": "He might write back while I’m here.”",
+          "wordCount": 7
+        }
+      ]
+    },
+    {
+      "index": 106,
+      "sentences": [
+        {
+          "text": "He suddenly remembered the reason he had written to Sirius, and for a moment was on the verge of telling Ron and Hermione about his scar hurting again, and about the dream that had awoken him . . . but he really didn’t want to worry them just now, not when he himself was feeling so happy and peaceful.",
+          "wordCount": 59
+        }
+      ]
+    },
+    {
+      "index": 107,
+      "sentences": [
+        {
+          "text": "“Look at the time,” Mrs. Weasley said suddenly, checking her wristwatch.",
+          "wordCount": 11
+        },
+        {
+          "text": "“You really should be in bed, the whole lot of you — you’ll be up at the crack of dawn to get to the Cup.",
+          "wordCount": 25
+        },
+        {
+          "text": "Harry, if you leave your school list out, I’ll get your things for you tomorrow in Diagon Alley.",
+          "wordCount": 18
+        },
+        {
+          "text": "I’m getting everyone else’s.",
+          "wordCount": 4
+        },
+        {
+          "text": "There might not be time after the World Cup, the match went on for five days last time.”",
+          "wordCount": 18
+        }
+      ]
+    },
+    {
+      "index": 108,
+      "sentences": [
+        {
+          "text": "“Wow — hope it does this time!” said Harry enthusiastically.",
+          "wordCount": 10
+        }
+      ]
+    },
+    {
+      "index": 109,
+      "sentences": [
+        {
+          "text": "“Well, I certainly don’t,” said Percy sanctimoniously.",
+          "wordCount": 7
+        },
+        {
+          "text": "“I shudder to think what the state of my in-tray would be if I was away from work for five days.”",
+          "wordCount": 21
+        }
+      ]
+    },
+    {
+      "index": 110,
+      "sentences": [
+        {
+          "text": "“Yeah, someone might slip dragon dung in it again, eh, Perce?” said Fred.",
+          "wordCount": 13
+        }
+      ]
+    },
+    {
+      "index": 111,
+      "sentences": [
+        {
+          "text": "“That was a sample of fertilizer from Norway!” said Percy, going very red in the face.",
+          "wordCount": 16
+        },
+        {
+          "text": "“It was nothing personal!”",
+          "wordCount": 4
+        }
+      ]
+    },
+    {
+      "index": 112,
+      "sentences": [
+        {
+          "text": "“It was,” Fred whispered to Harry as they got up from the table.",
+          "wordCount": 13
+        },
+        {
+          "text": "“We sent it.”",
+          "wordCount": 3
+        }
+      ]
+    }
+  ]
+}

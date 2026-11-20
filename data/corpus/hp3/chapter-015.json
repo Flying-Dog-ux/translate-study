@@ -1,0 +1,2878 @@
+{
+  "bookId": "hp3",
+  "chapterIndex": 15,
+  "title": "The Quidditch Final",
+  "paragraphs": [
+    {
+      "index": 0,
+      "sentences": [
+        {
+          "text": "He — he sent me this,” Hermione said, holding out the letter.",
+          "wordCount": 12
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "sentences": [
+        {
+          "text": "Harry took it.",
+          "wordCount": 3
+        },
+        {
+          "text": "The parchment was damp, and enormous teardrops had smudged the ink so badly in places that it was very difficult to read.",
+          "wordCount": 22
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "sentences": [
+        {
+          "text": "Dear Hermione, We lost.",
+          "wordCount": 4
+        },
+        {
+          "text": "I’m allowed to bring him back to Hogwarts.",
+          "wordCount": 8
+        },
+        {
+          "text": "Execution date to be fixed.",
+          "wordCount": 5
+        },
+        {
+          "text": "Beaky has enjoyed London.",
+          "wordCount": 4
+        },
+        {
+          "text": "I won’t forget all the help you gave us.",
+          "wordCount": 9
+        },
+        {
+          "text": "Hagrid",
+          "wordCount": 1
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "sentences": [
+        {
+          "text": "“They can’t do this,” said Harry.",
+          "wordCount": 6
+        },
+        {
+          "text": "“They can’t.",
+          "wordCount": 2
+        },
+        {
+          "text": "Buckbeak isn’t dangerous.”",
+          "wordCount": 3
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "sentences": [
+        {
+          "text": "“Malfoy’s dad’s frightened the Committee into it,” said Hermione, wiping her eyes.",
+          "wordCount": 12
+        },
+        {
+          "text": "“You know what he’s like.",
+          "wordCount": 5
+        },
+        {
+          "text": "They’re a bunch of doddery old fools, and they were scared.",
+          "wordCount": 11
+        },
+        {
+          "text": "There’ll be an appeal, though, there always is.",
+          "wordCount": 8
+        },
+        {
+          "text": "Only I can’t see any hope. . . .",
+          "wordCount": 9
+        },
+        {
+          "text": "Nothing will have changed.”",
+          "wordCount": 4
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "sentences": [
+        {
+          "text": "“Yeah, it will,” said Ron fiercely.",
+          "wordCount": 6
+        },
+        {
+          "text": "“You won’t have to do all the work alone this time, Hermione.",
+          "wordCount": 12
+        },
+        {
+          "text": "I’ll help.”",
+          "wordCount": 2
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "sentences": [
+        {
+          "text": "“Oh, Ron!”",
+          "wordCount": 2
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "sentences": [
+        {
+          "text": "Hermione flung her arms around Ron’s neck and broke down completely.",
+          "wordCount": 11
+        },
+        {
+          "text": "Ron, looking quite terrified, patted her very awkwardly on the top of the head.",
+          "wordCount": 14
+        },
+        {
+          "text": "Finally, Hermione drew away.",
+          "wordCount": 4
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "sentences": [
+        {
+          "text": "“Ron, I’m really, really sorry about Scabbers . . . ,” she sobbed.",
+          "wordCount": 13
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "sentences": [
+        {
+          "text": "“Oh — well — he was old,” said Ron, looking thoroughly relieved that she had let go of him.",
+          "wordCount": 19
+        },
+        {
+          "text": "“And he was a bit useless.",
+          "wordCount": 6
+        },
+        {
+          "text": "You never know, Mum and Dad might get me an owl now.”",
+          "wordCount": 12
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "sentences": [
+        {
+          "text": "The safety measures imposed on the students since Black’s second break-in made it impossible for Harry, Ron, and Hermione to go and visit Hagrid in the evenings.",
+          "wordCount": 27
+        },
+        {
+          "text": "Their only chance of talking to him was during Care of Magical Creatures lessons.",
+          "wordCount": 14
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "sentences": [
+        {
+          "text": "He seemed numb with shock at the verdict.",
+          "wordCount": 8
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "sentences": [
+        {
+          "text": "“S’all my fault.",
+          "wordCount": 3
+        },
+        {
+          "text": "Got all tongue-tied.",
+          "wordCount": 3
+        },
+        {
+          "text": "They was all sittin’ there in black robes an’ I kep’ droppin’ me notes and forgettin’ all them dates yeh looked up fer me, Hermione.",
+          "wordCount": 25
+        },
+        {
+          "text": "An’ then Lucius Malfoy stood up an’ said his bit, and the Committee jus’ did exac’ly what he told ’em. . . .”",
+          "wordCount": 23
+        }
+      ]
+    },
+    {
+      "index": 13,
+      "sentences": [
+        {
+          "text": "“There’s still the appeal!” said Ron fiercely.",
+          "wordCount": 7
+        },
+        {
+          "text": "“Don’t give up yet, we’re working on it!”",
+          "wordCount": 8
+        }
+      ]
+    },
+    {
+      "index": 14,
+      "sentences": [
+        {
+          "text": "They were walking back up to the castle with the rest of the class.",
+          "wordCount": 14
+        },
+        {
+          "text": "Ahead they could see Malfoy, who was walking with Crabbe and Goyle, and kept looking back, laughing derisively.",
+          "wordCount": 18
+        }
+      ]
+    },
+    {
+      "index": 15,
+      "sentences": [
+        {
+          "text": "“S’no good, Ron,” said Hagrid sadly as they reached the castle steps.",
+          "wordCount": 12
+        },
+        {
+          "text": "“That Committee’s in Lucius Malfoy’s pocket.",
+          "wordCount": 6
+        },
+        {
+          "text": "I’m jus’ gonna make sure the rest o’ Beaky’s time is the happiest he’s ever had.",
+          "wordCount": 16
+        },
+        {
+          "text": "I owe him that. . . .”",
+          "wordCount": 7
+        }
+      ]
+    },
+    {
+      "index": 16,
+      "sentences": [
+        {
+          "text": "Hagrid turned around and hurried back toward his cabin, his face buried in his handkerchief.",
+          "wordCount": 15
+        }
+      ]
+    },
+    {
+      "index": 17,
+      "sentences": [
+        {
+          "text": "“Look at him blubber!”",
+          "wordCount": 4
+        }
+      ]
+    },
+    {
+      "index": 18,
+      "sentences": [
+        {
+          "text": "Malfoy, Crabbe, and Goyle had been standing just inside the castle doors, listening.",
+          "wordCount": 13
+        }
+      ]
+    },
+    {
+      "index": 19,
+      "sentences": [
+        {
+          "text": "“Have you ever seen anything quite as pathetic?” said Malfoy.",
+          "wordCount": 10
+        },
+        {
+          "text": "“And he’s supposed to be our teacher!”",
+          "wordCount": 7
+        }
+      ]
+    },
+    {
+      "index": 20,
+      "sentences": [
+        {
+          "text": "Harry and Ron both made furious moves toward Malfoy, but Hermione got there first — SMACK!",
+          "wordCount": 16
+        }
+      ]
+    },
+    {
+      "index": 21,
+      "sentences": [
+        {
+          "text": "She had slapped Malfoy across the face with all the strength she could muster.",
+          "wordCount": 14
+        },
+        {
+          "text": "Malfoy staggered.",
+          "wordCount": 2
+        },
+        {
+          "text": "Harry, Ron, Crabbe, and Goyle stood flabbergasted as Hermione raised her hand again.",
+          "wordCount": 13
+        }
+      ]
+    },
+    {
+      "index": 22,
+      "sentences": [
+        {
+          "text": "“Don’t you dare call Hagrid pathetic, you foul — you evil —”",
+          "wordCount": 12
+        }
+      ]
+    },
+    {
+      "index": 23,
+      "sentences": [
+        {
+          "text": "“Hermione!” said Ron weakly, and he tried to grab her hand as she swung it back.",
+          "wordCount": 16
+        }
+      ]
+    },
+    {
+      "index": 24,
+      "sentences": [
+        {
+          "text": "“Get off, Ron!”",
+          "wordCount": 3
+        }
+      ]
+    },
+    {
+      "index": 25,
+      "sentences": [
+        {
+          "text": "Hermione pulled out her wand.",
+          "wordCount": 5
+        },
+        {
+          "text": "Malfoy stepped backward.",
+          "wordCount": 3
+        },
+        {
+          "text": "Crabbe and Goyle looked at him for instructions, thoroughly bewildered.",
+          "wordCount": 10
+        }
+      ]
+    },
+    {
+      "index": 26,
+      "sentences": [
+        {
+          "text": "“C’mon,” Malfoy muttered, and in a moment, all three of them had disappeared into the passageway to the dungeons.",
+          "wordCount": 19
+        }
+      ]
+    },
+    {
+      "index": 27,
+      "sentences": [
+        {
+          "text": "“Hermione!”",
+          "wordCount": 1
+        },
+        {
+          "text": "Ron said again, sounding both stunned and impressed.",
+          "wordCount": 8
+        }
+      ]
+    },
+    {
+      "index": 28,
+      "sentences": [
+        {
+          "text": "“Harry, you’d better beat him in the Quidditch final!”",
+          "wordCount": 9
+        },
+        {
+          "text": "Hermione said shrilly.",
+          "wordCount": 3
+        },
+        {
+          "text": "“You just better had, because I can’t stand it if Slytherin wins!”",
+          "wordCount": 12
+        }
+      ]
+    },
+    {
+      "index": 29,
+      "sentences": [
+        {
+          "text": "“We’re due in Charms,” said Ron, still goggling at Hermione.",
+          "wordCount": 10
+        },
+        {
+          "text": "“We’d better go.”",
+          "wordCount": 3
+        }
+      ]
+    },
+    {
+      "index": 30,
+      "sentences": [
+        {
+          "text": "They hurried up the marble staircase toward Professor Flitwick’s classroom.",
+          "wordCount": 10
+        }
+      ]
+    },
+    {
+      "index": 31,
+      "sentences": [
+        {
+          "text": "“You’re late, boys!” said Professor Flitwick reprovingly as Harry opened the classroom door.",
+          "wordCount": 13
+        },
+        {
+          "text": "“Come along, quickly, wands out, we’re experimenting with Cheering Charms today, we’ve already divided into pairs —”",
+          "wordCount": 17
+        }
+      ]
+    },
+    {
+      "index": 32,
+      "sentences": [
+        {
+          "text": "Harry and Ron hurried to a desk at the back and opened their bags.",
+          "wordCount": 14
+        },
+        {
+          "text": "Ron looked behind him.",
+          "wordCount": 4
+        }
+      ]
+    },
+    {
+      "index": 33,
+      "sentences": [
+        {
+          "text": "“Where’s Hermione gone?”",
+          "wordCount": 3
+        }
+      ]
+    },
+    {
+      "index": 34,
+      "sentences": [
+        {
+          "text": "Harry looked around too.",
+          "wordCount": 4
+        },
+        {
+          "text": "Hermione hadn’t entered the classroom, yet Harry knew she had been right next to him when he had opened the door.",
+          "wordCount": 21
+        }
+      ]
+    },
+    {
+      "index": 35,
+      "sentences": [
+        {
+          "text": "“That’s weird,” said Harry, staring at Ron.",
+          "wordCount": 7
+        },
+        {
+          "text": "“Maybe — maybe she went to the bathroom or something?”",
+          "wordCount": 10
+        }
+      ]
+    },
+    {
+      "index": 36,
+      "sentences": [
+        {
+          "text": "But Hermione didn’t turn up all lesson.",
+          "wordCount": 7
+        }
+      ]
+    },
+    {
+      "index": 37,
+      "sentences": [
+        {
+          "text": "“She could’ve done with a Cheering Charm on her too,” said Ron as the class left for lunch, all grinning broadly — the Cheering Charms had left them with a feeling of great contentment.",
+          "wordCount": 34
+        }
+      ]
+    },
+    {
+      "index": 38,
+      "sentences": [
+        {
+          "text": "Hermione wasn’t at lunch either.",
+          "wordCount": 5
+        },
+        {
+          "text": "By the time they had finished their apple pie, the after-effects of the Cheering Charms were wearing off, and Harry and Ron had started to get slightly worried.",
+          "wordCount": 28
+        }
+      ]
+    },
+    {
+      "index": 39,
+      "sentences": [
+        {
+          "text": "“You don’t think Malfoy did something to her?”",
+          "wordCount": 8
+        },
+        {
+          "text": "Ron said anxiously as they hurried upstairs toward Gryffindor Tower.",
+          "wordCount": 10
+        }
+      ]
+    },
+    {
+      "index": 40,
+      "sentences": [
+        {
+          "text": "They passed the security trolls, gave the Fat Lady the password (“Flibbertigibbet”), and scrambled through the portrait hole into the common room.",
+          "wordCount": 22
+        }
+      ]
+    },
+    {
+      "index": 41,
+      "sentences": [
+        {
+          "text": "Hermione was sitting at a table, fast asleep, her head resting on an open Arithmancy book.",
+          "wordCount": 16
+        },
+        {
+          "text": "They went to sit down on either side of her.",
+          "wordCount": 10
+        },
+        {
+          "text": "Harry prodded her awake.",
+          "wordCount": 4
+        }
+      ]
+    },
+    {
+      "index": 42,
+      "sentences": [
+        {
+          "text": "“Wh — what?” said Hermione, waking with a start and staring wildly around.",
+          "wordCount": 13
+        },
+        {
+          "text": "“Is it time to go?",
+          "wordCount": 5
+        },
+        {
+          "text": "W — which lesson have we got now?",
+          "wordCount": 8
+        }
+      ]
+    },
+    {
+      "index": 43,
+      "sentences": [
+        {
+          "text": "“Divination, but it’s not for another twenty minutes,” said Harry.",
+          "wordCount": 10
+        },
+        {
+          "text": "“Hermione, why didn’t you come to Charms?”",
+          "wordCount": 7
+        }
+      ]
+    },
+    {
+      "index": 44,
+      "sentences": [
+        {
+          "text": "“What?",
+          "wordCount": 1
+        },
+        {
+          "text": "Oh no!”",
+          "wordCount": 2
+        },
+        {
+          "text": "Hermione squeaked.",
+          "wordCount": 2
+        },
+        {
+          "text": "“I forgot to go to Charms!”",
+          "wordCount": 6
+        }
+      ]
+    },
+    {
+      "index": 45,
+      "sentences": [
+        {
+          "text": "“But how could you forget?” said Harry.",
+          "wordCount": 7
+        },
+        {
+          "text": "“You were with us till we were right outside the classroom!”",
+          "wordCount": 11
+        }
+      ]
+    },
+    {
+      "index": 46,
+      "sentences": [
+        {
+          "text": "“I don’t believe it!”",
+          "wordCount": 4
+        },
+        {
+          "text": "Hermione wailed.",
+          "wordCount": 2
+        },
+        {
+          "text": "“Was Professor Flitwick angry?",
+          "wordCount": 4
+        },
+        {
+          "text": "Oh, it was Malfoy, I was thinking about him and I lost track of things!”",
+          "wordCount": 15
+        }
+      ]
+    },
+    {
+      "index": 47,
+      "sentences": [
+        {
+          "text": "“You know what, Hermione?” said Ron, looking down at the enormous Arithmancy book Hermione had been using as a pillow.",
+          "wordCount": 20
+        },
+        {
+          "text": "“I reckon you’re cracking up.",
+          "wordCount": 5
+        },
+        {
+          "text": "You’re trying to do too much.”",
+          "wordCount": 6
+        }
+      ]
+    },
+    {
+      "index": 48,
+      "sentences": [
+        {
+          "text": "“No, I’m not!” said Hermione, brushing her hair out of her eyes and staring hopelessly around for her bag.",
+          "wordCount": 19
+        },
+        {
+          "text": "“I just made a mistake, that’s all!",
+          "wordCount": 7
+        },
+        {
+          "text": "I’d better go and see Professor Flitwick and say sorry. . . .",
+          "wordCount": 13
+        },
+        {
+          "text": "I’ll see you in Divination!”",
+          "wordCount": 5
+        }
+      ]
+    },
+    {
+      "index": 49,
+      "sentences": [
+        {
+          "text": "Hermione joined them at the foot of the ladder to Professor Trelawney’s classroom twenty minutes later, looking extremely harassed.",
+          "wordCount": 19
+        }
+      ]
+    },
+    {
+      "index": 50,
+      "sentences": [
+        {
+          "text": "“I can’t believe I missed Cheering Charms!",
+          "wordCount": 7
+        },
+        {
+          "text": "And I bet they come up in our exams; Professor Flitwick hinted they might!”",
+          "wordCount": 14
+        }
+      ]
+    },
+    {
+      "index": 51,
+      "sentences": [
+        {
+          "text": "Together they climbed the ladder into the dim, stifling tower room.",
+          "wordCount": 11
+        },
+        {
+          "text": "Glowing on every little table was a crystal ball full of pearly white mist.",
+          "wordCount": 14
+        },
+        {
+          "text": "Harry, Ron, and Hermione sat down together at the same rickety table.",
+          "wordCount": 12
+        }
+      ]
+    },
+    {
+      "index": 52,
+      "sentences": [
+        {
+          "text": "“I thought we weren’t starting crystal balls until next term,” Ron muttered, casting a wary eye around for Professor Trelawney, in case she was lurking nearby.",
+          "wordCount": 26
+        }
+      ]
+    },
+    {
+      "index": 53,
+      "sentences": [
+        {
+          "text": "“Don’t complain, this means we’ve finished palmistry,” Harry muttered back.",
+          "wordCount": 10
+        },
+        {
+          "text": "“I was getting sick of her flinching every time she looked at my hands.”",
+          "wordCount": 14
+        }
+      ]
+    },
+    {
+      "index": 54,
+      "sentences": [
+        {
+          "text": "“Good day to you!” said the familiar, misty voice, and Professor Trelawney made her usual dramatic entrance out of the shadows.",
+          "wordCount": 21
+        },
+        {
+          "text": "Parvati and Lavender quivered with excitement, their faces lit by the milky glow of their crystal ball.",
+          "wordCount": 17
+        }
+      ]
+    },
+    {
+      "index": 55,
+      "sentences": [
+        {
+          "text": "“I have decided to introduce the crystal ball a little earlier than I had planned,” said Professor Trelawney, sitting with her back to the fire and gazing around.",
+          "wordCount": 28
+        },
+        {
+          "text": "“The fates have informed me that your examination in June will concern the Orb, and I am anxious to give you sufficient practice.”",
+          "wordCount": 23
+        }
+      ]
+    },
+    {
+      "index": 56,
+      "sentences": [
+        {
+          "text": "Hermione snorted.",
+          "wordCount": 2
+        }
+      ]
+    },
+    {
+      "index": 57,
+      "sentences": [
+        {
+          "text": "“Well, honestly . . .",
+          "wordCount": 5
+        },
+        {
+          "text": "‘the fates have informed her’ . . . who sets the exam?",
+          "wordCount": 12
+        },
+        {
+          "text": "She does!",
+          "wordCount": 2
+        },
+        {
+          "text": "What an amazing prediction!” she said, not troubling to keep her voice low.",
+          "wordCount": 13
+        },
+        {
+          "text": "Harry and Ron choked back laughs.",
+          "wordCount": 6
+        }
+      ]
+    },
+    {
+      "index": 58,
+      "sentences": [
+        {
+          "text": "It was hard to tell whether Professor Trelawney had heard them, as her face was hidden in shadow.",
+          "wordCount": 18
+        },
+        {
+          "text": "She continued, however, as though she had not.",
+          "wordCount": 8
+        }
+      ]
+    },
+    {
+      "index": 59,
+      "sentences": [
+        {
+          "text": "“Crystal gazing is a particularly refined art,” she said dreamily.",
+          "wordCount": 10
+        },
+        {
+          "text": "“I do not expect any of you to See when first you peer into the Orb’s infinite depths.",
+          "wordCount": 18
+        },
+        {
+          "text": "We shall start by practicing relaxing the conscious mind and external eyes” — Ron began to snigger uncontrollably and had to stuff his fist in his mouth to stifle the noise — “so as to clear the Inner Eye and the superconscious.",
+          "wordCount": 42
+        },
+        {
+          "text": "Perhaps, if we are lucky, some of you will See before the end of the class.”",
+          "wordCount": 16
+        }
+      ]
+    },
+    {
+      "index": 60,
+      "sentences": [
+        {
+          "text": "And so they began.",
+          "wordCount": 4
+        },
+        {
+          "text": "Harry, at least, felt extremely foolish, staring blankly at the crystal ball, trying to keep his mind empty when thoughts such as “this is stupid” kept drifting across it.",
+          "wordCount": 29
+        },
+        {
+          "text": "It didn’t help that Ron kept breaking into silent giggles and Hermione kept tutting.",
+          "wordCount": 14
+        }
+      ]
+    },
+    {
+      "index": 61,
+      "sentences": [
+        {
+          "text": "“Seen anything yet?”",
+          "wordCount": 3
+        },
+        {
+          "text": "Harry asked them after a quarter of an hour’s quiet crystal gazing.",
+          "wordCount": 12
+        }
+      ]
+    },
+    {
+      "index": 62,
+      "sentences": [
+        {
+          "text": "“Yeah, there’s a burn on this table,” said Ron, pointing.",
+          "wordCount": 10
+        },
+        {
+          "text": "“Someone’s spilled their candle.”",
+          "wordCount": 4
+        }
+      ]
+    },
+    {
+      "index": 63,
+      "sentences": [
+        {
+          "text": "“This is such a waste of time,” Hermione hissed.",
+          "wordCount": 9
+        },
+        {
+          "text": "“I could be practicing something useful.",
+          "wordCount": 6
+        },
+        {
+          "text": "I could be catching up on Cheering Charms —”",
+          "wordCount": 9
+        }
+      ]
+    },
+    {
+      "index": 64,
+      "sentences": [
+        {
+          "text": "Professor Trelawney rustled past.",
+          "wordCount": 4
+        }
+      ]
+    },
+    {
+      "index": 65,
+      "sentences": [
+        {
+          "text": "“Would anyone like me to help them interpret the shadowy portents within their Orb?” she murmured over the clinking of her bangles.",
+          "wordCount": 22
+        }
+      ]
+    },
+    {
+      "index": 66,
+      "sentences": [
+        {
+          "text": "“I don’t need help,” Ron whispered.",
+          "wordCount": 6
+        },
+        {
+          "text": "“It’s obvious what this means.",
+          "wordCount": 5
+        },
+        {
+          "text": "There’s going to be loads of fog tonight.”",
+          "wordCount": 8
+        }
+      ]
+    },
+    {
+      "index": 67,
+      "sentences": [
+        {
+          "text": "Both Harry and Hermione burst out laughing.",
+          "wordCount": 7
+        }
+      ]
+    },
+    {
+      "index": 68,
+      "sentences": [
+        {
+          "text": "“Now, really!” said Professor Trelawney as everyone’s heads turned in their direction.",
+          "wordCount": 12
+        },
+        {
+          "text": "Parvati and Lavender were looking scandalized.",
+          "wordCount": 6
+        },
+        {
+          "text": "“You are disturbing the clairvoyant vibrations!”",
+          "wordCount": 6
+        },
+        {
+          "text": "She approached their table and peered into their crystal ball.",
+          "wordCount": 10
+        },
+        {
+          "text": "Harry felt his heart sinking.",
+          "wordCount": 5
+        },
+        {
+          "text": "He was sure he knew what was coming —",
+          "wordCount": 9
+        }
+      ]
+    },
+    {
+      "index": 69,
+      "sentences": [
+        {
+          "text": "“There is something here!”",
+          "wordCount": 4
+        },
+        {
+          "text": "Professor Trelawney whispered, lowering her face to the ball, so that it was reflected twice in her huge glasses.",
+          "wordCount": 19
+        },
+        {
+          "text": "“Something moving . . . but what is it?”",
+          "wordCount": 9
+        }
+      ]
+    },
+    {
+      "index": 70,
+      "sentences": [
+        {
+          "text": "Harry was prepared to bet everything he owned, including his Firebolt, that it wasn’t good news, whatever it was.",
+          "wordCount": 19
+        },
+        {
+          "text": "And sure enough —",
+          "wordCount": 4
+        }
+      ]
+    },
+    {
+      "index": 71,
+      "sentences": [
+        {
+          "text": "“My dear . . . ,” Professor Trelawney breathed, gazing up at Harry.",
+          "wordCount": 13
+        },
+        {
+          "text": "“It is here, plainer than ever before . . . my dear, stalking toward you, growing ever closer . . . the Gr —”",
+          "wordCount": 24
+        }
+      ]
+    },
+    {
+      "index": 72,
+      "sentences": [
+        {
+          "text": "“Oh, for goodness’ sake!” said Hermione loudly.",
+          "wordCount": 7
+        },
+        {
+          "text": "“Not that ridiculous Grim again!”",
+          "wordCount": 5
+        }
+      ]
+    },
+    {
+      "index": 73,
+      "sentences": [
+        {
+          "text": "Professor Trelawney raised her enormous eyes to Hermione’s face.",
+          "wordCount": 9
+        },
+        {
+          "text": "Parvati whispered something to Lavender, and they both glared at Hermione too.",
+          "wordCount": 12
+        },
+        {
+          "text": "Professor Trelawney stood up, surveying Hermione with unmistakable anger.",
+          "wordCount": 9
+        }
+      ]
+    },
+    {
+      "index": 74,
+      "sentences": [
+        {
+          "text": "“I am sorry to say that from the moment you have arrived in this class, my dear, it has been apparent that you do not have what the noble art of Divination requires.",
+          "wordCount": 33
+        },
+        {
+          "text": "Indeed, I don’t remember ever meeting a student whose mind was so hopelessly mundane.”",
+          "wordCount": 14
+        }
+      ]
+    },
+    {
+      "index": 75,
+      "sentences": [
+        {
+          "text": "There was a moment’s silence.",
+          "wordCount": 5
+        },
+        {
+          "text": "Then —",
+          "wordCount": 2
+        }
+      ]
+    },
+    {
+      "index": 76,
+      "sentences": [
+        {
+          "text": "“Fine!” said Hermione suddenly, getting up and cramming Unfogging the Future back into her bag.",
+          "wordCount": 15
+        },
+        {
+          "text": "“Fine!” she repeated, swinging the bag over her shoulder and almost knocking Ron off his chair.",
+          "wordCount": 16
+        },
+        {
+          "text": "“I give up!",
+          "wordCount": 3
+        },
+        {
+          "text": "I’m leaving!”",
+          "wordCount": 2
+        }
+      ]
+    },
+    {
+      "index": 77,
+      "sentences": [
+        {
+          "text": "And to the whole class’s amazement, Hermione strode over to the trapdoor, kicked it open, and climbed down the ladder out of sight.",
+          "wordCount": 23
+        }
+      ]
+    },
+    {
+      "index": 78,
+      "sentences": [
+        {
+          "text": "It took a few minutes for the class to settle down again.",
+          "wordCount": 12
+        },
+        {
+          "text": "Professor Trelawney seemed to have forgotten all about the Grim.",
+          "wordCount": 10
+        },
+        {
+          "text": "She turned abruptly from Harry and Ron’s table, breathing rather heavily as she tugged her gauzy shawl more closely to her.",
+          "wordCount": 21
+        }
+      ]
+    },
+    {
+      "index": 79,
+      "sentences": [
+        {
+          "text": "“Ooooo!” said Lavender suddenly, making everyone start.",
+          "wordCount": 7
+        },
+        {
+          "text": "“Oooooo, Professor Trelawney, I’ve just remembered!",
+          "wordCount": 6
+        },
+        {
+          "text": "You saw her leaving, didn’t you?",
+          "wordCount": 6
+        },
+        {
+          "text": "Didn’t you, Professor?",
+          "wordCount": 3
+        },
+        {
+          "text": "‘Around Easter, one of our number will leave us forever!’",
+          "wordCount": 10
+        },
+        {
+          "text": "You said it ages ago, Professor!”",
+          "wordCount": 6
+        }
+      ]
+    },
+    {
+      "index": 80,
+      "sentences": [
+        {
+          "text": "Professor Trelawney gave her a dewy smile.",
+          "wordCount": 7
+        }
+      ]
+    },
+    {
+      "index": 81,
+      "sentences": [
+        {
+          "text": "“Yes, my dear, I did indeed know that Miss Granger would be leaving us.",
+          "wordCount": 14
+        },
+        {
+          "text": "One hopes, however, that one might have mistaken the Signs. . . .",
+          "wordCount": 13
+        },
+        {
+          "text": "The Inner Eye can be a burden, you know. . . .”",
+          "wordCount": 12
+        }
+      ]
+    },
+    {
+      "index": 82,
+      "sentences": [
+        {
+          "text": "Lavender and Parvati looked deeply impressed, and moved over so that Professor Trelawney could join their table instead.",
+          "wordCount": 18
+        }
+      ]
+    },
+    {
+      "index": 83,
+      "sentences": [
+        {
+          "text": "“Some day Hermione’s having, eh?”",
+          "wordCount": 5
+        },
+        {
+          "text": "Ron muttered to Harry, looking awed.",
+          "wordCount": 6
+        }
+      ]
+    },
+    {
+      "index": 84,
+      "sentences": [
+        {
+          "text": "“Yeah . . .”",
+          "wordCount": 4
+        }
+      ]
+    },
+    {
+      "index": 85,
+      "sentences": [
+        {
+          "text": "Harry glanced into the crystal ball but saw nothing but swirling white mist.",
+          "wordCount": 13
+        },
+        {
+          "text": "Had Professor Trelawney really seen the Grim again?",
+          "wordCount": 8
+        },
+        {
+          "text": "Would he?",
+          "wordCount": 2
+        },
+        {
+          "text": "The last thing he needed was another near-fatal accident, with the Quidditch final drawing ever nearer.",
+          "wordCount": 16
+        }
+      ]
+    },
+    {
+      "index": 86,
+      "sentences": [
+        {
+          "text": "The Easter holidays were not exactly relaxing.",
+          "wordCount": 7
+        },
+        {
+          "text": "The third years had never had so much homework.",
+          "wordCount": 9
+        },
+        {
+          "text": "Neville Longbottom seemed close to a nervous collapse, and he wasn’t the only one.",
+          "wordCount": 14
+        }
+      ]
+    },
+    {
+      "index": 87,
+      "sentences": [
+        {
+          "text": "“Call this a holiday!”",
+          "wordCount": 4
+        },
+        {
+          "text": "Seamus Finnigan roared at the common room one afternoon.",
+          "wordCount": 9
+        },
+        {
+          "text": "“The exams are ages away, what’re they playing at?”",
+          "wordCount": 9
+        }
+      ]
+    },
+    {
+      "index": 88,
+      "sentences": [
+        {
+          "text": "But nobody had as much to do as Hermione.",
+          "wordCount": 9
+        },
+        {
+          "text": "Even without Divination, she was taking more subjects than anybody else.",
+          "wordCount": 11
+        },
+        {
+          "text": "She was usually last to leave the common room at night, first to arrive at the library the next morning; she had shadows like Lupin’s under her eyes, and seemed constantly close to tears.",
+          "wordCount": 34
+        }
+      ]
+    },
+    {
+      "index": 89,
+      "sentences": [
+        {
+          "text": "Ron had taken over responsibility for Buckbeak’s appeal.",
+          "wordCount": 8
+        },
+        {
+          "text": "When he wasn’t doing his own work, he was poring over enormously thick volumes with names like The Handbook of Hippogriff Psychology and Fowl or Foul?",
+          "wordCount": 26
+        },
+        {
+          "text": "A Study of Hippogriff Brutality.",
+          "wordCount": 5
+        },
+        {
+          "text": "He was so absorbed, he even forgot to be horrible to Crookshanks.",
+          "wordCount": 12
+        }
+      ]
+    },
+    {
+      "index": 90,
+      "sentences": [
+        {
+          "text": "Harry, meanwhile, had to fit in his homework around Quidditch practice every day, not to mention endless discussions of tactics with Wood.",
+          "wordCount": 22
+        },
+        {
+          "text": "The Gryffindor-Slytherin match would take place on the first Saturday after the Easter holidays.",
+          "wordCount": 14
+        },
+        {
+          "text": "Slytherin was leading the tournament by exactly two hundred points.",
+          "wordCount": 10
+        },
+        {
+          "text": "This meant (as Wood constantly reminded his team) that they needed to win the match by more than that amount to win the Cup.",
+          "wordCount": 24
+        },
+        {
+          "text": "It also meant that the burden of winning fell largely on Harry, because capturing the Snitch was worth one hundred and fifty points.",
+          "wordCount": 23
+        }
+      ]
+    },
+    {
+      "index": 91,
+      "sentences": [
+        {
+          "text": "“So you must catch it only if we’re more than fifty points up,” Wood told Harry constantly.",
+          "wordCount": 17
+        },
+        {
+          "text": "“Only if we’re more than fifty points up, Harry, or we win the match but lose the Cup.",
+          "wordCount": 18
+        },
+        {
+          "text": "You’ve got that, haven’t you?",
+          "wordCount": 5
+        },
+        {
+          "text": "You must catch the Snitch only if we’re —”",
+          "wordCount": 9
+        }
+      ]
+    },
+    {
+      "index": 92,
+      "sentences": [
+        {
+          "text": "“I KNOW, OLIVER!”",
+          "wordCount": 3
+        },
+        {
+          "text": "Harry yelled.",
+          "wordCount": 2
+        }
+      ]
+    },
+    {
+      "index": 93,
+      "sentences": [
+        {
+          "text": "The whole of Gryffindor House was obsessed with the coming match.",
+          "wordCount": 11
+        },
+        {
+          "text": "Gryffindor hadn’t won the Quidditch Cup since the leg-endary Charlie Weasley (Ron’s second oldest brother) had been Seeker.",
+          "wordCount": 18
+        },
+        {
+          "text": "But Harry doubted whether any of them, even Wood, wanted to win as much as he did.",
+          "wordCount": 17
+        },
+        {
+          "text": "The enmity between Harry and Malfoy was at its highest point ever.",
+          "wordCount": 12
+        },
+        {
+          "text": "Malfoy was still smarting about the mud-throwing incident in Hogsmeade and was even more furious that Harry had somehow wormed his way out of punishment.",
+          "wordCount": 25
+        },
+        {
+          "text": "Harry hadn’t forgotten Malfoy’s attempt to sabotage him in the match against Ravenclaw, but it was the matter of Buckbeak that made him most determined to beat Malfoy in front of the entire school.",
+          "wordCount": 34
+        }
+      ]
+    },
+    {
+      "index": 94,
+      "sentences": [
+        {
+          "text": "Never, in anyone’s memory, had a match approached in such a highly charged atmosphere.",
+          "wordCount": 14
+        },
+        {
+          "text": "By the time the holidays were over, tension between the two teams and their Houses was at the breaking point.",
+          "wordCount": 20
+        },
+        {
+          "text": "A number of small scuffles broke out in the corridors, culminating in a nasty incident in which a Gryffindor fourth year and a Slytherin sixth year ended up in the hospital wing with leeks sprouting out of their ears.",
+          "wordCount": 39
+        }
+      ]
+    },
+    {
+      "index": 95,
+      "sentences": [
+        {
+          "text": "Harry was having a particularly bad time of it.",
+          "wordCount": 9
+        },
+        {
+          "text": "He couldn’t walk to class without Slytherins sticking out their legs and trying to trip him up; Crabbe and Goyle kept popping up wherever he went, and slouching away looking disappointed when they saw him surrounded by people.",
+          "wordCount": 38
+        },
+        {
+          "text": "Wood had given instructions that Harry should be accompanied everywhere he went, in case the Slytherins tried to put him out of action.",
+          "wordCount": 23
+        },
+        {
+          "text": "The whole of Gryffindor House took up the challenge enthusiastically, so that it was impossible for Harry to get to classes on time because he was surrounded by a vast, chattering crowd.",
+          "wordCount": 32
+        },
+        {
+          "text": "Harry was more concerned for his Firebolt’s safety than his own.",
+          "wordCount": 11
+        },
+        {
+          "text": "When he wasn’t flying it, he locked it securely in his trunk and frequently dashed back up to Gryffindor Tower at break times to check that it was still there.",
+          "wordCount": 30
+        }
+      ]
+    },
+    {
+      "index": 96,
+      "sentences": [
+        {
+          "text": "All usual pursuits were abandoned in the Gryffindor common room the night before the match.",
+          "wordCount": 15
+        },
+        {
+          "text": "Even Hermione had put down her books.",
+          "wordCount": 7
+        }
+      ]
+    },
+    {
+      "index": 97,
+      "sentences": [
+        {
+          "text": "“I can’t work, I can’t concentrate,” she said nervously.",
+          "wordCount": 9
+        }
+      ]
+    },
+    {
+      "index": 98,
+      "sentences": [
+        {
+          "text": "There was a great deal of noise.",
+          "wordCount": 7
+        },
+        {
+          "text": "Fred and George Weasley were dealing with the pressure by being louder and more exuberant than ever.",
+          "wordCount": 17
+        },
+        {
+          "text": "Oliver Wood was crouched over a model of a Quidditch field in the corner, prodding little figures across it with his wand and muttering to himself.",
+          "wordCount": 26
+        },
+        {
+          "text": "Angelina, Alicia, and Katie were laughing at Fred’s and George’s jokes.",
+          "wordCount": 11
+        },
+        {
+          "text": "Harry was sitting with Ron and Hermione, removed from the center of things, trying not to think about the next day, because every time he did, he had the horrible sensation that something very large was fighting to get out of his stomach.",
+          "wordCount": 43
+        }
+      ]
+    },
+    {
+      "index": 99,
+      "sentences": [
+        {
+          "text": "“You’re going to be fine,” Hermione told him, though she looked positively terrified.",
+          "wordCount": 13
+        }
+      ]
+    },
+    {
+      "index": 100,
+      "sentences": [
+        {
+          "text": "“You’ve got a Firebolt!” said Ron.",
+          "wordCount": 6
+        }
+      ]
+    },
+    {
+      "index": 101,
+      "sentences": [
+        {
+          "text": "“Yeah . . . ,” said Harry, his stomach writhing.",
+          "wordCount": 10
+        }
+      ]
+    },
+    {
+      "index": 102,
+      "sentences": [
+        {
+          "text": "It came as a relief when Wood suddenly stood up and yelled, “Team!",
+          "wordCount": 13
+        },
+        {
+          "text": "Bed!”",
+          "wordCount": 1
+        }
+      ]
+    },
+    {
+      "index": 103,
+      "sentences": [
+        {
+          "text": "Harry slept badly.",
+          "wordCount": 3
+        },
+        {
+          "text": "First he dreamed that he had overslept, and that Wood was yelling, “Where were you?",
+          "wordCount": 15
+        },
+        {
+          "text": "We had to use Neville instead!”",
+          "wordCount": 6
+        },
+        {
+          "text": "Then he dreamed that Malfoy and the rest of the Slytherin team arrived for the match riding dragons.",
+          "wordCount": 18
+        },
+        {
+          "text": "He was flying at breakneck speed, trying to avoid a spurt of flames from Malfoy’s steed’s mouth, when he realized he had forgotten his Firebolt.",
+          "wordCount": 25
+        },
+        {
+          "text": "He fell through the air and woke with a start.",
+          "wordCount": 10
+        }
+      ]
+    },
+    {
+      "index": 104,
+      "sentences": [
+        {
+          "text": "It was a few seconds before Harry remembered that the match hadn’t taken place yet, that he was safe in bed, and that the Slytherin team definitely wouldn’t be allowed to play on dragons.",
+          "wordCount": 34
+        },
+        {
+          "text": "He was feeling very thirsty.",
+          "wordCount": 5
+        },
+        {
+          "text": "Quietly as he could, he got out of his four-poster and went to pour himself some water from the silver jug beneath the window.",
+          "wordCount": 24
+        }
+      ]
+    },
+    {
+      "index": 105,
+      "sentences": [
+        {
+          "text": "The grounds were still and quiet.",
+          "wordCount": 6
+        },
+        {
+          "text": "No breath of wind disturbed the treetops in the Forbidden Forest; the Whomping Willow was motionless and innocent-looking.",
+          "wordCount": 18
+        },
+        {
+          "text": "It looked as though the conditions for the match would be perfect.",
+          "wordCount": 12
+        }
+      ]
+    },
+    {
+      "index": 106,
+      "sentences": [
+        {
+          "text": "Harry set down his goblet and was about to turn back to his bed when something caught his eye.",
+          "wordCount": 19
+        },
+        {
+          "text": "An animal of some kind was prowling across the silvery lawn.",
+          "wordCount": 11
+        }
+      ]
+    },
+    {
+      "index": 107,
+      "sentences": [
+        {
+          "text": "Harry dashed to his bedside table, snatched up his glasses, and put them on, then hurried back to the window.",
+          "wordCount": 20
+        },
+        {
+          "text": "It couldn’t be the Grim — not now — not right before the match —",
+          "wordCount": 15
+        }
+      ]
+    },
+    {
+      "index": 108,
+      "sentences": [
+        {
+          "text": "He peered out at the grounds again and, after a minute’s frantic searching, spotted it.",
+          "wordCount": 15
+        },
+        {
+          "text": "It was skirting the edge of the forest now. . . .",
+          "wordCount": 12
+        },
+        {
+          "text": "It wasn’t the Grim at all . . . it was a cat. . . .",
+          "wordCount": 16
+        },
+        {
+          "text": "Harry clutched the window ledge in relief as he recognized the bottlebrush tail.",
+          "wordCount": 13
+        },
+        {
+          "text": "It was only Crookshanks. . . .",
+          "wordCount": 7
+        }
+      ]
+    },
+    {
+      "index": 109,
+      "sentences": [
+        {
+          "text": "Or was it only Crookshanks?",
+          "wordCount": 5
+        },
+        {
+          "text": "Harry squinted, pressing his nose flat against the glass.",
+          "wordCount": 9
+        },
+        {
+          "text": "Crookshanks seemed to have come to a halt.",
+          "wordCount": 8
+        },
+        {
+          "text": "Harry was sure he could see something else moving in the shadow of the trees too.",
+          "wordCount": 16
+        }
+      ]
+    },
+    {
+      "index": 110,
+      "sentences": [
+        {
+          "text": "And just then, it emerged — a gigantic, shaggy black dog, moving stealthily across the lawn, Crookshanks trotting at its side.",
+          "wordCount": 21
+        },
+        {
+          "text": "Harry stared.",
+          "wordCount": 2
+        },
+        {
+          "text": "What did this mean?",
+          "wordCount": 4
+        },
+        {
+          "text": "If Crookshanks could see the dog as well, how could it be an omen of Harry’s death?",
+          "wordCount": 17
+        }
+      ]
+    },
+    {
+      "index": 111,
+      "sentences": [
+        {
+          "text": "“Ron!”",
+          "wordCount": 1
+        },
+        {
+          "text": "Harry hissed.",
+          "wordCount": 2
+        },
+        {
+          "text": "“Ron!",
+          "wordCount": 1
+        },
+        {
+          "text": "Wake up!”",
+          "wordCount": 2
+        }
+      ]
+    },
+    {
+      "index": 112,
+      "sentences": [
+        {
+          "text": "“Huh?”",
+          "wordCount": 1
+        }
+      ]
+    },
+    {
+      "index": 113,
+      "sentences": [
+        {
+          "text": "“I need you to tell me if you can see something!”",
+          "wordCount": 11
+        }
+      ]
+    },
+    {
+      "index": 114,
+      "sentences": [
+        {
+          "text": "“S’all dark, Harry,” Ron muttered thickly.",
+          "wordCount": 6
+        },
+        {
+          "text": "“What’re you on about?”",
+          "wordCount": 4
+        }
+      ]
+    },
+    {
+      "index": 115,
+      "sentences": [
+        {
+          "text": "“Down here —”",
+          "wordCount": 3
+        }
+      ]
+    },
+    {
+      "index": 116,
+      "sentences": [
+        {
+          "text": "Harry looked quickly back out of the window.",
+          "wordCount": 8
+        }
+      ]
+    },
+    {
+      "index": 117,
+      "sentences": [
+        {
+          "text": "Crookshanks and the dog had vanished.",
+          "wordCount": 6
+        },
+        {
+          "text": "Harry climbed onto the windowsill to look right down into the shadows of the castle, but they weren’t there.",
+          "wordCount": 19
+        },
+        {
+          "text": "Where had they gone?",
+          "wordCount": 4
+        }
+      ]
+    },
+    {
+      "index": 118,
+      "sentences": [
+        {
+          "text": "A loud snore told him Ron had fallen asleep again.",
+          "wordCount": 10
+        }
+      ]
+    },
+    {
+      "index": 119,
+      "sentences": [
+        {
+          "text": "Harry and the rest of the Gryffindor team entered the Great Hall the next day to enormous applause.",
+          "wordCount": 18
+        },
+        {
+          "text": "Harry couldn’t help grinning broadly as he saw that both the Ravenclaw and Hufflepuff tables were applauding them too.",
+          "wordCount": 19
+        },
+        {
+          "text": "The Slytherin table hissed loudly as they passed.",
+          "wordCount": 8
+        },
+        {
+          "text": "Harry noticed that Malfoy looked even paler than usual.",
+          "wordCount": 9
+        }
+      ]
+    },
+    {
+      "index": 120,
+      "sentences": [
+        {
+          "text": "Wood spent the whole of breakfast urging his team to eat, while touching nothing himself.",
+          "wordCount": 15
+        },
+        {
+          "text": "Then he hurried them off to the field before anyone else had finished, so they could get an idea of the conditions.",
+          "wordCount": 22
+        },
+        {
+          "text": "As they left the Great Hall, everyone applauded again.",
+          "wordCount": 9
+        }
+      ]
+    },
+    {
+      "index": 121,
+      "sentences": [
+        {
+          "text": "“Good luck, Harry!” called Cho.",
+          "wordCount": 5
+        },
+        {
+          "text": "Harry felt himself blushing.",
+          "wordCount": 4
+        }
+      ]
+    },
+    {
+      "index": 122,
+      "sentences": [
+        {
+          "text": "“Okay — no wind to speak of — sun’s a bit bright, that could impair your vision, watch out for it — ground’s fairly hard, good, that’ll give us a fast kickoff —”",
+          "wordCount": 33
+        }
+      ]
+    },
+    {
+      "index": 123,
+      "sentences": [
+        {
+          "text": "Wood paced the field, staring around with the team behind him.",
+          "wordCount": 11
+        },
+        {
+          "text": "Finally, they saw the front doors of the castle open in the distance and the rest of the school spilling onto the lawn.",
+          "wordCount": 23
+        }
+      ]
+    },
+    {
+      "index": 124,
+      "sentences": [
+        {
+          "text": "“Locker rooms,” said Wood tersely.",
+          "wordCount": 5
+        }
+      ]
+    },
+    {
+      "index": 125,
+      "sentences": [
+        {
+          "text": "None of them spoke as they changed into their scarlet robes.",
+          "wordCount": 11
+        },
+        {
+          "text": "Harry wondered if they were feeling like he was: as though he’d eaten something extremely wriggly for breakfast.",
+          "wordCount": 18
+        },
+        {
+          "text": "In what seemed like no time at all, Wood was saying, “Okay, it’s time, let’s go —”",
+          "wordCount": 17
+        }
+      ]
+    },
+    {
+      "index": 126,
+      "sentences": [
+        {
+          "text": "They walked out onto the field to a tidal wave of noise.",
+          "wordCount": 12
+        },
+        {
+          "text": "Three-quarters of the crowd was wearing scarlet rosettes, waving scarlet flags with the Gryffindor lion upon them, or brandishing banners with slogans like “GO GRYFFINDOR!” and “LIONS FOR THE CUP!”",
+          "wordCount": 30
+        },
+        {
+          "text": "Behind the Slytherin goal posts, however, two hundred people were wearing green; the silver serpent of Slytherin glittered on their flags, and Professor Snape sat in the very front row, wearing green like everyone else, and a very grim smile.",
+          "wordCount": 40
+        }
+      ]
+    },
+    {
+      "index": 127,
+      "sentences": [
+        {
+          "text": "“And here are the Gryffindors!” yelled Lee Jordan, who was acting as commentator as usual.",
+          "wordCount": 15
+        },
+        {
+          "text": "“Potter, Bell, Johnson, Spinnet, Weasley, Weasley, and Wood.",
+          "wordCount": 8
+        },
+        {
+          "text": "Widely acknowledged as the best team Hogwarts has seen in a good few years —”",
+          "wordCount": 15
+        }
+      ]
+    },
+    {
+      "index": 128,
+      "sentences": [
+        {
+          "text": "Lee’s comments were drowned by a tide of “boos” from the Slytherin end.",
+          "wordCount": 13
+        }
+      ]
+    },
+    {
+      "index": 129,
+      "sentences": [
+        {
+          "text": "“And here come the Slytherin team, led by Captain Flint.",
+          "wordCount": 10
+        },
+        {
+          "text": "He’s made some changes in the lineup and seems to be going for size rather than skill —”",
+          "wordCount": 18
+        }
+      ]
+    },
+    {
+      "index": 130,
+      "sentences": [
+        {
+          "text": "More boos from the Slytherin crowd.",
+          "wordCount": 6
+        },
+        {
+          "text": "Harry, however, thought Lee had a point.",
+          "wordCount": 7
+        },
+        {
+          "text": "Malfoy was easily the smallest person on the Slytherin team; the rest of them were enormous.",
+          "wordCount": 16
+        }
+      ]
+    },
+    {
+      "index": 131,
+      "sentences": [
+        {
+          "text": "“Captains, shake hands!” said Madam Hooch.",
+          "wordCount": 6
+        }
+      ]
+    },
+    {
+      "index": 132,
+      "sentences": [
+        {
+          "text": "Flint and Wood approached each other and grasped each other’s hand very tightly; it looked as though each was trying to break the other’s fingers.",
+          "wordCount": 25
+        }
+      ]
+    },
+    {
+      "index": 133,
+      "sentences": [
+        {
+          "text": "“Mount your brooms!” said Madam Hooch.",
+          "wordCount": 6
+        },
+        {
+          "text": "“Three . . . two . . . one . . .”",
+          "wordCount": 12
+        }
+      ]
+    },
+    {
+      "index": 134,
+      "sentences": [
+        {
+          "text": "The sound of her whistle was lost in the roar from the crowd as fourteen brooms rose into the air.",
+          "wordCount": 20
+        },
+        {
+          "text": "Harry felt his hair fly back off his forehead; his nerves left him in the thrill of the flight; he glanced around, saw Malfoy on his tail, and sped off in search of the Snitch.",
+          "wordCount": 35
+        }
+      ]
+    },
+    {
+      "index": 135,
+      "sentences": [
+        {
+          "text": "“And it’s Gryffindor in possession, Alicia Spinnet of Gryffindor with the Quaffle, heading straight for the Slytherin goal posts, looking good, Alicia!",
+          "wordCount": 22
+        },
+        {
+          "text": "Argh, no — Quaffle intercepted by Warrington, Warrington of Slytherin tearing up the field — WHAM! — nice Bludger work there by George Weasley, Warrington drops the Quaffle, it’s caught by — Johnson, Gryffindor back in possession, come on, Angelina — nice swerve around Montague — duck, Angelina, that’s a Bludger! — SHE SCORES!",
+          "wordCount": 54
+        },
+        {
+          "text": "TEN–ZERO TO GRYFFINDOR!”",
+          "wordCount": 3
+        }
+      ]
+    },
+    {
+      "index": 136,
+      "sentences": [
+        {
+          "text": "Angelina punched the air as she soared around the end of the field; the sea of scarlet below was screaming its delight —",
+          "wordCount": 23
+        }
+      ]
+    },
+    {
+      "index": 137,
+      "sentences": [
+        {
+          "text": "“OUCH!”",
+          "wordCount": 1
+        }
+      ]
+    },
+    {
+      "index": 138,
+      "sentences": [
+        {
+          "text": "Angelina was nearly thrown from her broom as Marcus Flint went smashing into her.",
+          "wordCount": 14
+        }
+      ]
+    },
+    {
+      "index": 139,
+      "sentences": [
+        {
+          "text": "“Sorry!” said Flint as the crowd below booed.",
+          "wordCount": 8
+        },
+        {
+          "text": "“Sorry, didn’t see her!”",
+          "wordCount": 4
+        }
+      ]
+    },
+    {
+      "index": 140,
+      "sentences": [
+        {
+          "text": "A moment later, Fred Weasley chucked his Beater’s club at the back of Flint’s head.",
+          "wordCount": 15
+        },
+        {
+          "text": "Flint’s nose smashed into the handle of his broom and began to bleed.",
+          "wordCount": 13
+        }
+      ]
+    },
+    {
+      "index": 141,
+      "sentences": [
+        {
+          "text": "“That will do!” shrieked Madam Hooch, zooming between them.",
+          "wordCount": 9
+        },
+        {
+          "text": "“Penalty shot to Gryffindor for an unprovoked attack on their Chaser!",
+          "wordCount": 11
+        },
+        {
+          "text": "Penalty shot to Slytherin for deliberate damage to their Chaser!”",
+          "wordCount": 10
+        }
+      ]
+    },
+    {
+      "index": 142,
+      "sentences": [
+        {
+          "text": "“Come off it, Miss!” howled Fred, but Madam Hooch blew her whistle and Alicia flew forward to take the penalty.",
+          "wordCount": 20
+        }
+      ]
+    },
+    {
+      "index": 143,
+      "sentences": [
+        {
+          "text": "“Come on, Alicia!” yelled Lee into the silence that had descended on the crowd.",
+          "wordCount": 14
+        },
+        {
+          "text": "“YES!",
+          "wordCount": 1
+        },
+        {
+          "text": "SHE’S BEATEN THE KEEPER!",
+          "wordCount": 4
+        },
+        {
+          "text": "TWENTY–ZERO TO GRYFFINDOR!”",
+          "wordCount": 3
+        }
+      ]
+    },
+    {
+      "index": 144,
+      "sentences": [
+        {
+          "text": "Harry turned the Firebolt sharply to watch Flint, still bleeding freely, fly forward to take the Slytherin penalty.",
+          "wordCount": 18
+        },
+        {
+          "text": "Wood was hovering in front of the Gryffindor goal posts, his jaw clenched.",
+          "wordCount": 13
+        }
+      ]
+    },
+    {
+      "index": 145,
+      "sentences": [
+        {
+          "text": "“ ’Course, Wood’s a superb Keeper!”",
+          "wordCount": 6
+        },
+        {
+          "text": "Lee Jordan told the crowd as Flint waited for Madam Hooch’s whistle.",
+          "wordCount": 12
+        },
+        {
+          "text": "“Superb!",
+          "wordCount": 1
+        },
+        {
+          "text": "Very difficult to pass — very difficult indeed — YES!",
+          "wordCount": 10
+        },
+        {
+          "text": "I DON’T BELIEVE IT!",
+          "wordCount": 4
+        },
+        {
+          "text": "HE’S SAVED IT!”",
+          "wordCount": 3
+        }
+      ]
+    },
+    {
+      "index": 146,
+      "sentences": [
+        {
+          "text": "Relieved, Harry zoomed away, gazing around for the Snitch, but still making sure he caught every word of Lee’s commentary.",
+          "wordCount": 20
+        },
+        {
+          "text": "It was essential that he hold Malfoy off the Snitch until Gryffindor was more than fifty points up —",
+          "wordCount": 19
+        }
+      ]
+    },
+    {
+      "index": 147,
+      "sentences": [
+        {
+          "text": "“Gryffindor in possession, no, Slytherin in possession — no! — Gryffindor back in possession and it’s Katie Bell, Katie Bell for Gryffindor with the Quaffle, she’s streaking up the field — THAT WAS DELIBERATE!”",
+          "wordCount": 34
+        }
+      ]
+    },
+    {
+      "index": 148,
+      "sentences": [
+        {
+          "text": "Montague, a Slytherin Chaser, had swerved in front of Katie, and instead of seizing the Quaffle had grabbed her head.",
+          "wordCount": 20
+        },
+        {
+          "text": "Katie cart-wheeled in the air, managed to stay on her broom, but dropped the Quaffle.",
+          "wordCount": 15
+        }
+      ]
+    },
+    {
+      "index": 149,
+      "sentences": [
+        {
+          "text": "Madam Hooch’s whistle rang out again as she soared over to Montague and began shouting at him.",
+          "wordCount": 17
+        },
+        {
+          "text": "A minute later, Katie had put another penalty past the Slytherin Seeker.",
+          "wordCount": 12
+        }
+      ]
+    },
+    {
+      "index": 150,
+      "sentences": [
+        {
+          "text": "“THIRTY–ZERO!",
+          "wordCount": 1
+        },
+        {
+          "text": "TAKE THAT, YOU DIRTY, CHEATING —”",
+          "wordCount": 6
+        }
+      ]
+    },
+    {
+      "index": 151,
+      "sentences": [
+        {
+          "text": "“Jordan, if you can’t commentate in an unbiased way — !”",
+          "wordCount": 11
+        }
+      ]
+    },
+    {
+      "index": 152,
+      "sentences": [
+        {
+          "text": "“I’m telling it like it is, Professor!”",
+          "wordCount": 7
+        }
+      ]
+    },
+    {
+      "index": 153,
+      "sentences": [
+        {
+          "text": "Harry felt a huge jolt of excitement.",
+          "wordCount": 7
+        },
+        {
+          "text": "He had seen the Snitch — it was shimmering at the foot of one of the Gryffindor goal posts — but he mustn’t catch it yet — and if Malfoy saw it —",
+          "wordCount": 33
+        }
+      ]
+    },
+    {
+      "index": 154,
+      "sentences": [
+        {
+          "text": "Faking a look of sudden concentration, Harry pulled his Firebolt around and sped off toward the Slytherin end — it worked.",
+          "wordCount": 21
+        },
+        {
+          "text": "Malfoy went haring after him, clearly thinking Harry had seen the Snitch there. . . .",
+          "wordCount": 16
+        }
+      ]
+    },
+    {
+      "index": 155,
+      "sentences": [
+        {
+          "text": "WHOOSH.",
+          "wordCount": 1
+        }
+      ]
+    },
+    {
+      "index": 156,
+      "sentences": [
+        {
+          "text": "One of the Bludgers came streaking past Harry’s right ear, hit by the gigantic Slytherin Beater, Derrick.",
+          "wordCount": 17
+        },
+        {
+          "text": "Then again —",
+          "wordCount": 3
+        }
+      ]
+    },
+    {
+      "index": 157,
+      "sentences": [
+        {
+          "text": "WHOOSH.",
+          "wordCount": 1
+        }
+      ]
+    },
+    {
+      "index": 158,
+      "sentences": [
+        {
+          "text": "The second Bludger grazed Harry’s elbow.",
+          "wordCount": 6
+        },
+        {
+          "text": "The other Beater, Bole, was closing in.",
+          "wordCount": 7
+        }
+      ]
+    },
+    {
+      "index": 159,
+      "sentences": [
+        {
+          "text": "Harry had a fleeting glimpse of Bole and Derrick zooming toward him, clubs raised —",
+          "wordCount": 15
+        }
+      ]
+    },
+    {
+      "index": 160,
+      "sentences": [
+        {
+          "text": "He turned the Firebolt upward at the last second, and Bole and Derrick collided with a sickening crunch.",
+          "wordCount": 18
+        }
+      ]
+    },
+    {
+      "index": 161,
+      "sentences": [
+        {
+          "text": "“Ha haaa!” yelled Lee Jordan as the Slytherin Beaters lurched away from each other, clutching their heads.",
+          "wordCount": 17
+        },
+        {
+          "text": "“Too bad, boys!",
+          "wordCount": 3
+        },
+        {
+          "text": "You’ll need to get up earlier than that to beat a Firebolt!",
+          "wordCount": 12
+        },
+        {
+          "text": "And it’s Gryffindor in possession again, as Johnson takes the Quaffle — Flint alongside her — poke him in the eye, Angelina! — it was a joke, Professor, it was a joke — oh no — Flint in possession, Flint flying toward the Gryffindor goal posts, come on now, Wood, save — !”",
+          "wordCount": 53
+        }
+      ]
+    },
+    {
+      "index": 162,
+      "sentences": [
+        {
+          "text": "But Flint had scored; there was an eruption of cheers from the Slytherin end, and Lee swore so badly that Professor McGonagall tried to tug the magical megaphone away from him.",
+          "wordCount": 31
+        }
+      ]
+    },
+    {
+      "index": 163,
+      "sentences": [
+        {
+          "text": "“Sorry, Professor, sorry!",
+          "wordCount": 3
+        },
+        {
+          "text": "Won’t happen again!",
+          "wordCount": 3
+        },
+        {
+          "text": "So, Gryffindor in the lead, thirty points to ten, and Gryffindor in possession —”",
+          "wordCount": 14
+        }
+      ]
+    },
+    {
+      "index": 164,
+      "sentences": [
+        {
+          "text": "It was turning into the dirtiest game Harry had ever played in.",
+          "wordCount": 12
+        },
+        {
+          "text": "Enraged that Gryffindor had taken such an early lead, the Slytherins were rapidly resorting to any means to take the Quaffle.",
+          "wordCount": 21
+        },
+        {
+          "text": "Bole hit Alicia with his club and tried to say he’d thought she was a Bludger.",
+          "wordCount": 16
+        },
+        {
+          "text": "George Weasley elbowed Bole in the face in retaliation.",
+          "wordCount": 9
+        },
+        {
+          "text": "Madam Hooch awarded both teams penalties, and Wood pulled off another spectacular save, making the score forty-ten to Gryffindor.",
+          "wordCount": 19
+        }
+      ]
+    },
+    {
+      "index": 165,
+      "sentences": [
+        {
+          "text": "The Snitch had disappeared again.",
+          "wordCount": 5
+        },
+        {
+          "text": "Malfoy was still keeping close to Harry as he soared over the match, looking around for it — once Gryffindor was fifty points ahead —",
+          "wordCount": 25
+        }
+      ]
+    },
+    {
+      "index": 166,
+      "sentences": [
+        {
+          "text": "Katie scored.",
+          "wordCount": 2
+        },
+        {
+          "text": "Fifty-ten.",
+          "wordCount": 1
+        },
+        {
+          "text": "Fred and George Weasley were swooping around her, clubs raised, in case any of the Slytherins were thinking of revenge.",
+          "wordCount": 20
+        },
+        {
+          "text": "Bole and Derrick took advantage of Fred’s and George’s absence to aim both Bludgers at Wood; they caught him in the stomach, one after the other, and he rolled over in the air, clutching his broom, completely winded.",
+          "wordCount": 38
+        }
+      ]
+    },
+    {
+      "index": 167,
+      "sentences": [
+        {
+          "text": "Madam Hooch was beside herself.",
+          "wordCount": 5
+        }
+      ]
+    },
+    {
+      "index": 168,
+      "sentences": [
+        {
+          "text": "“YOU DO NOT ATTACK THE KEEPER UNLESS THE QUAFFLE IS WITHIN THE SCORING AREA!” she shrieked at Bole and Derrick.",
+          "wordCount": 20
+        },
+        {
+          "text": "“Gryffindor penalty!”",
+          "wordCount": 2
+        }
+      ]
+    },
+    {
+      "index": 169,
+      "sentences": [
+        {
+          "text": "And Angelina scored.",
+          "wordCount": 3
+        },
+        {
+          "text": "Sixty-ten.",
+          "wordCount": 1
+        },
+        {
+          "text": "Moments later, Fred Weasley pelted a Bludger at Warrington, knocking the Quaffle out of his hands; Alicia seized it and put it through the Slytherin goal — seventy-ten.",
+          "wordCount": 28
+        }
+      ]
+    },
+    {
+      "index": 170,
+      "sentences": [
+        {
+          "text": "The Gryffindor crowd below was screaming itself hoarse — Gryffindor was sixty points in the lead, and if Harry caught the Snitch now, the Cup was theirs.",
+          "wordCount": 27
+        },
+        {
+          "text": "Harry could almost feel hundreds of eyes following him as he soared around the field, high above the rest of the game, with Malfoy speeding along behind him.",
+          "wordCount": 28
+        }
+      ]
+    },
+    {
+      "index": 171,
+      "sentences": [
+        {
+          "text": "And then he saw it.",
+          "wordCount": 5
+        },
+        {
+          "text": "The Snitch was sparkling twenty feet above him.",
+          "wordCount": 8
+        }
+      ]
+    },
+    {
+      "index": 172,
+      "sentences": [
+        {
+          "text": "Harry put on a huge burst of speed; the wind was roaring in his ears; he stretched out his hand, but suddenly, the Firebolt was slow-ing down —",
+          "wordCount": 28
+        }
+      ]
+    },
+    {
+      "index": 173,
+      "sentences": [
+        {
+          "text": "Horrified, he looked around.",
+          "wordCount": 4
+        },
+        {
+          "text": "Malfoy had thrown himself forward, grabbed hold of the Firebolt’s tail, and was pulling it back.",
+          "wordCount": 16
+        }
+      ]
+    },
+    {
+      "index": 174,
+      "sentences": [
+        {
+          "text": "“You —”",
+          "wordCount": 2
+        }
+      ]
+    },
+    {
+      "index": 175,
+      "sentences": [
+        {
+          "text": "Harry was angry enough to hit Malfoy, but couldn’t reach — Malfoy was panting with the effort of holding onto the Firebolt, but his eyes were sparkling maliciously.",
+          "wordCount": 28
+        },
+        {
+          "text": "He had achieved what he’d wanted to do — the Snitch had disappeared again.",
+          "wordCount": 14
+        }
+      ]
+    },
+    {
+      "index": 176,
+      "sentences": [
+        {
+          "text": "“Penalty!",
+          "wordCount": 1
+        },
+        {
+          "text": "Penalty to Gryffindor!",
+          "wordCount": 3
+        },
+        {
+          "text": "I’ve never seen such tactics!”",
+          "wordCount": 5
+        },
+        {
+          "text": "Madam Hooch screeched, shooting up to where Malfoy was sliding back onto his Nimbus Two Thousand and One.",
+          "wordCount": 18
+        }
+      ]
+    },
+    {
+      "index": 177,
+      "sentences": [
+        {
+          "text": "“YOU CHEATING SCUM!”",
+          "wordCount": 3
+        },
+        {
+          "text": "Lee Jordan was howling into the megaphone, dancing out of Professor McGonagall’s reach.",
+          "wordCount": 13
+        },
+        {
+          "text": "“YOU FILTHY, CHEATING B —”",
+          "wordCount": 5
+        }
+      ]
+    },
+    {
+      "index": 178,
+      "sentences": [
+        {
+          "text": "Professor McGonagall didn’t even bother to tell him off.",
+          "wordCount": 9
+        },
+        {
+          "text": "She was actually shaking her finger in Malfoy’s direction, her hat had fallen off, and she too was shouting furiously.",
+          "wordCount": 20
+        }
+      ]
+    },
+    {
+      "index": 179,
+      "sentences": [
+        {
+          "text": "Alicia took Gryffindor’s penalty, but she was so angry she missed by several feet.",
+          "wordCount": 14
+        },
+        {
+          "text": "The Gryffindor team was losing concentration and the Slytherins, delighted by Malfoy’s foul on Harry, were being spurred on to greater heights.",
+          "wordCount": 22
+        }
+      ]
+    },
+    {
+      "index": 180,
+      "sentences": [
+        {
+          "text": "“Slytherin in possession, Slytherin heading for goal — Montague scores —” Lee groaned.",
+          "wordCount": 13
+        },
+        {
+          "text": "“Seventy-twenty to Gryffindor. . . .”",
+          "wordCount": 6
+        }
+      ]
+    },
+    {
+      "index": 181,
+      "sentences": [
+        {
+          "text": "Harry was now marking Malfoy so closely their knees kept hitting each other.",
+          "wordCount": 13
+        },
+        {
+          "text": "Harry wasn’t going to let Malfoy anywhere near the Snitch. . . .",
+          "wordCount": 13
+        }
+      ]
+    },
+    {
+      "index": 182,
+      "sentences": [
+        {
+          "text": "“Get out of it, Potter!”",
+          "wordCount": 5
+        },
+        {
+          "text": "Malfoy yelled in frustration as he tried to turn and found Harry blocking him.",
+          "wordCount": 14
+        }
+      ]
+    },
+    {
+      "index": 183,
+      "sentences": [
+        {
+          "text": "“Angelina Johnson gets the Quaffle for Gryffindor, come on, Angelina, COME ON!”",
+          "wordCount": 12
+        }
+      ]
+    },
+    {
+      "index": 184,
+      "sentences": [
+        {
+          "text": "Harry looked around.",
+          "wordCount": 3
+        },
+        {
+          "text": "Every single Slytherin player apart from Malfoy was streaking up the pitch toward Angelina, including the Slytherin Keeper — they were all going to block her —",
+          "wordCount": 27
+        }
+      ]
+    },
+    {
+      "index": 185,
+      "sentences": [
+        {
+          "text": "Harry wheeled the Firebolt around, bent so low he was lying flat along the handle, and kicked it forward.",
+          "wordCount": 19
+        },
+        {
+          "text": "Like a bullet, he shot toward the Slytherins.",
+          "wordCount": 8
+        }
+      ]
+    },
+    {
+      "index": 186,
+      "sentences": [
+        {
+          "text": "“AAAAAAARRRGH!”",
+          "wordCount": 1
+        }
+      ]
+    },
+    {
+      "index": 187,
+      "sentences": [
+        {
+          "text": "They scattered as the Firebolt zoomed toward them; Angelina’s way was clear.",
+          "wordCount": 12
+        }
+      ]
+    },
+    {
+      "index": 188,
+      "sentences": [
+        {
+          "text": "“SHE SCORES!",
+          "wordCount": 2
+        },
+        {
+          "text": "SHE SCORES!",
+          "wordCount": 2
+        },
+        {
+          "text": "Gryffindor leads by eighty points to twenty!”",
+          "wordCount": 7
+        }
+      ]
+    },
+    {
+      "index": 189,
+      "sentences": [
+        {
+          "text": "Harry, who had almost pelted headlong into the stands, skidded to a halt in midair, reversed, and zoomed back into the middle of the field.",
+          "wordCount": 25
+        }
+      ]
+    },
+    {
+      "index": 190,
+      "sentences": [
+        {
+          "text": "And then he saw something to make his heart stand still.",
+          "wordCount": 11
+        },
+        {
+          "text": "Malfoy was diving, a look of triumph on his face — there, a few feet above the grass below, was a tiny, golden glimmer —",
+          "wordCount": 25
+        }
+      ]
+    },
+    {
+      "index": 191,
+      "sentences": [
+        {
+          "text": "Harry urged the Firebolt downward, but Malfoy was miles ahead —",
+          "wordCount": 11
+        }
+      ]
+    },
+    {
+      "index": 192,
+      "sentences": [
+        {
+          "text": "“Go!",
+          "wordCount": 1
+        },
+        {
+          "text": "Go!",
+          "wordCount": 1
+        },
+        {
+          "text": "Go!”",
+          "wordCount": 1
+        },
+        {
+          "text": "Harry urged his broom.",
+          "wordCount": 4
+        },
+        {
+          "text": "He was gaining on Malfoy — Harry flattened himself to the broom handle as Bole sent a Bludger at him — he was at Malfoy’s ankles — he was level —",
+          "wordCount": 31
+        }
+      ]
+    },
+    {
+      "index": 193,
+      "sentences": [
+        {
+          "text": "Harry threw himself forward, took both hands off his broom.",
+          "wordCount": 10
+        },
+        {
+          "text": "He knocked Malfoy’s arm out of the way and —",
+          "wordCount": 10
+        }
+      ]
+    },
+    {
+      "index": 194,
+      "sentences": [
+        {
+          "text": "“YES!”",
+          "wordCount": 1
+        }
+      ]
+    },
+    {
+      "index": 195,
+      "sentences": [
+        {
+          "text": "He pulled out of his dive, his hand in the air, and the stadium exploded.",
+          "wordCount": 15
+        },
+        {
+          "text": "Harry soared above the crowd, an odd ringing in his ears.",
+          "wordCount": 11
+        },
+        {
+          "text": "The tiny golden ball was held tight in his fist, beating its wings hopelessly against his fingers.",
+          "wordCount": 17
+        }
+      ]
+    },
+    {
+      "index": 196,
+      "sentences": [
+        {
+          "text": "Then Wood was speeding toward him, half-blinded by tears; he seized Harry around the neck and sobbed unrestrainedly into his shoulder.",
+          "wordCount": 21
+        },
+        {
+          "text": "Harry felt two large thumps as Fred and George hit them; then Angelina’s, Alicia’s, and Katie’s voices, “We’ve won the Cup!",
+          "wordCount": 21
+        },
+        {
+          "text": "We’ve won the Cup!”",
+          "wordCount": 4
+        },
+        {
+          "text": "Tangled together in a many-armed hug, the Gryffindor team sank, yelling hoarsely, back to earth.",
+          "wordCount": 15
+        }
+      ]
+    },
+    {
+      "index": 197,
+      "sentences": [
+        {
+          "text": "Wave upon wave of crimson supporters was pouring over the barriers onto the field.",
+          "wordCount": 14
+        },
+        {
+          "text": "Hands were raining down on their backs.",
+          "wordCount": 7
+        },
+        {
+          "text": "Harry had a confused impression of noise and bodies pressing in on him.",
+          "wordCount": 13
+        },
+        {
+          "text": "Then he, and the rest of the team, were hoisted onto the shoulders of the crowd.",
+          "wordCount": 16
+        },
+        {
+          "text": "Thrust into the light, he saw Hagrid, plastered with crimson rosettes — “Yeh beat ’em, Harry, yeh beat ’em!",
+          "wordCount": 19
+        },
+        {
+          "text": "Wait till I tell Buckbeak!”",
+          "wordCount": 5
+        },
+        {
+          "text": "There was Percy, jumping up and down like a maniac, all dignity forgotten.",
+          "wordCount": 13
+        },
+        {
+          "text": "Professor McGonagall was sobbing harder even than Wood, wiping her eyes with an enormous Gryffindor flag; and there, fighting their way toward Harry, were Ron and Hermione.",
+          "wordCount": 27
+        },
+        {
+          "text": "Words failed them.",
+          "wordCount": 3
+        },
+        {
+          "text": "They simply beamed as Harry was borne toward the stands, where Dumbledore stood waiting with the enormous Quidditch Cup.",
+          "wordCount": 19
+        }
+      ]
+    },
+    {
+      "index": 198,
+      "sentences": [
+        {
+          "text": "If only there had been a dementor around. . . .",
+          "wordCount": 11
+        },
+        {
+          "text": "As a sobbing Wood passed Harry the Cup, as he lifted it into the air, Harry felt he could have produced the world’s best Patronus.",
+          "wordCount": 25
+        }
+      ]
+    }
+  ]
+}

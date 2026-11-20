@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<title>原文翻译练习</title>
+<style>
+  body { font-family: system-ui, sans-serif; max-width: 900px; margin: 20px auto; padding: 0 16px; }
+  textarea { width: 100%; box-sizing: border-box; padding: 10px; font-size: 15px; line-height: 1.6; }
+  #source { height: 130px; }
+  .toolbar { margin: 12px 0; display: flex; gap: 8px; flex-wrap: wrap; }
+  button { padding: 8px 18px; font-size: 14px; cursor: pointer; }
+  button:disabled { cursor: not-allowed; opacity: .5; }
+  .pair { border-bottom: 1px dashed #ccc; padding: 10px 0; }
+  .pair .src { font-size: 15px; color: #333; margin-bottom: 6px; line-height: 1.6; white-space: pre-wrap; }
+  .pair .no { color: #999; font-size: 12px; margin-right: 6px; }
+  .pair textarea { height: 58px; resize: vertical; }
+  #output-area { display: none; }
+</style>
+</head>
+<body>
+
+<h3>① 粘贴原文（每行一句）</h3>
+<textarea id="source" placeholder="Hello world.&#10;How are you?&#10;I am fine."></textarea>
+
+<div class="toolbar">
+  <button id="genBtn">生成练习</button>
+</div>
+
+<h3>② 练习区（原文 / 翻译交替）</h3>
+<div id="output-area">
+  <div id="pairs"></div>
+  <div class="toolbar">
+    <button id="exportBtn">导出 TXT</button>
+    <button id="copyBtn">复制到剪贴板</button>
+  </div>
+</div>
+
+<script>
+(() => {
+  const source = document.getElementById('source');
+  const pairsBox = document.getElementById('pairs');
+  const outputArea = document.getElementById('output-area');
+
+  let pairs = []; // [{ src, ta }]
+
+  // —— 核心：按行切分 ——
+  const splitLines = text =>
+    text.split(/\r?\n/)          // 兼容 \r\n 和 \n
+        .map(s => s.trim())      // 去首尾空白
+        .filter(Boolean);        // 过滤空行
+
+  function escapeHtml(s) {
+    return s.replace(/[&<>"']/g, c =>
+      ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+  }
+
+  // —— 生成练习 ——
+  function generate() {
+    const lines = splitLines(source.value);
+    if (!lines.length) { alert('请先输入原文'); return; }
+
+    pairsBox.innerHTML = '';
+    pairs = [];
+    const frag = document.createDocumentFragment();
+
+    lines.forEach((line, i) => {
+      const pair = document.createElement('div');
+      pair.className = 'pair';
+
+      const src = document.createElement('div');
+      src.className = 'src';
+      src.innerHTML = `<span class="no">${i + 1}.</span>${escapeHtml(line)}`;
+
+      const ta = document.createElement('textarea');
+      ta.placeholder = '在此输入翻译…';
+
+      pair.append(src, ta);
+      frag.appendChild(pair);
+      pairs.push({ src: line, ta });
+    });
+
+    pairsBox.appendChild(frag);
+    outputArea.style.display = 'block';
+  }
+
+  // —— 导出文本：原文 / 译文 交替 ——
+  function buildExportText() {
+    if (!pairs.length) return '';
+    const out = [];
+    pairs.forEach((p, i) => {
+      out.push(`【原文${i + 1}】${p.src}`);
+      out.push(`【译文${i + 1}】${p.ta.value.trim() || '（未填写）'}`);
+      out.push('');
+    });
+    return out.join('\n');
+  }
+
+  function exportTxt() {
+    const text = buildExportText();
+    if (!text) return alert('还没有可导出内容');
+    const blob = new Blob([text], { type: 'text/plain;charset=utf-8' });
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement('a');
+    a.href = url;
+    a.download = '翻译练习_' + new Date().toISOString().slice(0, 10) + '.txt';
+    document.body.appendChild(a);
+    a.click();
+    a.remove();
+    URL.revokeObjectURL(url);
+  }
+
+  async function copyText() {
+    const text = buildExportText();
+    if (!text) return alert('还没有可复制内容');
+    try {
+      await navigator.clipboard.writeText(text);
+      alert('已复制');
+    } catch {
+      const ta = document.createElement('textarea');
+      ta.value = text;
+      document.body.appendChild(ta);
+      ta.select();
+      document.execCommand('copy');
+      ta.remove();
+      alert('已复制');
+    }
+  }
+
+  document.getElementById('genBtn').addEventListener('click', generate);
+  document.getElementById('exportBtn').addEventListener('click', exportTxt);
+  document.getElementById('copyBtn').addEventListener('click', copyText);
+})();
+</script>
+</body>
+</html>

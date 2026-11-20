@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "generatedAt": "2026-11-19T00:00:00.000Z",
+  "sourceDir": "test/fixtures/corpus",
+  "books": [
+    {
+      "id": "hp1",
+      "order": 1,
+      "title": "Harry Potter and the Sorcerer's Stone",
+      "titleZh": "哈利·波特与魔法石",
+      "wordCount": 140,
+      "paragraphCount": 5,
+      "sentenceCount": 9,
+      "chapters": [
+        {
+          "index": 1,
+          "number": "ONE",
+          "title": "The Boy Who Lived",
+          "paragraphCount": 3,
+          "sentenceCount": 6,
+          "file": "hp1/chapter-001.json"
+        },
+        {
+          "index": 2,
+          "number": "TWO",
+          "title": "The Vanishing Glass",
+          "paragraphCount": 2,
+          "sentenceCount": 3,
+          "file": "hp1/chapter-002.json"
+        }
+      ]
+    },
+    {
+      "id": "hp2",
+      "order": 2,
+      "title": "Harry Potter and the Chamber of Secrets",
+      "titleZh": "哈利·波特与密室",
+      "wordCount": 30,
+      "paragraphCount": 1,
+      "sentenceCount": 2,
+      "chapters": [
+        {
+          "index": 1,
+          "number": "ONE",
+          "title": "The Worst Birthday",
+          "paragraphCount": 1,
+          "sentenceCount": 2,
+          "file": "hp2/chapter-001.json"
+        }
+      ]
+    }
+  ]
+}

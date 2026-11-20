@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "generatedAt": "2026-11-19T09:00:00.000Z",
+  "sourceDir": "本地演示数据（public/js/mock，非真实语料）",
+  "books": [
+    {
+      "id": "hp1",
+      "order": 1,
+      "title": "Harry Potter and the Sorcerer's Stone",
+      "titleZh": "哈利·波特与魔法石",
+      "wordCount": 542,
+      "paragraphCount": 9,
+      "sentenceCount": 25,
+      "chapters": [
+        {
+          "index": 1,
+          "number": "ONE",
+          "title": "The Boy Who Lived",
+          "paragraphCount": 5,
+          "sentenceCount": 13,
+          "file": "hp1/chapter-001.json"
+        },
+        {
+          "index": 2,
+          "number": "TWO",
+          "title": "The Vanishing Glass",
+          "paragraphCount": 4,
+          "sentenceCount": 12,
+          "file": "hp1/chapter-002.json"
+        }
+      ]
+    }
+  ]
+}

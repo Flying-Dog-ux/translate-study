@@ -1,0 +1,29 @@
+{
+  "bookId": "hp1",
+  "chapterIndex": 2,
+  "title": "The Vanishing Glass",
+  "paragraphs": [
+    {
+      "index": 0,
+      "sentences": [
+        {
+          "text": "Nearly ten years had passed since the Dursleys had woken up to find their nephew on the front step.",
+          "wordCount": 19
+        },
+        {
+          "text": "But Privet Drive had hardly changed at all.",
+          "wordCount": 8
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "sentences": [
+        {
+          "text": "The sun rose on the same tidy front gardens.",
+          "wordCount": 8
+        }
+      ]
+    }
+  ]
+}

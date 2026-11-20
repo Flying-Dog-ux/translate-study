@@ -1,0 +1,3688 @@
+{
+  "bookId": "hp5",
+  "chapterIndex": 24,
+  "title": "Occlumency",
+  "paragraphs": [
+    {
+      "index": 0,
+      "sentences": [
+        {
+          "text": "Kreacher, it transpired, had been lurking in the attic.",
+          "wordCount": 9
+        },
+        {
+          "text": "Sirius said he had found him up there, covered in dust, no doubt looking for more relics of the Black family to hide in his cupboard.",
+          "wordCount": 26
+        },
+        {
+          "text": "Though Sirius seemed satisfied with this story, it made Harry uneasy.",
+          "wordCount": 11
+        },
+        {
+          "text": "Kreacher seemed to be in a better mood on his reappearance, his bitter muttering had subsided somewhat, and he submitted to orders more docilely than usual, though once or twice Harry caught the house-elf staring avidly at him, always looking quickly away when he saw that Harry had noticed.",
+          "wordCount": 49
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "sentences": [
+        {
+          "text": "Harry did not mention his vague suspicions to Sirius, whose cheerfulness was evaporating fast now that Christmas was over.",
+          "wordCount": 19
+        },
+        {
+          "text": "As the date of their departure back to Hogwarts drew nearer, he became more and more prone to what Mrs. Weasley called “fits of the sullens,” in which he would become taciturn and grumpy, often withdrawing to Buckbeak’s room for hours at a time.",
+          "wordCount": 44
+        },
+        {
+          "text": "His gloom seeped through the house, oozing under doorways like some noxious gas, so that all of them became infected by it.",
+          "wordCount": 22
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "sentences": [
+        {
+          "text": "Harry did not want to leave Sirius all alone again with only Kreacher for company.",
+          "wordCount": 15
+        },
+        {
+          "text": "In fact, for the first time in his life, he was not looking forward to returning to Hogwarts.",
+          "wordCount": 18
+        },
+        {
+          "text": "Going back to school would mean placing himself once again under the tyranny of Dolores Umbridge, who had no doubt managed to force through another dozen decrees in their absence.",
+          "wordCount": 30
+        },
+        {
+          "text": "Then there was no Quidditch to look forward to now that he had been banned; there was every likelihood that their burden of homework would increase as the exams drew even nearer; Dumbledore remained as remote as ever; in fact, if it had not been for the D.A., Harry felt he might have gone to Sirius and begged him to let him leave Hogwarts and remain in Grimmauld Place.",
+          "wordCount": 69
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "sentences": [
+        {
+          "text": "Then, on the very last day of the holidays, something happened that made Harry positively dread his return to school.",
+          "wordCount": 20
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "sentences": [
+        {
+          "text": "“Harry dear,” said Mrs. Weasley, poking her head into his and Ron’s bedroom, where the pair of them were playing wizard chess watched by Hermione, Ginny, and Crookshanks, “could you come down to the kitchen?",
+          "wordCount": 35
+        },
+        {
+          "text": "Professor Snape would like a word with you.”",
+          "wordCount": 8
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "sentences": [
+        {
+          "text": "Harry did not immediately register what she had said; one of his castles was engaged in a violent tussle with a pawn of Ron’s, and he was egging it on enthusiastically.",
+          "wordCount": 31
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "sentences": [
+        {
+          "text": "“Squash him — squash him, he’s only a pawn, you idiot — sorry, Mrs. Weasley, what did you say?”",
+          "wordCount": 19
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "sentences": [
+        {
+          "text": "“Professor Snape, dear.",
+          "wordCount": 3
+        },
+        {
+          "text": "In the kitchen.",
+          "wordCount": 3
+        },
+        {
+          "text": "He’d like a word.”",
+          "wordCount": 4
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "sentences": [
+        {
+          "text": "Harry’s mouth fell open in horror.",
+          "wordCount": 6
+        },
+        {
+          "text": "He looked around at Ron, Hermione, and Ginny, all of whom were gaping back at him.",
+          "wordCount": 16
+        },
+        {
+          "text": "Crookshanks, whom Hermione had been restraining with difficulty for the past quarter of an hour, leapt gleefully upon the board and set the pieces running for cover, squealing at the top of their voices.",
+          "wordCount": 34
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "sentences": [
+        {
+          "text": "“Snape?” said Harry blankly.",
+          "wordCount": 4
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "sentences": [
+        {
+          "text": "“Professor Snape, dear,” said Mrs. Weasley reprovingly.",
+          "wordCount": 7
+        },
+        {
+          "text": "“Now come on, quickly, he says he can’t stay long.”",
+          "wordCount": 10
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "sentences": [
+        {
+          "text": "“What’s he want with you?” said Ron, looking unnerved as Mrs. Weasley withdrew from the room.",
+          "wordCount": 16
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "sentences": [
+        {
+          "text": "“You haven’t done anything, have you?”",
+          "wordCount": 6
+        }
+      ]
+    },
+    {
+      "index": 13,
+      "sentences": [
+        {
+          "text": "“No!” said Harry indignantly, racking his brains to think what he could have done that would make Snape pursue him to Grimmauld Place.",
+          "wordCount": 23
+        },
+        {
+          "text": "Had his last piece of homework perhaps earned a T?",
+          "wordCount": 10
+        }
+      ]
+    },
+    {
+      "index": 14,
+      "sentences": [
+        {
+          "text": "He pushed open the kitchen door a minute or two later to find Sirius and Snape both seated at the long kitchen table, glaring in opposite directions.",
+          "wordCount": 27
+        },
+        {
+          "text": "The silence between them was heavy with mutual dislike.",
+          "wordCount": 9
+        },
+        {
+          "text": "A letter lay open on the table in front of Sirius.",
+          "wordCount": 11
+        }
+      ]
+    },
+    {
+      "index": 15,
+      "sentences": [
+        {
+          "text": "“Er,” said Harry to announce his presence.",
+          "wordCount": 7
+        }
+      ]
+    },
+    {
+      "index": 16,
+      "sentences": [
+        {
+          "text": "Snape looked around at him, his face framed between curtains of greasy black hair.",
+          "wordCount": 14
+        }
+      ]
+    },
+    {
+      "index": 17,
+      "sentences": [
+        {
+          "text": "“Sit down, Potter.”",
+          "wordCount": 3
+        }
+      ]
+    },
+    {
+      "index": 18,
+      "sentences": [
+        {
+          "text": "“You know,” said Sirius loudly, leaning back on his rear chair legs and speaking to the ceiling, “I think I’d prefer it if you didn’t give orders here, Snape.",
+          "wordCount": 29
+        },
+        {
+          "text": "It’s my house, you see.”",
+          "wordCount": 5
+        }
+      ]
+    },
+    {
+      "index": 19,
+      "sentences": [
+        {
+          "text": "An ugly flush suffused Snape’s pallid face.",
+          "wordCount": 7
+        },
+        {
+          "text": "Harry sat down in a chair beside Sirius, facing Snape across the table.",
+          "wordCount": 13
+        }
+      ]
+    },
+    {
+      "index": 20,
+      "sentences": [
+        {
+          "text": "“I was supposed to see you alone, Potter,” said Snape, the familiar sneer curling his mouth, “but Black —”",
+          "wordCount": 19
+        }
+      ]
+    },
+    {
+      "index": 21,
+      "sentences": [
+        {
+          "text": "“I’m his godfather,” said Sirius, louder than ever.",
+          "wordCount": 8
+        }
+      ]
+    },
+    {
+      "index": 22,
+      "sentences": [
+        {
+          "text": "“I am here on Dumbledore’s orders,” said Snape, whose voice, by contrast, was becoming more and more quietly waspish, “but by all means stay, Black, I know you like to feel . . . involved.”",
+          "wordCount": 35
+        }
+      ]
+    },
+    {
+      "index": 23,
+      "sentences": [
+        {
+          "text": "“What’s that supposed to mean?” said Sirius, letting his chair fall back onto all four legs with a loud bang.",
+          "wordCount": 20
+        }
+      ]
+    },
+    {
+      "index": 24,
+      "sentences": [
+        {
+          "text": "“Merely that I am sure you must feel — ah — frustrated by the fact that you can do nothing useful,” Snape laid a delicate stress on the word, “for the Order.”",
+          "wordCount": 32
+        }
+      ]
+    },
+    {
+      "index": 25,
+      "sentences": [
+        {
+          "text": "It was Sirius’s turn to flush.",
+          "wordCount": 6
+        },
+        {
+          "text": "Snape’s lip curled in triumph as he turned to Harry.",
+          "wordCount": 10
+        }
+      ]
+    },
+    {
+      "index": 26,
+      "sentences": [
+        {
+          "text": "“The headmaster has sent me to tell you, Potter, that it is his wish for you to study Occlumency this term.”",
+          "wordCount": 21
+        }
+      ]
+    },
+    {
+      "index": 27,
+      "sentences": [
+        {
+          "text": "“Study what?” said Harry blankly.",
+          "wordCount": 5
+        }
+      ]
+    },
+    {
+      "index": 28,
+      "sentences": [
+        {
+          "text": "Snape’s sneer became more pronounced.",
+          "wordCount": 5
+        }
+      ]
+    },
+    {
+      "index": 29,
+      "sentences": [
+        {
+          "text": "“Occlumency, Potter.",
+          "wordCount": 2
+        },
+        {
+          "text": "The magical defense of the mind against external penetration.",
+          "wordCount": 9
+        },
+        {
+          "text": "An obscure branch of magic, but a highly useful one.",
+          "wordCount": 10
+        }
+      ]
+    },
+    {
+      "index": 30,
+      "sentences": [
+        {
+          "text": "Harry’s heart began to pump very fast indeed.",
+          "wordCount": 8
+        },
+        {
+          "text": "Defense against external penetration?",
+          "wordCount": 4
+        },
+        {
+          "text": "But he was not being possessed, they had all agreed on that. . . .",
+          "wordCount": 15
+        }
+      ]
+    },
+    {
+      "index": 31,
+      "sentences": [
+        {
+          "text": "“Why do I have to study Occlu — thing?” he blurted out.",
+          "wordCount": 12
+        }
+      ]
+    },
+    {
+      "index": 32,
+      "sentences": [
+        {
+          "text": "“Because the headmaster thinks it a good idea,” said Snape smoothly.",
+          "wordCount": 11
+        },
+        {
+          "text": "“You will receive private lessons once a week, but you will not tell anybody what you are doing, least of all Dolores Umbridge.",
+          "wordCount": 23
+        },
+        {
+          "text": "You understand?”",
+          "wordCount": 2
+        }
+      ]
+    },
+    {
+      "index": 33,
+      "sentences": [
+        {
+          "text": "“Yes,” said Harry.",
+          "wordCount": 3
+        },
+        {
+          "text": "“Who’s going to be teaching me?”",
+          "wordCount": 6
+        }
+      ]
+    },
+    {
+      "index": 34,
+      "sentences": [
+        {
+          "text": "Snape raised an eyebrow.",
+          "wordCount": 4
+        }
+      ]
+    },
+    {
+      "index": 35,
+      "sentences": [
+        {
+          "text": "“I am,” he said.",
+          "wordCount": 4
+        }
+      ]
+    },
+    {
+      "index": 36,
+      "sentences": [
+        {
+          "text": "Harry had the horrible sensation that his insides were melting.",
+          "wordCount": 10
+        },
+        {
+          "text": "Extra lessons with Snape — what on earth had he done to deserve this?",
+          "wordCount": 14
+        },
+        {
+          "text": "He looked quickly around at Sirius for support.",
+          "wordCount": 8
+        }
+      ]
+    },
+    {
+      "index": 37,
+      "sentences": [
+        {
+          "text": "“Why can’t Dumbledore teach Harry?” asked Sirius aggressively.",
+          "wordCount": 8
+        },
+        {
+          "text": "“Why you?”",
+          "wordCount": 2
+        }
+      ]
+    },
+    {
+      "index": 38,
+      "sentences": [
+        {
+          "text": "“I suppose because it is a headmaster’s privilege to delegate less enjoyable tasks,” said Snape silkily.",
+          "wordCount": 16
+        },
+        {
+          "text": "“I assure you I did not beg for the job.”",
+          "wordCount": 10
+        },
+        {
+          "text": "He got to his feet.",
+          "wordCount": 5
+        },
+        {
+          "text": "“I will expect you at six o’clock on Monday evening, Potter.",
+          "wordCount": 11
+        },
+        {
+          "text": "My office.",
+          "wordCount": 2
+        },
+        {
+          "text": "If anybody asks, you are taking Remedial Potions.",
+          "wordCount": 8
+        },
+        {
+          "text": "Nobody who has seen you in my classes could deny you need them.”",
+          "wordCount": 13
+        }
+      ]
+    },
+    {
+      "index": 39,
+      "sentences": [
+        {
+          "text": "He turned to leave, his black traveling cloak billowing behind him.",
+          "wordCount": 11
+        }
+      ]
+    },
+    {
+      "index": 40,
+      "sentences": [
+        {
+          "text": "“Wait a moment,” said Sirius, sitting up straighter in his chair.",
+          "wordCount": 11
+        }
+      ]
+    },
+    {
+      "index": 41,
+      "sentences": [
+        {
+          "text": "Snape turned back to face them, sneering.",
+          "wordCount": 7
+        }
+      ]
+    },
+    {
+      "index": 42,
+      "sentences": [
+        {
+          "text": "“I am in rather a hurry, Black . . . unlike you, I do not have unlimited leisure time. . . .”",
+          "wordCount": 22
+        }
+      ]
+    },
+    {
+      "index": 43,
+      "sentences": [
+        {
+          "text": "“I’ll get to the point, then,” said Sirius, standing up.",
+          "wordCount": 10
+        },
+        {
+          "text": "He was rather taller than Snape who, Harry noticed, had balled his fist in the pocket of his cloak over what Harry was sure was the handle of his wand.",
+          "wordCount": 30
+        },
+        {
+          "text": "“If I hear you’re using these Occlumency lessons to give Harry a hard time, you’ll have me to answer to.”",
+          "wordCount": 20
+        }
+      ]
+    },
+    {
+      "index": 44,
+      "sentences": [
+        {
+          "text": "“How touching,” Snape sneered.",
+          "wordCount": 4
+        },
+        {
+          "text": "“But surely you have noticed that Potter is very like his father?”",
+          "wordCount": 12
+        }
+      ]
+    },
+    {
+      "index": 45,
+      "sentences": [
+        {
+          "text": "“Yes, I have,” said Sirius proudly.",
+          "wordCount": 6
+        }
+      ]
+    },
+    {
+      "index": 46,
+      "sentences": [
+        {
+          "text": "“Well then, you’ll know he’s so arrogant that criticism simply bounces off him,” Snape said sleekly.",
+          "wordCount": 16
+        }
+      ]
+    },
+    {
+      "index": 47,
+      "sentences": [
+        {
+          "text": "Sirius pushed his chair roughly aside and strode around the table toward Snape, pulling out his wand as he went; Snape whipped out his own.",
+          "wordCount": 25
+        },
+        {
+          "text": "They were squaring up to each other, Sirius looking livid, Snape calculating, his eyes darting from Sirius’s wand tip to his face.",
+          "wordCount": 22
+        }
+      ]
+    },
+    {
+      "index": 48,
+      "sentences": [
+        {
+          "text": "“Sirius!” said Harry loudly, but Sirius appeared not to hear him.",
+          "wordCount": 11
+        }
+      ]
+    },
+    {
+      "index": 49,
+      "sentences": [
+        {
+          "text": "“I’ve warned you, Snivellus,” said Sirius, his face barely a foot from Snape’s, “I don’t care if Dumbledore thinks you’ve reformed, I know better —”",
+          "wordCount": 25
+        }
+      ]
+    },
+    {
+      "index": 50,
+      "sentences": [
+        {
+          "text": "“Oh, but why don’t you tell him so?” whispered Snape.",
+          "wordCount": 10
+        },
+        {
+          "text": "“Or are you afraid he might not take the advice of a man who has been hiding inside his mother’s house for six months very seriously?”",
+          "wordCount": 26
+        }
+      ]
+    },
+    {
+      "index": 51,
+      "sentences": [
+        {
+          "text": "“Tell me, how is Lucius Malfoy these days?",
+          "wordCount": 8
+        },
+        {
+          "text": "I expect he’s delighted his lapdog’s working at Hogwarts, isn’t he?”",
+          "wordCount": 11
+        }
+      ]
+    },
+    {
+      "index": 52,
+      "sentences": [
+        {
+          "text": "“Speaking of dogs,” said Snape softly, “did you know that Lucius Malfoy recognized you last time you risked a little jaunt outside?",
+          "wordCount": 22
+        },
+        {
+          "text": "Clever idea, Black, getting yourself seen on a safe station platform . . . gave you a cast-iron excuse not to leave your hidey-hole in future, didn’t it?”",
+          "wordCount": 28
+        }
+      ]
+    },
+    {
+      "index": 53,
+      "sentences": [
+        {
+          "text": "Sirius raised his wand.",
+          "wordCount": 4
+        }
+      ]
+    },
+    {
+      "index": 54,
+      "sentences": [
+        {
+          "text": "“NO!”",
+          "wordCount": 1
+        },
+        {
+          "text": "Harry yelled, vaulting over the table and trying to get in between them, “Sirius, don’t —”",
+          "wordCount": 16
+        }
+      ]
+    },
+    {
+      "index": 55,
+      "sentences": [
+        {
+          "text": "“Are you calling me a coward?” roared Sirius, trying to push Harry out of the way, but Harry would not budge.",
+          "wordCount": 21
+        }
+      ]
+    },
+    {
+      "index": 56,
+      "sentences": [
+        {
+          "text": "“Why, yes, I suppose I am,” said Snape.",
+          "wordCount": 8
+        }
+      ]
+    },
+    {
+      "index": 57,
+      "sentences": [
+        {
+          "text": "“Harry — get — out — of — it!” snarled Sirius, pushing him out of the way with his free hand.",
+          "wordCount": 21
+        }
+      ]
+    },
+    {
+      "index": 58,
+      "sentences": [
+        {
+          "text": "The kitchen door opened and the entire Weasley family, plus Hermione, came inside, all looking very happy, with Mr. Weasley walking proudly in their midst dressed in a pair of striped pajamas covered by a mackintosh.",
+          "wordCount": 36
+        }
+      ]
+    },
+    {
+      "index": 59,
+      "sentences": [
+        {
+          "text": "“Cured!” he announced brightly to the kitchen at large.",
+          "wordCount": 9
+        },
+        {
+          "text": "“Completely cured!”",
+          "wordCount": 2
+        }
+      ]
+    },
+    {
+      "index": 60,
+      "sentences": [
+        {
+          "text": "He and all the other Weasleys froze on the threshold, gazing at the scene in front of them, which was also suspended in mid-action, both Sirius and Snape looking toward the door with their wands pointing into each other’s faces and Harry immobile between them, a hand stretched out to each of them, trying to force them apart.",
+          "wordCount": 58
+        }
+      ]
+    },
+    {
+      "index": 61,
+      "sentences": [
+        {
+          "text": "“Merlin’s beard,” said Mr. Weasley, the smile sliding off his face, “what’s going on here?”",
+          "wordCount": 15
+        }
+      ]
+    },
+    {
+      "index": 62,
+      "sentences": [
+        {
+          "text": "Both Sirius and Snape lowered their wands.",
+          "wordCount": 7
+        },
+        {
+          "text": "Harry looked from one to the other.",
+          "wordCount": 7
+        },
+        {
+          "text": "Each wore an expression of utmost contempt, yet the unexpected entrance of so many witnesses seemed to have brought them to their senses.",
+          "wordCount": 23
+        },
+        {
+          "text": "Snape pocketed his wand and swept back across the kitchen, passing the Weasleys without comment.",
+          "wordCount": 15
+        },
+        {
+          "text": "At the door he looked back.",
+          "wordCount": 6
+        }
+      ]
+    },
+    {
+      "index": 63,
+      "sentences": [
+        {
+          "text": "“Six o’clock Monday evening, Potter.”",
+          "wordCount": 5
+        }
+      ]
+    },
+    {
+      "index": 64,
+      "sentences": [
+        {
+          "text": "He was gone.",
+          "wordCount": 3
+        },
+        {
+          "text": "Sirius glared after him, his wand at his side.",
+          "wordCount": 9
+        }
+      ]
+    },
+    {
+      "index": 65,
+      "sentences": [
+        {
+          "text": "“But what’s been going on?” asked Mr. Weasley again.",
+          "wordCount": 9
+        }
+      ]
+    },
+    {
+      "index": 66,
+      "sentences": [
+        {
+          "text": "“Nothing, Arthur,” said Sirius, who was breathing heavily as though he had just run a long distance.",
+          "wordCount": 17
+        },
+        {
+          "text": "“Just a friendly little chat between two old school friends. . . .”",
+          "wordCount": 13
+        },
+        {
+          "text": "With what looked like an enormous effort, he smiled.",
+          "wordCount": 9
+        },
+        {
+          "text": "“So . . . you’re cured?",
+          "wordCount": 6
+        },
+        {
+          "text": "That’s great news, really great. . . .”",
+          "wordCount": 8
+        }
+      ]
+    },
+    {
+      "index": 67,
+      "sentences": [
+        {
+          "text": "“Yes, isn’t it?” said Mrs. Weasley, leading her husband forward into a chair.",
+          "wordCount": 13
+        },
+        {
+          "text": "“Healer Smethwyck worked his magic in the end, found an antidote to whatever that snake’s got in its fangs, and Arthur’s learned his lesson about dabbling in Muggle medicine, haven’t you, dear?” she added, rather menacingly.",
+          "wordCount": 36
+        }
+      ]
+    },
+    {
+      "index": 68,
+      "sentences": [
+        {
+          "text": "“Yes, Molly dear,” said Mr. Weasley meekly.",
+          "wordCount": 7
+        }
+      ]
+    },
+    {
+      "index": 69,
+      "sentences": [
+        {
+          "text": "That night’s meal should have been a cheerful one with Mr. Weasley back amongst them; Harry could tell Sirius was trying to make it so, yet when his godfather was not forcing himself to laugh loudly at Fred and George’s jokes or offering everyone more food, his face fell back into a moody, brooding expression.",
+          "wordCount": 55
+        },
+        {
+          "text": "Harry was separated from him by Mundungus and Mad-Eye, who had dropped in to offer Mr. Weasley their congratulations; he wanted to talk to Sirius, to tell him that he should not listen to a word Snape said, that Snape was goading him deliberately and that the rest of them did not think Sirius was a coward for doing as Dumbledore told him and remaining in Grimmauld Place, but he had no opportunity to do so, and wondered occasionally, eyeing the ugly look on Sirius’s face, whether he would have dared to even if he had the chance.",
+          "wordCount": 98
+        },
+        {
+          "text": "Instead he told Ron and Hermione under his voice about having to take Occlumency lessons with Snape.",
+          "wordCount": 17
+        }
+      ]
+    },
+    {
+      "index": 70,
+      "sentences": [
+        {
+          "text": "“Dumbledore wants to stop you having those dreams about Voldemort,” said Hermione at once.",
+          "wordCount": 14
+        },
+        {
+          "text": "“Well, you won’t be sorry not to have them anymore, will you?”",
+          "wordCount": 12
+        }
+      ]
+    },
+    {
+      "index": 71,
+      "sentences": [
+        {
+          "text": "“Extra lessons with Snape?” said Ron, sounding aghast.",
+          "wordCount": 8
+        },
+        {
+          "text": "“I’d rather have the nightmares!”",
+          "wordCount": 5
+        }
+      ]
+    },
+    {
+      "index": 72,
+      "sentences": [
+        {
+          "text": "They were to return to Hogwarts on the Knight Bus the following day, escorted once again by Tonks and Lupin, both of whom were eating breakfast in the kitchen when Harry, Ron, and Hermione arrived there next morning.",
+          "wordCount": 38
+        },
+        {
+          "text": "The adults seemed to have been midway through a whispered conversation when the door opened; all of them looked around hastily and fell silent.",
+          "wordCount": 24
+        }
+      ]
+    },
+    {
+      "index": 73,
+      "sentences": [
+        {
+          "text": "After a hurried breakfast they pulled on jackets and scarves against the chilly gray January morning.",
+          "wordCount": 16
+        },
+        {
+          "text": "Harry had an unpleasant constricted sensation in his chest; he did not want to say good-bye to Sirius.",
+          "wordCount": 18
+        },
+        {
+          "text": "He had a bad feeling about this parting; he did not know when they would next see each other and felt that it was incumbent upon him to say something to Sirius to stop him doing anything stupid — Harry was worried that Snape’s accusation of cowardice had stung Sirius so badly he might even now be planning some foolhardy trip beyond Grimmauld Place.",
+          "wordCount": 64
+        },
+        {
+          "text": "Before he could think of what to say, however, Sirius had beckoned him to his side.",
+          "wordCount": 16
+        }
+      ]
+    },
+    {
+      "index": 74,
+      "sentences": [
+        {
+          "text": "“I want you to take this,” he said quietly, thrusting a badly wrapped package roughly the size of a paperback book into Harry’s hands.",
+          "wordCount": 24
+        }
+      ]
+    },
+    {
+      "index": 75,
+      "sentences": [
+        {
+          "text": "“What is it?”",
+          "wordCount": 3
+        },
+        {
+          "text": "Harry asked.",
+          "wordCount": 2
+        }
+      ]
+    },
+    {
+      "index": 76,
+      "sentences": [
+        {
+          "text": "“A way of letting me know if Snape’s giving you a hard time.",
+          "wordCount": 13
+        },
+        {
+          "text": "No, don’t open it in here!” said Sirius, with a wary look at Mrs. Weasley, who was trying to persuade the twins to wear hand-knitted mittens.",
+          "wordCount": 26
+        },
+        {
+          "text": "“I doubt Molly would approve — but I want you to use it if you need me, all right?”",
+          "wordCount": 19
+        }
+      ]
+    },
+    {
+      "index": 77,
+      "sentences": [
+        {
+          "text": "“Okay,” said Harry, stowing the package away in the inside pocket of his jacket, but he knew he would never use whatever it was.",
+          "wordCount": 24
+        },
+        {
+          "text": "It would not be he, Harry, who lured Sirius from his place of safety, no matter how foully Snape treated him in their forthcoming Occlumency classes.",
+          "wordCount": 26
+        }
+      ]
+    },
+    {
+      "index": 78,
+      "sentences": [
+        {
+          "text": "“Let’s go, then,” said Sirius, clapping Harry on the shoulder and smiling grimly, and before Harry could say anything else, they were heading upstairs, stopping before the heavily chained and bolted front door, surrounded by Weasleys.",
+          "wordCount": 36
+        }
+      ]
+    },
+    {
+      "index": 79,
+      "sentences": [
+        {
+          "text": "“Good-bye, Harry, take care,” said Mrs. Weasley, hugging him.",
+          "wordCount": 9
+        }
+      ]
+    },
+    {
+      "index": 80,
+      "sentences": [
+        {
+          "text": "“See you Harry, and keep an eye out for snakes for me!” said Mr. Weasley genially, shaking his hand.",
+          "wordCount": 19
+        }
+      ]
+    },
+    {
+      "index": 81,
+      "sentences": [
+        {
+          "text": "“Right — yeah,” said Harry distractedly.",
+          "wordCount": 6
+        },
+        {
+          "text": "It was his last chance to tell Sirius to be careful; he turned, looked into his godfather’s face and opened his mouth to speak, but before he could do so Sirius was giving him a brief, one-armed hug.",
+          "wordCount": 38
+        },
+        {
+          "text": "He said gruffly, “Look after yourself, Harry,” and next moment Harry found himself being shunted out into the icy winter air, with Tonks (today heavily disguised as a tall, tweedy woman with iron-gray hair) chivvying him down the steps.",
+          "wordCount": 39
+        }
+      ]
+    },
+    {
+      "index": 82,
+      "sentences": [
+        {
+          "text": "The door of number twelve slammed shut behind them.",
+          "wordCount": 9
+        },
+        {
+          "text": "They followed Lupin down the front steps.",
+          "wordCount": 7
+        },
+        {
+          "text": "As he reached the pavement, Harry looked around.",
+          "wordCount": 8
+        },
+        {
+          "text": "Number twelve was shrinking rapidly as those on either side of it stretched sideways, squeezing it out of sight; one blink later, it had gone.",
+          "wordCount": 25
+        }
+      ]
+    },
+    {
+      "index": 83,
+      "sentences": [
+        {
+          "text": "“Come on, the quicker we get on the bus the better,” said Tonks, and Harry thought there was nervousness in the glance she threw around the square.",
+          "wordCount": 27
+        },
+        {
+          "text": "Lupin flung out his right arm.",
+          "wordCount": 6
+        }
+      ]
+    },
+    {
+      "index": 84,
+      "sentences": [
+        {
+          "text": "BANG.",
+          "wordCount": 1
+        }
+      ]
+    },
+    {
+      "index": 85,
+      "sentences": [
+        {
+          "text": "A violently purple, triple-decker bus had appeared out of thin air in front of them, narrowly avoiding the nearest lamppost, which jumped backward out of its way.",
+          "wordCount": 27
+        }
+      ]
+    },
+    {
+      "index": 86,
+      "sentences": [
+        {
+          "text": "A thin, pimply, jug-eared youth in a purple uniform leapt down onto the pavement and said, “Welcome to the —”",
+          "wordCount": 20
+        }
+      ]
+    },
+    {
+      "index": 87,
+      "sentences": [
+        {
+          "text": "“Yes, yes, we know, thank you,” said Tonks swiftly.",
+          "wordCount": 9
+        },
+        {
+          "text": "“On, on, get on —",
+          "wordCount": 5
+        }
+      ]
+    },
+    {
+      "index": 88,
+      "sentences": [
+        {
+          "text": "And she shoved Harry forward toward the steps, past the conductor, who goggled at Harry as he passed.",
+          "wordCount": 18
+        }
+      ]
+    },
+    {
+      "index": 89,
+      "sentences": [
+        {
+          "text": "“ ’Ere — it’s ’Arry — !”",
+          "wordCount": 7
+        }
+      ]
+    },
+    {
+      "index": 90,
+      "sentences": [
+        {
+          "text": "“If you shout his name I will curse you into oblivion,” muttered Tonks menacingly, now shunting Ginny and Hermione forward.",
+          "wordCount": 20
+        }
+      ]
+    },
+    {
+      "index": 91,
+      "sentences": [
+        {
+          "text": "“I’ve always wanted to go on this thing,” said Ron happily, joining Harry on board and looking around.",
+          "wordCount": 18
+        }
+      ]
+    },
+    {
+      "index": 92,
+      "sentences": [
+        {
+          "text": "It had been evening the last time Harry had traveled by Knight Bus and its three decks had been full of brass bedsteads.",
+          "wordCount": 23
+        },
+        {
+          "text": "Now, in the early morning, it was crammed with an assortment of mismatched chairs grouped haphazardly around windows.",
+          "wordCount": 18
+        },
+        {
+          "text": "Some of these appeared to have fallen over when the bus stopped abruptly in Grimmauld Place; a few witches and wizards were still getting to their feet, grumbling, and somebody’s shopping bag had slid the length of the bus; an unpleasant mixture of frog spawn, cockroaches, and custard creams was scattered all over the floor.",
+          "wordCount": 55
+        }
+      ]
+    },
+    {
+      "index": 93,
+      "sentences": [
+        {
+          "text": "“Looks like we’ll have to split up,” said Tonics briskly, looking around for empty chairs.",
+          "wordCount": 15
+        },
+        {
+          "text": "“Fred, George, and Ginny, if you just take those seats at the back . . .",
+          "wordCount": 16
+        },
+        {
+          "text": "Remus can stay with you. . . .”",
+          "wordCount": 8
+        }
+      ]
+    },
+    {
+      "index": 94,
+      "sentences": [
+        {
+          "text": "She, Harry, Ron, and Hermione proceeded up to the very top deck, where there were two chairs at the very front of the bus and two at the back.",
+          "wordCount": 29
+        },
+        {
+          "text": "Stan Shunpike, the conductor, followed Harry and Ron eagerly to the back.",
+          "wordCount": 12
+        },
+        {
+          "text": "Heads turned as Harry passed and when he sat down, he saw all the faces flick back to the front again.",
+          "wordCount": 21
+        }
+      ]
+    },
+    {
+      "index": 95,
+      "sentences": [
+        {
+          "text": "As Harry and Ron handed Stan eleven Sickles each, the bus set off again, swaying ominously.",
+          "wordCount": 16
+        },
+        {
+          "text": "It rumbled around Grimmauld Square, weaving on and off the pavement, then, with another tremendous BANG, they were all flung backward; Ron’s chair toppled right over and Pigwidgeon, who had been on his lap, burst out of his cage and flew twittering wildly up to the front of the bus where he fluttered down upon Hermione’s shoulder instead.",
+          "wordCount": 58
+        },
+        {
+          "text": "Harry, who had narrowly avoided falling by seizing a candle bracket, looked out of the window: they were now speeding down what appeared to be a motorway.",
+          "wordCount": 27
+        }
+      ]
+    },
+    {
+      "index": 96,
+      "sentences": [
+        {
+          "text": "“Just outside Birmingham,” said Stan happily, answering Harry’s unasked question as Ron struggled up from the floor.",
+          "wordCount": 17
+        },
+        {
+          "text": "“You keepin’ well, then, ’Arry?",
+          "wordCount": 5
+        },
+        {
+          "text": "I seen your name in the paper loads over the summer, but it weren’t never nuffink very nice. . . .",
+          "wordCount": 21
+        },
+        {
+          "text": "I said to Ern, I said, ‘ ’e didn’t seem like a nutter when we met ’im, just goes to show, dunnit?’ ”",
+          "wordCount": 23
+        }
+      ]
+    },
+    {
+      "index": 97,
+      "sentences": [
+        {
+          "text": "He handed over their tickets and continued to gaze, enthralled, at Harry; apparently Stan did not care how nutty somebody was if they were famous enough to be in the paper.",
+          "wordCount": 31
+        },
+        {
+          "text": "The Knight Bus swayed alarmingly, overtaking a line of cars on the inside.",
+          "wordCount": 13
+        },
+        {
+          "text": "Looking toward the front of the bus Harry saw Hermione cover her eyes with her hands, Pigwidgeon still swaying happily on her shoulder.",
+          "wordCount": 23
+        }
+      ]
+    },
+    {
+      "index": 98,
+      "sentences": [
+        {
+          "text": "BANG.",
+          "wordCount": 1
+        }
+      ]
+    },
+    {
+      "index": 99,
+      "sentences": [
+        {
+          "text": "Chairs slid backward again as the Knight Bus jumped from the Birmingham motorway to a quiet country lane full of hairpin bends.",
+          "wordCount": 22
+        },
+        {
+          "text": "Hedgerows on either side of the road were leaping out of their way as they mounted the verges.",
+          "wordCount": 18
+        },
+        {
+          "text": "From here they moved to a main street in the middle of a busy town, then to a viaduct surrounded by tall hills, then to a windswept road between high-rise flats, each time with a loud BANG.",
+          "wordCount": 37
+        }
+      ]
+    },
+    {
+      "index": 100,
+      "sentences": [
+        {
+          "text": "“I’ve changed my mind,” muttered Ron, picking himself up from the floor for the sixth time, “I never want to ride on here again.”",
+          "wordCount": 24
+        }
+      ]
+    },
+    {
+      "index": 101,
+      "sentences": [
+        {
+          "text": "“Listen, it’s ’Ogwarts stop after this,” said Stan brightly, swaying toward them.",
+          "wordCount": 12
+        },
+        {
+          "text": "“That bossy woman up front ’oo got on with you, she’s given us a little tip to move you up the queue.",
+          "wordCount": 22
+        },
+        {
+          "text": "We’re just gonna let Madam Marsh off first, though —” There was more retching from downstairs, followed by a horrible spattering sound.",
+          "wordCount": 22
+        },
+        {
+          "text": "“She’s not feeling ’er best.",
+          "wordCount": 5
+        }
+      ]
+    },
+    {
+      "index": 102,
+      "sentences": [
+        {
+          "text": "A few minutes later the Knight Bus screeched to a halt outside a small pub, which squeezed itself out of the way to avoid a collision.",
+          "wordCount": 26
+        },
+        {
+          "text": "They could hear Stan ushering the unfortunate Madam Marsh out of the bus and the relieved murmurings of her fellow passengers on the second deck.",
+          "wordCount": 25
+        },
+        {
+          "text": "The bus moved on again, gathering speed, until —",
+          "wordCount": 9
+        }
+      ]
+    },
+    {
+      "index": 103,
+      "sentences": [
+        {
+          "text": "BANG.",
+          "wordCount": 1
+        }
+      ]
+    },
+    {
+      "index": 104,
+      "sentences": [
+        {
+          "text": "They were rolling through a snowy Hogsmeade.",
+          "wordCount": 7
+        },
+        {
+          "text": "Harry caught a glimpse of the Hog’s Head down its side street, the severed boar’s head sign creaking in the wintry wind.",
+          "wordCount": 22
+        },
+        {
+          "text": "Flecks of snow hit the large window at the front of the bus.",
+          "wordCount": 13
+        },
+        {
+          "text": "At last they rolled to a halt outside the gates to Hogwarts.",
+          "wordCount": 12
+        }
+      ]
+    },
+    {
+      "index": 105,
+      "sentences": [
+        {
+          "text": "Lupin and Tonks helped them off the bus with their luggage and then got off to say good-bye.",
+          "wordCount": 18
+        },
+        {
+          "text": "Harry glanced up at the three decks of the Knight Bus and saw all the passengers staring down at them, noses flat against the windows.",
+          "wordCount": 25
+        }
+      ]
+    },
+    {
+      "index": 106,
+      "sentences": [
+        {
+          "text": "“You’ll be safe once you’re in the grounds,” said Tonks, casting a careful eye around at the deserted road.",
+          "wordCount": 19
+        },
+        {
+          "text": "“Have a good term, okay?”",
+          "wordCount": 5
+        }
+      ]
+    },
+    {
+      "index": 107,
+      "sentences": [
+        {
+          "text": "“Look after yourselves,” said Lupin, shaking hands all round and reaching Harry last.",
+          "wordCount": 13
+        },
+        {
+          "text": "“And listen . . .”",
+          "wordCount": 5
+        },
+        {
+          "text": "He lowered his voice while the rest of them exchanged last-minute good-byes with Tonks, “Harry, I know you don’t like Snape, but he is a superb Occlumens and we all — Sirius included — want you to learn to protect yourself, so work hard, all right?”",
+          "wordCount": 46
+        }
+      ]
+    },
+    {
+      "index": 108,
+      "sentences": [
+        {
+          "text": "“Yeah, all right,” said Harry heavily, looking up into Lupin’s prematurely lined face.",
+          "wordCount": 13
+        },
+        {
+          "text": "“See you, then . . .”",
+          "wordCount": 6
+        }
+      ]
+    },
+    {
+      "index": 109,
+      "sentences": [
+        {
+          "text": "The six of them struggled up the slippery drive toward the castle dragging their trunks.",
+          "wordCount": 15
+        },
+        {
+          "text": "Hermione was already talking about knitting a few elf hats before bedtime.",
+          "wordCount": 12
+        },
+        {
+          "text": "Harry glanced back when they reached the oak front doors; the Knight Bus had already gone, and he half-wished, given what was coming the following day, that he was still on board.",
+          "wordCount": 32
+        }
+      ]
+    },
+    {
+      "index": 110,
+      "sentences": [
+        {
+          "text": "Harry spent most of the next day dreading the evening.",
+          "wordCount": 10
+        },
+        {
+          "text": "His morning Potions lesson did nothing to dispel his trepidation, as Snape was as unpleasant as ever, and Harry’s mood was further lowered by the fact that members of the D.A. were continually approaching him in the corridors between classes, asking hopefully whether there would be a meeting that night.",
+          "wordCount": 50
+        }
+      ]
+    },
+    {
+      "index": 111,
+      "sentences": [
+        {
+          "text": "“I’ll let you know when the next one is,” Harry said over and over again, “but I can’t do it tonight, I’ve got to go to — er — Remedial Potions. . . .”",
+          "wordCount": 34
+        }
+      ]
+    },
+    {
+      "index": 112,
+      "sentences": [
+        {
+          "text": "“You take Remedial Potions?” asked Zacharias Smith superciliously, having cornered Harry in the entrance hall after lunch.",
+          "wordCount": 17
+        },
+        {
+          "text": "“Good Lord, you must be terrible, Snape doesn’t usually give extra lessons, does he?”",
+          "wordCount": 14
+        }
+      ]
+    },
+    {
+      "index": 113,
+      "sentences": [
+        {
+          "text": "As Smith strode away in an annoyingly buoyant fashion, Ron glared after him.",
+          "wordCount": 13
+        }
+      ]
+    },
+    {
+      "index": 114,
+      "sentences": [
+        {
+          "text": "“Shall I jinx him?",
+          "wordCount": 4
+        },
+        {
+          "text": "I can still get him from here,” he said, raising his wand and taking aim between Smith’s shoulder blades.",
+          "wordCount": 19
+        }
+      ]
+    },
+    {
+      "index": 115,
+      "sentences": [
+        {
+          "text": "“Forget it,” said Harry dismally.",
+          "wordCount": 5
+        },
+        {
+          "text": "“It’s what everyone’s going to think, isn’t it?",
+          "wordCount": 8
+        },
+        {
+          "text": "That I’m really stup —”",
+          "wordCount": 5
+        }
+      ]
+    },
+    {
+      "index": 116,
+      "sentences": [
+        {
+          "text": "“Hi, Harry,” said a voice behind him.",
+          "wordCount": 7
+        },
+        {
+          "text": "He turned around and found Cho standing there.",
+          "wordCount": 8
+        }
+      ]
+    },
+    {
+      "index": 117,
+      "sentences": [
+        {
+          "text": "“Oh,” said Harry as his stomach leapt uncomfortably.",
+          "wordCount": 8
+        },
+        {
+          "text": "“Hi.”",
+          "wordCount": 1
+        }
+      ]
+    },
+    {
+      "index": 118,
+      "sentences": [
+        {
+          "text": "“We’ll be in the library, Harry,” said Hermione firmly, and she seized Ron above the elbow and dragged him off toward the marble staircase.",
+          "wordCount": 24
+        }
+      ]
+    },
+    {
+      "index": 119,
+      "sentences": [
+        {
+          "text": "“Had a good Christmas?” asked Cho.",
+          "wordCount": 6
+        }
+      ]
+    },
+    {
+      "index": 120,
+      "sentences": [
+        {
+          "text": "“Yeah, not bad,” said Harry.",
+          "wordCount": 5
+        }
+      ]
+    },
+    {
+      "index": 121,
+      "sentences": [
+        {
+          "text": "“Mine was pretty quiet,” said Cho.",
+          "wordCount": 6
+        },
+        {
+          "text": "For some reason, she was looking rather embarrassed.",
+          "wordCount": 8
+        },
+        {
+          "text": "“Erm . . . there’s another Hogsmeade trip next month, did you see the notice?”",
+          "wordCount": 15
+        }
+      ]
+    },
+    {
+      "index": 122,
+      "sentences": [
+        {
+          "text": "“What?",
+          "wordCount": 1
+        },
+        {
+          "text": "Oh no, I haven’t checked the notice board since I got back. . . .”",
+          "wordCount": 15
+        }
+      ]
+    },
+    {
+      "index": 123,
+      "sentences": [
+        {
+          "text": "“Yes, it’s on Valentine’s Day. . . .”",
+          "wordCount": 8
+        }
+      ]
+    },
+    {
+      "index": 124,
+      "sentences": [
+        {
+          "text": "“Right,” said Harry, wondering why she was telling him this.",
+          "wordCount": 10
+        },
+        {
+          "text": "“Well, I suppose you want to — ?”",
+          "wordCount": 8
+        }
+      ]
+    },
+    {
+      "index": 125,
+      "sentences": [
+        {
+          "text": "“Only if you do,” she said eagerly.",
+          "wordCount": 7
+        }
+      ]
+    },
+    {
+      "index": 126,
+      "sentences": [
+        {
+          "text": "Harry stared.",
+          "wordCount": 2
+        },
+        {
+          "text": "He had been about to say “I suppose you want to know when the next D.A. meeting is?” but her response did not seem to fit.",
+          "wordCount": 26
+        }
+      ]
+    },
+    {
+      "index": 127,
+      "sentences": [
+        {
+          "text": "“I — er —” he said.",
+          "wordCount": 6
+        }
+      ]
+    },
+    {
+      "index": 128,
+      "sentences": [
+        {
+          "text": "“Oh, it’s okay if you don’t,” she said, looking mortified.",
+          "wordCount": 10
+        },
+        {
+          "text": "“Don’t worry.",
+          "wordCount": 2
+        },
+        {
+          "text": "I-I’ll see you around.”",
+          "wordCount": 4
+        }
+      ]
+    },
+    {
+      "index": 129,
+      "sentences": [
+        {
+          "text": "She walked away.",
+          "wordCount": 3
+        },
+        {
+          "text": "Harry stood staring after her, his brain working frantically.",
+          "wordCount": 9
+        },
+        {
+          "text": "Then something clunked into place.",
+          "wordCount": 5
+        }
+      ]
+    },
+    {
+      "index": 130,
+      "sentences": [
+        {
+          "text": "“Cho!",
+          "wordCount": 1
+        },
+        {
+          "text": "Hey — CHO!”",
+          "wordCount": 3
+        }
+      ]
+    },
+    {
+      "index": 131,
+      "sentences": [
+        {
+          "text": "He ran after her, catching her halfway up the marble staircase.",
+          "wordCount": 11
+        }
+      ]
+    },
+    {
+      "index": 132,
+      "sentences": [
+        {
+          "text": "“Er — d’you want to come into Hogsmeade with me on Valentine’s Day?”",
+          "wordCount": 13
+        }
+      ]
+    },
+    {
+      "index": 133,
+      "sentences": [
+        {
+          "text": "“Oooh, yes!” she said, blushing crimson and beaming at him.",
+          "wordCount": 10
+        }
+      ]
+    },
+    {
+      "index": 134,
+      "sentences": [
+        {
+          "text": "“Right . . . well . . . that’s settled then,” said Harry, and feeling that the day was not going to be a complete loss after all, he headed off to the library to pick up Ron and Hermione before their afternoon lessons, walking in a rather bouncy way himself.",
+          "wordCount": 51
+        }
+      ]
+    },
+    {
+      "index": 135,
+      "sentences": [
+        {
+          "text": "By six o’clock that evening, however, even the glow of having successfully asked out Cho Chang was insufficient to lighten the ominous feelings that intensified with every step Harry took toward Snape’s office.",
+          "wordCount": 33
+        }
+      ]
+    },
+    {
+      "index": 136,
+      "sentences": [
+        {
+          "text": "He paused outside the door when he reached it, wishing he were almost anywhere else, then, taking a deep breath, knocked, and entered.",
+          "wordCount": 23
+        }
+      ]
+    },
+    {
+      "index": 137,
+      "sentences": [
+        {
+          "text": "It was a shadowy room lined with shelves bearing hundreds of glass jars in which floated slimy bits of animals and plants, suspended in variously colored potions.",
+          "wordCount": 27
+        },
+        {
+          "text": "In a corner stood the cupboard full of ingredients that Snape had once accused Harry — not without reason — of robbing.",
+          "wordCount": 22
+        },
+        {
+          "text": "Harry’s attention was drawn toward the desk, however, where a shallow stone basin engraved with runes and symbols lay in a pool of candlelight.",
+          "wordCount": 24
+        },
+        {
+          "text": "Harry recognized it at once — Dumbledore’s Pensieve.",
+          "wordCount": 8
+        },
+        {
+          "text": "Wondering what on earth it was doing here, he jumped when Snape’s cold voice came out of the corner.",
+          "wordCount": 19
+        }
+      ]
+    },
+    {
+      "index": 138,
+      "sentences": [
+        {
+          "text": "“Shut the door behind you, Potter.”",
+          "wordCount": 6
+        }
+      ]
+    },
+    {
+      "index": 139,
+      "sentences": [
+        {
+          "text": "Harry did as he was told with the horrible feeling that he was im-prisoning himself as he did so.",
+          "wordCount": 19
+        },
+        {
+          "text": "When he turned back to face the room Snape had moved into the light and was pointing silently at the chair opposite his desk.",
+          "wordCount": 24
+        },
+        {
+          "text": "Harry sat down and so did Snape, his cold black eyes fixed unblinkingly upon Harry, dislike etched in every line of his face.",
+          "wordCount": 23
+        }
+      ]
+    },
+    {
+      "index": 140,
+      "sentences": [
+        {
+          "text": "“Well, Potter, you know why you are here,” he said.",
+          "wordCount": 10
+        },
+        {
+          "text": "“The headmaster has asked me to teach you Occlumency.",
+          "wordCount": 9
+        },
+        {
+          "text": "I can only hope that you prove more adept at it than Potions.”",
+          "wordCount": 13
+        }
+      ]
+    },
+    {
+      "index": 141,
+      "sentences": [
+        {
+          "text": "“Right,” said Harry tersely.",
+          "wordCount": 4
+        }
+      ]
+    },
+    {
+      "index": 142,
+      "sentences": [
+        {
+          "text": "“This may not be an ordinary class, Potter,” said Snape, his eyes narrowed malevolently, “but I am still your teacher and you will therefore call me ‘sir’ or ‘Professor’ at all times.”",
+          "wordCount": 32
+        }
+      ]
+    },
+    {
+      "index": 143,
+      "sentences": [
+        {
+          "text": "“Yes . . . sir,” said Harry.",
+          "wordCount": 7
+        }
+      ]
+    },
+    {
+      "index": 144,
+      "sentences": [
+        {
+          "text": "“Now, Occlumency.",
+          "wordCount": 2
+        },
+        {
+          "text": "As I told you back in your dear godfather’s kitchen, this branch of magic seals the mind against magical intrusion and influence.”",
+          "wordCount": 22
+        }
+      ]
+    },
+    {
+      "index": 145,
+      "sentences": [
+        {
+          "text": "“And why does Professor Dumbledore think I need it, sir?” said Harry, looking directly into Snape’s dark, cold eyes and wondering whether he would answer.",
+          "wordCount": 25
+        }
+      ]
+    },
+    {
+      "index": 146,
+      "sentences": [
+        {
+          "text": "Snape looked back at him for a moment and then said contemptuously, “Surely even you could have worked that out by now, Potter?",
+          "wordCount": 23
+        },
+        {
+          "text": "The Dark Lord is highly skilled at Legilimency —”",
+          "wordCount": 9
+        }
+      ]
+    },
+    {
+      "index": 147,
+      "sentences": [
+        {
+          "text": "“What’s that?",
+          "wordCount": 2
+        },
+        {
+          "text": "Sir?”",
+          "wordCount": 1
+        }
+      ]
+    },
+    {
+      "index": 148,
+      "sentences": [
+        {
+          "text": "“It is the ability to extract feelings and memories from another person’s mind —”",
+          "wordCount": 14
+        }
+      ]
+    },
+    {
+      "index": 149,
+      "sentences": [
+        {
+          "text": "“He can read minds?” said Harry quickly, his worst fears confirmed.",
+          "wordCount": 11
+        }
+      ]
+    },
+    {
+      "index": 150,
+      "sentences": [
+        {
+          "text": "“You have no subtlety, Potter,” said Snape, his dark eyes glittering.",
+          "wordCount": 11
+        },
+        {
+          "text": "“You do not understand fine distinctions.",
+          "wordCount": 6
+        },
+        {
+          "text": "It is one of the shortcomings that makes you such a lamentable potion-maker.”",
+          "wordCount": 13
+        }
+      ]
+    },
+    {
+      "index": 151,
+      "sentences": [
+        {
+          "text": "Snape paused for a moment, apparently to savor the pleasure of insulting Harry, before continuing, “Only Muggles talk of ‘mind reading.’",
+          "wordCount": 21
+        },
+        {
+          "text": "The mind is not a book, to be opened at will and examined at leisure.",
+          "wordCount": 15
+        },
+        {
+          "text": "Thoughts are not etched on the inside of skulls, to be perused by any invader.",
+          "wordCount": 15
+        },
+        {
+          "text": "The mind is a complex and many-layered thing, Potter . . . or at least, most minds are. . . .”",
+          "wordCount": 21
+        },
+        {
+          "text": "He smirked.",
+          "wordCount": 2
+        },
+        {
+          "text": "“It is true, however, that those who have mastered Legilimency are able, under certain conditions, to delve into the minds of their victims and to interpret their findings correctly.",
+          "wordCount": 29
+        },
+        {
+          "text": "The Dark Lord, for instance, almost always knows when somebody is lying to him.",
+          "wordCount": 14
+        },
+        {
+          "text": "Only those skilled at Occlumency are able to shut down those feelings and memories that contradict the lie, and so utter falsehoods in his presence without detection.”",
+          "wordCount": 27
+        }
+      ]
+    },
+    {
+      "index": 152,
+      "sentences": [
+        {
+          "text": "Whatever Snape said, Legilimency sounded like mind reading to Harry and he did not like the sound of it at all.",
+          "wordCount": 21
+        }
+      ]
+    },
+    {
+      "index": 153,
+      "sentences": [
+        {
+          "text": "“So he could know what we’re thinking right now?",
+          "wordCount": 9
+        },
+        {
+          "text": "Sir?”",
+          "wordCount": 1
+        }
+      ]
+    },
+    {
+      "index": 154,
+      "sentences": [
+        {
+          "text": "“The Dark Lord is at a considerable distance and the walls and grounds of Hogwarts are guarded by many ancient spells and charms to ensure the bodily and mental safety of those who dwell within them,” said Snape.",
+          "wordCount": 38
+        },
+        {
+          "text": "“Time and space matter in magic, Potter.",
+          "wordCount": 7
+        },
+        {
+          "text": "Eye contact is often essential to Legilimency.”",
+          "wordCount": 7
+        }
+      ]
+    },
+    {
+      "index": 155,
+      "sentences": [
+        {
+          "text": "“Well then, why do I have to learn Occlumency?”",
+          "wordCount": 9
+        }
+      ]
+    },
+    {
+      "index": 156,
+      "sentences": [
+        {
+          "text": "Snape eyed Harry, tracing his mouth with one long, thin finger as he did so.",
+          "wordCount": 15
+        }
+      ]
+    },
+    {
+      "index": 157,
+      "sentences": [
+        {
+          "text": "“The usual rules do not seem to apply with you, Potter.",
+          "wordCount": 11
+        },
+        {
+          "text": "The curse that failed to kill you seems to have forged some kind of connection between you and the Dark Lord.",
+          "wordCount": 21
+        },
+        {
+          "text": "The evidence suggests that at times, when your mind is most relaxed and vulnerable — when you are asleep, for instance — you are sharing the Dark Lord’s thoughts and emotions.",
+          "wordCount": 31
+        },
+        {
+          "text": "The headmaster thinks it inadvisable for this to continue.",
+          "wordCount": 9
+        },
+        {
+          "text": "He wishes me to teach you how to close your mind to the Dark Lord.”",
+          "wordCount": 15
+        }
+      ]
+    },
+    {
+      "index": 158,
+      "sentences": [
+        {
+          "text": "Harry’s heart was pumping fast again.",
+          "wordCount": 6
+        },
+        {
+          "text": "None of this added up.",
+          "wordCount": 5
+        }
+      ]
+    },
+    {
+      "index": 159,
+      "sentences": [
+        {
+          "text": "“But why does Professor Dumbledore want to stop it?” he asked abruptly.",
+          "wordCount": 12
+        },
+        {
+          "text": "“I don’t like it much, but it’s been useful, hasn’t it?",
+          "wordCount": 11
+        },
+        {
+          "text": "I mean . . .",
+          "wordCount": 5
+        },
+        {
+          "text": "I saw that snake attack Mr. Weasley and if I hadn’t, Professor Dumbledore wouldn’t have been able to save him, would he?",
+          "wordCount": 22
+        },
+        {
+          "text": "Sir?”",
+          "wordCount": 1
+        }
+      ]
+    },
+    {
+      "index": 160,
+      "sentences": [
+        {
+          "text": "Snape stared at Harry for a few moments, still tracing his mouth with his finger.",
+          "wordCount": 15
+        },
+        {
+          "text": "When he spoke again, it was slowly and deliberately, as though he weighed every word.",
+          "wordCount": 15
+        }
+      ]
+    },
+    {
+      "index": 161,
+      "sentences": [
+        {
+          "text": "“It appears that the Dark Lord has been unaware of the connection between you and himself until very recently.",
+          "wordCount": 19
+        },
+        {
+          "text": "Up till now it seems that you have been experiencing his emotions and sharing his thoughts without his being any the wiser.",
+          "wordCount": 22
+        },
+        {
+          "text": "However, the vision you had shortly before Christmas —”",
+          "wordCount": 9
+        }
+      ]
+    },
+    {
+      "index": 162,
+      "sentences": [
+        {
+          "text": "“The one with the snake and Mr. Weasley?”",
+          "wordCount": 8
+        }
+      ]
+    },
+    {
+      "index": 163,
+      "sentences": [
+        {
+          "text": "“Do not interrupt me, Potter,” said Snape in a dangerous voice.",
+          "wordCount": 11
+        },
+        {
+          "text": "“As I was saying . . . the vision you had shortly before Christmas represented such a powerful incursion upon the Dark Lord’s thoughts —”",
+          "wordCount": 25
+        }
+      ]
+    },
+    {
+      "index": 164,
+      "sentences": [
+        {
+          "text": "“I saw inside the snake’s head, not his!”",
+          "wordCount": 8
+        }
+      ]
+    },
+    {
+      "index": 165,
+      "sentences": [
+        {
+          "text": "“I thought I just told you not to interrupt me, Potter?”",
+          "wordCount": 11
+        }
+      ]
+    },
+    {
+      "index": 166,
+      "sentences": [
+        {
+          "text": "But Harry did not care if Snape was angry; at last he seemed to be getting to the bottom of this business.",
+          "wordCount": 22
+        },
+        {
+          "text": "He had moved forward in his chair so that, without realizing it, he was perched on the very edge, tense as though poised for flight.",
+          "wordCount": 25
+        }
+      ]
+    },
+    {
+      "index": 167,
+      "sentences": [
+        {
+          "text": "“How come I saw through the snake’s eyes if it’s Voldemort’s thoughts I’m sharing?”",
+          "wordCount": 14
+        }
+      ]
+    },
+    {
+      "index": 168,
+      "sentences": [
+        {
+          "text": "“Do not say the Dark Lord’s name!” spat Snape.",
+          "wordCount": 9
+        }
+      ]
+    },
+    {
+      "index": 169,
+      "sentences": [
+        {
+          "text": "There was a nasty silence.",
+          "wordCount": 5
+        },
+        {
+          "text": "They glared at each other across the Pensieve.",
+          "wordCount": 8
+        }
+      ]
+    },
+    {
+      "index": 170,
+      "sentences": [
+        {
+          "text": "“Professor Dumbledore says his name,” said Harry quietly.",
+          "wordCount": 8
+        }
+      ]
+    },
+    {
+      "index": 171,
+      "sentences": [
+        {
+          "text": "“Dumbledore is an extremely powerful wizard,” Snape muttered.",
+          "wordCount": 8
+        },
+        {
+          "text": "“While he may feel secure enough to use the name . . . the rest of us . . .”",
+          "wordCount": 20
+        },
+        {
+          "text": "He rubbed his left forearm, apparently unconsciously, on the spot where Harry knew the Dark Mark was burned into his skin.",
+          "wordCount": 21
+        }
+      ]
+    },
+    {
+      "index": 172,
+      "sentences": [
+        {
+          "text": "“I just wanted to know,” Harry began again, forcing his voice back to politeness, “why —”",
+          "wordCount": 16
+        }
+      ]
+    },
+    {
+      "index": 173,
+      "sentences": [
+        {
+          "text": "“You seem to have visited the snake’s mind because that was where the Dark Lord was at that particular moment,” snarled Snape.",
+          "wordCount": 22
+        },
+        {
+          "text": "“He was possessing the snake at the time and so you dreamed you were inside it too. . . .”",
+          "wordCount": 20
+        }
+      ]
+    },
+    {
+      "index": 174,
+      "sentences": [
+        {
+          "text": "“And Vol — he — realized I was there?”",
+          "wordCount": 9
+        }
+      ]
+    },
+    {
+      "index": 175,
+      "sentences": [
+        {
+          "text": "“It seems so,” said Snape coolly.",
+          "wordCount": 6
+        }
+      ]
+    },
+    {
+      "index": 176,
+      "sentences": [
+        {
+          "text": "“How do you know?” said Harry urgently.",
+          "wordCount": 7
+        },
+        {
+          "text": "“Is this just Professor Dumbledore guessing, or — ?”",
+          "wordCount": 9
+        }
+      ]
+    },
+    {
+      "index": 177,
+      "sentences": [
+        {
+          "text": "“I told you,” said Snape, rigid in his chair, his eyes slits, “to call me ‘sir.’”",
+          "wordCount": 16
+        }
+      ]
+    },
+    {
+      "index": 178,
+      "sentences": [
+        {
+          "text": "“Yes, sir,” said Harry impatiently, “but how do you know — ?”",
+          "wordCount": 12
+        }
+      ]
+    },
+    {
+      "index": 179,
+      "sentences": [
+        {
+          "text": "“It is enough that we know,” said Snape repressively.",
+          "wordCount": 9
+        },
+        {
+          "text": "“The important point is that the Dark Lord is now aware that you are gaining access to his thoughts and feelings.",
+          "wordCount": 21
+        },
+        {
+          "text": "He has also deduced that the process is likely to work in reverse; that is to say, he has realized that he might be able to access your thoughts and feelings in return —”",
+          "wordCount": 34
+        }
+      ]
+    },
+    {
+      "index": 180,
+      "sentences": [
+        {
+          "text": "“And he might try and make me do things?” asked Harry.",
+          "wordCount": 11
+        },
+        {
+          "text": "“Sir?” he added hurriedly.",
+          "wordCount": 4
+        }
+      ]
+    },
+    {
+      "index": 181,
+      "sentences": [
+        {
+          "text": "“He might,” said Snape, sounding cold and unconcerned.",
+          "wordCount": 8
+        },
+        {
+          "text": "“Which brings us back to Occlumency.”",
+          "wordCount": 6
+        }
+      ]
+    },
+    {
+      "index": 182,
+      "sentences": [
+        {
+          "text": "Snape pulled out his wand from an inside pocket of his robes and Harry tensed in his chair, but Snape merely raised the wand to his temple and placed its tip into the greasy roots of his hair.",
+          "wordCount": 38
+        },
+        {
+          "text": "When he withdrew it, some silvery substance came away, stretching from temple to wand like a thick gossamer strand, which broke as he pulled the wand away from it and fell gracefully into the Pensieve, where it swirled silvery white, neither gas nor liquid.",
+          "wordCount": 44
+        },
+        {
+          "text": "Twice more Snape raised the wand to his temple and deposited the silvery substance into the stone basin, then, without offering any explanation of his behavior, he picked up the Pensieve carefully, removed it to a shelf out of their way and returned to face Harry with his wand held at the ready.",
+          "wordCount": 53
+        }
+      ]
+    },
+    {
+      "index": 183,
+      "sentences": [
+        {
+          "text": "“Stand up and take out your wand, Potter.”",
+          "wordCount": 8
+        }
+      ]
+    },
+    {
+      "index": 184,
+      "sentences": [
+        {
+          "text": "Harry got to his feet feeling nervous.",
+          "wordCount": 7
+        },
+        {
+          "text": "They faced each other with the desk between them.",
+          "wordCount": 9
+        }
+      ]
+    },
+    {
+      "index": 185,
+      "sentences": [
+        {
+          "text": "“You may use your wand to attempt to disarm me, or defend yourself in any other way you can think of,” said Snape.",
+          "wordCount": 23
+        }
+      ]
+    },
+    {
+      "index": 186,
+      "sentences": [
+        {
+          "text": "“And what are you going to do?”",
+          "wordCount": 7
+        },
+        {
+          "text": "Harry asked, eyeing Snape’s wand apprehensively.",
+          "wordCount": 6
+        }
+      ]
+    },
+    {
+      "index": 187,
+      "sentences": [
+        {
+          "text": "“I am about to attempt to break into your mind,” said Snape softly.",
+          "wordCount": 13
+        },
+        {
+          "text": "“We are going to see how well you resist.",
+          "wordCount": 9
+        },
+        {
+          "text": "I have been told that you have already shown aptitude at resisting the Imperius Curse. . . .",
+          "wordCount": 18
+        },
+        {
+          "text": "You will find that similar powers are needed for this. . . .",
+          "wordCount": 13
+        },
+        {
+          "text": "Brace yourself, now. . . .",
+          "wordCount": 6
+        },
+        {
+          "text": "Legilimens!”",
+          "wordCount": 1
+        }
+      ]
+    },
+    {
+      "index": 188,
+      "sentences": [
+        {
+          "text": "Snape had struck before Harry was ready, before Harry had even begun to summon any force of resistance: the office swam in front of his eyes and vanished, image after image was racing through his mind like a flickering film so vivid it blinded him to his surroundings. . . .",
+          "wordCount": 51
+        }
+      ]
+    },
+    {
+      "index": 189,
+      "sentences": [
+        {
+          "text": "He was five, watching Dudley riding a new red bicycle, and his heart was bursting with jealousy. . . .",
+          "wordCount": 20
+        },
+        {
+          "text": "He was nine, and Ripper the bulldog was chasing him up a tree and the Dursleys were laughing below on the lawn. . . .",
+          "wordCount": 25
+        },
+        {
+          "text": "He was sitting under the Sorting Hat, and it was telling him he would do well in Slytherin. . . .",
+          "wordCount": 21
+        },
+        {
+          "text": "Hermione was lying in the hospital wing, her face covered with thick black hair. . . .",
+          "wordCount": 17
+        },
+        {
+          "text": "A hundred dementors were closing in on him beside the dark lake. . . .",
+          "wordCount": 15
+        },
+        {
+          "text": "Cho Chang was drawing nearer to him under the mistletoe. . . .",
+          "wordCount": 13
+        }
+      ]
+    },
+    {
+      "index": 190,
+      "sentences": [
+        {
+          "text": "No, said a voice in Harry’s head, as the memory of Cho drew nearer, you’re not watching that, you’re not watching it, it’s private —",
+          "wordCount": 25
+        }
+      ]
+    },
+    {
+      "index": 191,
+      "sentences": [
+        {
+          "text": "He felt a sharp pain in his knee.",
+          "wordCount": 8
+        },
+        {
+          "text": "Snape’s office had come back into view and he realized that he had fallen to the floor; one of his knees had collided painfully with the leg of Snape’s desk.",
+          "wordCount": 30
+        },
+        {
+          "text": "He looked up at Snape, who had lowered his wand and was rubbing his wrist.",
+          "wordCount": 15
+        },
+        {
+          "text": "There was an angry weal there, like a scorch mark.",
+          "wordCount": 10
+        }
+      ]
+    },
+    {
+      "index": 192,
+      "sentences": [
+        {
+          "text": "“Did you mean to produce a Stinging Hex?” asked Snape coolly.",
+          "wordCount": 11
+        }
+      ]
+    },
+    {
+      "index": 193,
+      "sentences": [
+        {
+          "text": "“No,” said Harry bitterly, getting up from the floor.",
+          "wordCount": 9
+        }
+      ]
+    },
+    {
+      "index": 194,
+      "sentences": [
+        {
+          "text": "“I thought not,” said Snape contemptuously.",
+          "wordCount": 6
+        },
+        {
+          "text": "“You let me get in too far.",
+          "wordCount": 7
+        },
+        {
+          "text": "You lost control.”",
+          "wordCount": 3
+        }
+      ]
+    },
+    {
+      "index": 195,
+      "sentences": [
+        {
+          "text": "“Did you see everything I saw?”",
+          "wordCount": 6
+        },
+        {
+          "text": "Harry asked, unsure whether he wanted to hear the answer.",
+          "wordCount": 10
+        }
+      ]
+    },
+    {
+      "index": 196,
+      "sentences": [
+        {
+          "text": "“Flashes of it,” said Snape, his lip curling.",
+          "wordCount": 8
+        },
+        {
+          "text": "“To whom did the dog belong?”",
+          "wordCount": 6
+        }
+      ]
+    },
+    {
+      "index": 197,
+      "sentences": [
+        {
+          "text": "“My Aunt Marge,” Harry muttered, hating Snape.",
+          "wordCount": 7
+        }
+      ]
+    },
+    {
+      "index": 198,
+      "sentences": [
+        {
+          "text": "“Well, for a first attempt that was not as poor as it might have been,” said Snape, raising his wand once more.",
+          "wordCount": 22
+        },
+        {
+          "text": "“You managed to stop me eventually, though you wasted time and energy shouting.",
+          "wordCount": 13
+        },
+        {
+          "text": "You must remain focused.",
+          "wordCount": 4
+        },
+        {
+          "text": "Repel me with your brain and you will not need to resort to your wand.”",
+          "wordCount": 15
+        }
+      ]
+    },
+    {
+      "index": 199,
+      "sentences": [
+        {
+          "text": "“I’m trying,” said Harry angrily, “but you’re not telling me how!”",
+          "wordCount": 11
+        }
+      ]
+    },
+    {
+      "index": 200,
+      "sentences": [
+        {
+          "text": "“Manners, Potter,” said Snape dangerously.",
+          "wordCount": 5
+        },
+        {
+          "text": "“Now, I want you to close your eyes.”",
+          "wordCount": 8
+        }
+      ]
+    },
+    {
+      "index": 201,
+      "sentences": [
+        {
+          "text": "Harry threw him a filthy look before doing as he was told.",
+          "wordCount": 12
+        },
+        {
+          "text": "He did not like the idea of standing there with his eyes shut while Snape faced him, carrying a wand.",
+          "wordCount": 20
+        }
+      ]
+    },
+    {
+      "index": 202,
+      "sentences": [
+        {
+          "text": "“Clear your mind, Potter,” said Snape’s cold voice.",
+          "wordCount": 8
+        },
+        {
+          "text": "“Let go of all emotion. . . .”",
+          "wordCount": 8
+        }
+      ]
+    },
+    {
+      "index": 203,
+      "sentences": [
+        {
+          "text": "But Harry’s anger at Snape continued to pound through his veins like venom.",
+          "wordCount": 13
+        },
+        {
+          "text": "Let go of his anger?",
+          "wordCount": 5
+        },
+        {
+          "text": "He could as easily detach his legs. . . .",
+          "wordCount": 10
+        }
+      ]
+    },
+    {
+      "index": 204,
+      "sentences": [
+        {
+          "text": "“You’re not doing it, Potter. . . .",
+          "wordCount": 8
+        },
+        {
+          "text": "You will need more discipline than this. . . .",
+          "wordCount": 10
+        },
+        {
+          "text": "Focus, now. . . .”",
+          "wordCount": 5
+        }
+      ]
+    },
+    {
+      "index": 205,
+      "sentences": [
+        {
+          "text": "Harry tried to empty his mind, tried not to think, or remember, or feel. . . .",
+          "wordCount": 17
+        }
+      ]
+    },
+    {
+      "index": 206,
+      "sentences": [
+        {
+          "text": "“Let’s go again . . . on the count of three . . . one — two — three — Legilimens!”",
+          "wordCount": 21
+        }
+      ]
+    },
+    {
+      "index": 207,
+      "sentences": [
+        {
+          "text": "A great black dragon was rearing in front of him. . . .",
+          "wordCount": 13
+        },
+        {
+          "text": "His father and mother were waving at him out of an enchanted mirror. . . .",
+          "wordCount": 16
+        },
+        {
+          "text": "Cedric Diggory was lying on the ground with blank eyes staring at him. . . .",
+          "wordCount": 16
+        }
+      ]
+    },
+    {
+      "index": 208,
+      "sentences": [
+        {
+          "text": "“NOOOOOOO!”",
+          "wordCount": 1
+        }
+      ]
+    },
+    {
+      "index": 209,
+      "sentences": [
+        {
+          "text": "He was on his knees again, his face buried in his hands, his brain aching as though someone had been trying to pull it from his skull.",
+          "wordCount": 27
+        }
+      ]
+    },
+    {
+      "index": 210,
+      "sentences": [
+        {
+          "text": "“Get up!” said Snape sharply.",
+          "wordCount": 5
+        },
+        {
+          "text": "“Get up!",
+          "wordCount": 2
+        },
+        {
+          "text": "You are not trying, you are making no effort, you are allowing me access to memories you fear, handing me weapons!”",
+          "wordCount": 21
+        }
+      ]
+    },
+    {
+      "index": 211,
+      "sentences": [
+        {
+          "text": "Harry stood up again, his heart thumping wildly as though he had really just seen Cedric dead in the graveyard.",
+          "wordCount": 20
+        },
+        {
+          "text": "Snape looked paler than usual, and angrier, though not nearly as angry as Harry was.",
+          "wordCount": 15
+        }
+      ]
+    },
+    {
+      "index": 212,
+      "sentences": [
+        {
+          "text": "“I — am — making — an — effort,” he said through clenched teeth.",
+          "wordCount": 14
+        }
+      ]
+    },
+    {
+      "index": 213,
+      "sentences": [
+        {
+          "text": "“I told you to empty yourself of emotion!”",
+          "wordCount": 8
+        }
+      ]
+    },
+    {
+      "index": 214,
+      "sentences": [
+        {
+          "text": "“Yeah?",
+          "wordCount": 1
+        },
+        {
+          "text": "Well, I’m finding that hard at the moment,” Harry snarled.",
+          "wordCount": 10
+        }
+      ]
+    },
+    {
+      "index": 215,
+      "sentences": [
+        {
+          "text": "“Then you will find yourself easy prey for the Dark Lord!” said Snape savagely.",
+          "wordCount": 14
+        },
+        {
+          "text": "“Fools who wear their hearts proudly on their sleeves, who cannot control their emotions, who wallow in sad memories and allow themselves to be provoked this easily — weak people, in other words — they stand no chance against his powers!",
+          "wordCount": 41
+        },
+        {
+          "text": "He will penetrate your mind with absurd ease, Potter!”",
+          "wordCount": 9
+        }
+      ]
+    },
+    {
+      "index": 216,
+      "sentences": [
+        {
+          "text": "“I am not weak,” said Harry in a low voice, fury now pumping through him so that he thought he might attack Snape in a moment.",
+          "wordCount": 26
+        }
+      ]
+    },
+    {
+      "index": 217,
+      "sentences": [
+        {
+          "text": "“Then prove it!",
+          "wordCount": 3
+        },
+        {
+          "text": "Master yourself!” spat Snape.",
+          "wordCount": 4
+        },
+        {
+          "text": "“Control your anger, discipline your mind!",
+          "wordCount": 6
+        },
+        {
+          "text": "We shall try again!",
+          "wordCount": 4
+        },
+        {
+          "text": "Get ready, now!",
+          "wordCount": 3
+        },
+        {
+          "text": "Legilimens!”",
+          "wordCount": 1
+        }
+      ]
+    },
+    {
+      "index": 218,
+      "sentences": [
+        {
+          "text": "He was watching Uncle Vernon hammering the letter box shut. . . .",
+          "wordCount": 13
+        },
+        {
+          "text": "A hundred dementors were drifting across the lake in the grounds toward him. . . .",
+          "wordCount": 16
+        },
+        {
+          "text": "He was running along a windowless passage with Mr. Weasley. . . .",
+          "wordCount": 13
+        },
+        {
+          "text": "They were drawing nearer to the plain black door at the end of the corridor. . . .",
+          "wordCount": 18
+        },
+        {
+          "text": "Harry expected to go through it . . . but Mr. Weasley led him off to the left, down a flight of stone steps. . . .",
+          "wordCount": 27
+        }
+      ]
+    },
+    {
+      "index": 219,
+      "sentences": [
+        {
+          "text": "“I KNOW!",
+          "wordCount": 2
+        },
+        {
+          "text": "I KNOW!”",
+          "wordCount": 2
+        }
+      ]
+    },
+    {
+      "index": 220,
+      "sentences": [
+        {
+          "text": "He was on all fours again on Snape’s office floor, his scar was prickling unpleasantly, but the voice that had just issued from his mouth was triumphant.",
+          "wordCount": 27
+        },
+        {
+          "text": "He pushed himself up again to find Snape staring at him, his wand raised.",
+          "wordCount": 14
+        },
+        {
+          "text": "It looked as though, this time, Snape had lifted the spell before Harry had even tried to fight back.",
+          "wordCount": 19
+        }
+      ]
+    },
+    {
+      "index": 221,
+      "sentences": [
+        {
+          "text": "“What happened then, Potter?” he asked, eyeing Harry intently.",
+          "wordCount": 9
+        }
+      ]
+    },
+    {
+      "index": 222,
+      "sentences": [
+        {
+          "text": "“I saw — I remembered,” Harry panted.",
+          "wordCount": 7
+        },
+        {
+          "text": "“I’ve just realized . . .”",
+          "wordCount": 6
+        }
+      ]
+    },
+    {
+      "index": 223,
+      "sentences": [
+        {
+          "text": "“Realized what?” asked Snape sharply.",
+          "wordCount": 5
+        }
+      ]
+    },
+    {
+      "index": 224,
+      "sentences": [
+        {
+          "text": "Harry did not answer at once; he was still savoring the moment of blinding realization as he rubbed his forehead. . . .",
+          "wordCount": 23
+        }
+      ]
+    },
+    {
+      "index": 225,
+      "sentences": [
+        {
+          "text": "He had been dreaming about a windowless corridor ending in a locked door for months, without once realizing that it was a real place.",
+          "wordCount": 24
+        },
+        {
+          "text": "Now, seeing the memory again, he knew that all along he had been dreaming about the corridor down which he had run with Mr. Weasley on the twelfth of August as they hurried to the courtrooms in the Ministry.",
+          "wordCount": 39
+        },
+        {
+          "text": "It was the corridor leading to the Department of Mysteries, and Mr. Weasley had been there the night that he had been attacked by Voldemort’s snake. . . .",
+          "wordCount": 29
+        }
+      ]
+    },
+    {
+      "index": 226,
+      "sentences": [
+        {
+          "text": "He looked up at Snape.",
+          "wordCount": 5
+        }
+      ]
+    },
+    {
+      "index": 227,
+      "sentences": [
+        {
+          "text": "“What’s in the Department of Mysteries?”",
+          "wordCount": 6
+        }
+      ]
+    },
+    {
+      "index": 228,
+      "sentences": [
+        {
+          "text": "“What did you say?”",
+          "wordCount": 4
+        },
+        {
+          "text": "Snape asked quietly and Harry saw, with deep satisfaction, that Snape was unnerved.",
+          "wordCount": 13
+        }
+      ]
+    },
+    {
+      "index": 229,
+      "sentences": [
+        {
+          "text": "“I said, what’s in the Department of Mysteries, sir?”",
+          "wordCount": 9
+        },
+        {
+          "text": "Harry said.",
+          "wordCount": 2
+        }
+      ]
+    },
+    {
+      "index": 230,
+      "sentences": [
+        {
+          "text": "“And why,” said Snape slowly, “would you ask such a thing?”",
+          "wordCount": 11
+        }
+      ]
+    },
+    {
+      "index": 231,
+      "sentences": [
+        {
+          "text": "“Because,” said Harry, watching Snape closely for a reaction, “that corridor I’ve just seen — I’ve been dreaming about it for months — I’ve just recognized it — it leads to the Department of Mysteries . . . and I think Voldemort wants something from —”",
+          "wordCount": 46
+        }
+      ]
+    },
+    {
+      "index": 232,
+      "sentences": [
+        {
+          "text": "“I have told you not to say the Dark Lord’s name!”",
+          "wordCount": 11
+        }
+      ]
+    },
+    {
+      "index": 233,
+      "sentences": [
+        {
+          "text": "They glared at each other.",
+          "wordCount": 5
+        },
+        {
+          "text": "Harry’s scar seared again, but he did not care.",
+          "wordCount": 9
+        },
+        {
+          "text": "Snape looked agitated.",
+          "wordCount": 3
+        },
+        {
+          "text": "When he spoke again he sounded as though he was trying to appear cool and unconcerned.",
+          "wordCount": 16
+        }
+      ]
+    },
+    {
+      "index": 234,
+      "sentences": [
+        {
+          "text": "“There are many things in the Department of Mysteries, Potter, few of which you would understand and none of which concern you, do I make myself plain?”",
+          "wordCount": 27
+        }
+      ]
+    },
+    {
+      "index": 235,
+      "sentences": [
+        {
+          "text": "“Yes,” Harry said, still rubbing his prickling scar, which was becoming more painful.",
+          "wordCount": 13
+        }
+      ]
+    },
+    {
+      "index": 236,
+      "sentences": [
+        {
+          "text": "“I want you back here same time on Wednesday, and we will continue work then.”",
+          "wordCount": 15
+        }
+      ]
+    },
+    {
+      "index": 237,
+      "sentences": [
+        {
+          "text": "“Fine,” said Harry.",
+          "wordCount": 3
+        },
+        {
+          "text": "He was desperate to get out of Snape’s office and find Ron and Hermione.",
+          "wordCount": 14
+        }
+      ]
+    },
+    {
+      "index": 238,
+      "sentences": [
+        {
+          "text": "“You are to rid your mind of all emotion every night before sleep — empty it, make it blank and calm, you understand?”",
+          "wordCount": 23
+        }
+      ]
+    },
+    {
+      "index": 239,
+      "sentences": [
+        {
+          "text": "“Yes,” said Harry, who was barely listening.",
+          "wordCount": 7
+        }
+      ]
+    },
+    {
+      "index": 240,
+      "sentences": [
+        {
+          "text": "“And be warned, Potter . . .",
+          "wordCount": 7
+        },
+        {
+          "text": "I shall know if you have not practiced . . .”",
+          "wordCount": 11
+        }
+      ]
+    },
+    {
+      "index": 241,
+      "sentences": [
+        {
+          "text": "“Right,” Harry mumbled.",
+          "wordCount": 3
+        },
+        {
+          "text": "He picked up his schoolbag, swung it over his shoulder, and hurried toward the office door.",
+          "wordCount": 16
+        },
+        {
+          "text": "As he opened it he glanced back at Snape, who had his back to Harry and was scooping his own thoughts out of the Pensieve with the tip of his wand and replacing them carefully inside his own head.",
+          "wordCount": 39
+        },
+        {
+          "text": "Harry left without another word, closing the door carefully behind him, his scar still throbbing painfully.",
+          "wordCount": 16
+        }
+      ]
+    },
+    {
+      "index": 242,
+      "sentences": [
+        {
+          "text": "Harry found Ron and Hermione in the library, where they were working on Umbridge’s most recent ream of homework.",
+          "wordCount": 19
+        },
+        {
+          "text": "Other students, nearly all of them fifth years, sat at lamp-lit tables nearby, noses close to books, quills scratching feverishly, while the sky outside the mullioned windows grew steadily blacker.",
+          "wordCount": 30
+        },
+        {
+          "text": "The only other sound was the slight squeaking of one of Madam Pince’s shoes as the librarian prowled the aisles menacingly, breathing down the necks of those touching her precious books.",
+          "wordCount": 31
+        }
+      ]
+    },
+    {
+      "index": 243,
+      "sentences": [
+        {
+          "text": "Harry felt shivery; his scar was still aching, he felt almost feverish.",
+          "wordCount": 12
+        },
+        {
+          "text": "When he sat down opposite Ron and Hermione he caught sight of himself in the window opposite.",
+          "wordCount": 17
+        },
+        {
+          "text": "He was very white, and his scar seemed to be showing up more clearly than usual.",
+          "wordCount": 16
+        }
+      ]
+    },
+    {
+      "index": 244,
+      "sentences": [
+        {
+          "text": "“How did it go?”",
+          "wordCount": 4
+        },
+        {
+          "text": "Hermione whispered, and then, looking concerned, “Are you all right, Harry?”",
+          "wordCount": 11
+        }
+      ]
+    },
+    {
+      "index": 245,
+      "sentences": [
+        {
+          "text": "“Yeah . . . fine . . .",
+          "wordCount": 8
+        },
+        {
+          "text": "I dunno,” said Harry impatiently, wincing as pain shot through his scar again.",
+          "wordCount": 13
+        },
+        {
+          "text": "“Listen . . .",
+          "wordCount": 4
+        },
+        {
+          "text": "I’ve just realized something. . . .”",
+          "wordCount": 7
+        }
+      ]
+    },
+    {
+      "index": 246,
+      "sentences": [
+        {
+          "text": "And he told them what he had just seen and deduced.",
+          "wordCount": 11
+        }
+      ]
+    },
+    {
+      "index": 247,
+      "sentences": [
+        {
+          "text": "“So . . . so, are you saying . . .” whispered Ron, as Madam Pince swept past, squeaking slightly, “that the weapon — the thing You-Know-Who’s after — is in the Ministry of Magic?”",
+          "wordCount": 35
+        }
+      ]
+    },
+    {
+      "index": 248,
+      "sentences": [
+        {
+          "text": "“In the Department of Mysteries, it’s got to be,” Harry whispered.",
+          "wordCount": 11
+        },
+        {
+          "text": "“I saw that door when your dad took me down to the courtrooms for my hearing and it’s definitely the same one he was guarding when the snake bit him.”",
+          "wordCount": 30
+        }
+      ]
+    },
+    {
+      "index": 249,
+      "sentences": [
+        {
+          "text": "Hermione let out a long, slow sigh.",
+          "wordCount": 7
+        },
+        {
+          "text": "“Of course,” she breathed.",
+          "wordCount": 4
+        }
+      ]
+    },
+    {
+      "index": 250,
+      "sentences": [
+        {
+          "text": "“Of course what?” said Ron rather impatiently.",
+          "wordCount": 7
+        }
+      ]
+    },
+    {
+      "index": 251,
+      "sentences": [
+        {
+          "text": "“Ron, think about it. . . .",
+          "wordCount": 7
+        },
+        {
+          "text": "Sturgis Podmore was trying to get through a door at the Ministry of Magic. . . .",
+          "wordCount": 17
+        },
+        {
+          "text": "It must have been that one, it’s too much of a coincidence!”",
+          "wordCount": 12
+        }
+      ]
+    },
+    {
+      "index": 252,
+      "sentences": [
+        {
+          "text": "“How come Sturgis was trying to break in when he’s on our side?” said Ron.",
+          "wordCount": 15
+        }
+      ]
+    },
+    {
+      "index": 253,
+      "sentences": [
+        {
+          "text": "“Well, I don’t know,” Hermione admitted.",
+          "wordCount": 6
+        },
+        {
+          "text": "“That is a bit odd. . . .”",
+          "wordCount": 8
+        }
+      ]
+    },
+    {
+      "index": 254,
+      "sentences": [
+        {
+          "text": "“So what’s in the Department of Mysteries?”",
+          "wordCount": 7
+        },
+        {
+          "text": "Harry asked Ron.",
+          "wordCount": 3
+        },
+        {
+          "text": "“Has your dad ever mentioned anything about it?”",
+          "wordCount": 8
+        }
+      ]
+    },
+    {
+      "index": 255,
+      "sentences": [
+        {
+          "text": "“I know they call the people who work in there ‘Unspeakables,’” said Ron, frowning.",
+          "wordCount": 14
+        },
+        {
+          "text": "“Because no one really seems to know what they do in there. . . .",
+          "wordCount": 15
+        },
+        {
+          "text": "Weird place to have a weapon . . .”",
+          "wordCount": 9
+        }
+      ]
+    },
+    {
+      "index": 256,
+      "sentences": [
+        {
+          "text": "“It’s not weird at all, it makes perfect sense,” said Hermione.",
+          "wordCount": 11
+        },
+        {
+          "text": "“It will be something top secret that the Ministry has been developing, I expect. . . .",
+          "wordCount": 17
+        },
+        {
+          "text": "Harry, are you sure you’re all right?”",
+          "wordCount": 7
+        }
+      ]
+    },
+    {
+      "index": 257,
+      "sentences": [
+        {
+          "text": "For Harry had just run both his hands hard over his forehead as though trying to iron it.",
+          "wordCount": 18
+        }
+      ]
+    },
+    {
+      "index": 258,
+      "sentences": [
+        {
+          "text": "“Yeah . . . fine . . .” he said, lowering his hands, which were trembling.",
+          "wordCount": 16
+        },
+        {
+          "text": "“I just feel a bit . . .",
+          "wordCount": 8
+        },
+        {
+          "text": "I don’t like Occlumency much. . . .”",
+          "wordCount": 8
+        }
+      ]
+    },
+    {
+      "index": 259,
+      "sentences": [
+        {
+          "text": "“I expect anyone would feel shaky if they’d had their mind attacked over and over again,” said Hermione sympathetically.",
+          "wordCount": 19
+        },
+        {
+          "text": "“Look, let’s get back to the common room, we’ll be a bit more comfortable there. . . .”",
+          "wordCount": 18
+        }
+      ]
+    },
+    {
+      "index": 260,
+      "sentences": [
+        {
+          "text": "But the common room was packed and full of shrieks of laughter and excitement; Fred and George were demonstrating their latest bit of joke shop merchandise.",
+          "wordCount": 26
+        }
+      ]
+    },
+    {
+      "index": 261,
+      "sentences": [
+        {
+          "text": "“Headless Hats!” shouted George, as Fred waved a pointed hat decorated with a fluffy pink feather at the watching students.",
+          "wordCount": 20
+        },
+        {
+          "text": "“Two Galleons each — watch Fred, now!”",
+          "wordCount": 7
+        }
+      ]
+    },
+    {
+      "index": 262,
+      "sentences": [
+        {
+          "text": "Fred swept the hat onto his head, beaming.",
+          "wordCount": 8
+        },
+        {
+          "text": "For a second he merely looked rather stupid, then both hat and head vanished.",
+          "wordCount": 14
+        }
+      ]
+    },
+    {
+      "index": 263,
+      "sentences": [
+        {
+          "text": "Several girls screamed, but everyone else was roaring with laughter.",
+          "wordCount": 10
+        }
+      ]
+    },
+    {
+      "index": 264,
+      "sentences": [
+        {
+          "text": "“And off again!” shouted George, and Fred’s hand groped for a moment in what seemed to be thin air over his shoulder; then his head reappeared as he swept the pink-feathered hat from it again.",
+          "wordCount": 35
+        }
+      ]
+    },
+    {
+      "index": 265,
+      "sentences": [
+        {
+          "text": "“How do those hats work, then?” said Hermione, distracted from her homework and watching Fred and George.",
+          "wordCount": 17
+        },
+        {
+          "text": "“I mean, obviously it’s some kind of Invisibility Spell, but it’s rather clever to have extended the field of invisibility beyond the boundaries of the charmed object. . . .",
+          "wordCount": 30
+        },
+        {
+          "text": "I’d imagine the charm wouldn’t have a very long life though. . . .”",
+          "wordCount": 14
+        }
+      ]
+    },
+    {
+      "index": 266,
+      "sentences": [
+        {
+          "text": "Harry did not answer; he was still feeling ill.",
+          "wordCount": 9
+        }
+      ]
+    },
+    {
+      "index": 267,
+      "sentences": [
+        {
+          "text": "“I’m going to have to do this tomorrow,” he muttered, pushing the books he had just taken out of his bag back inside it.",
+          "wordCount": 24
+        }
+      ]
+    },
+    {
+      "index": 268,
+      "sentences": [
+        {
+          "text": "“Well, write it in your homework planner then!” said Hermione encouragingly.",
+          "wordCount": 11
+        },
+        {
+          "text": "“So you don’t forget!”",
+          "wordCount": 4
+        }
+      ]
+    },
+    {
+      "index": 269,
+      "sentences": [
+        {
+          "text": "Harry and Ron exchanged looks as he reached into his bag, withdrew the planner and opened it tentatively.",
+          "wordCount": 18
+        }
+      ]
+    },
+    {
+      "index": 270,
+      "sentences": [
+        {
+          "text": "“Don’t leave it till later, you big second-rater!” chided the book as Harry scribbled down Umbridge’s homework.",
+          "wordCount": 17
+        },
+        {
+          "text": "Hermione beamed at it.",
+          "wordCount": 4
+        }
+      ]
+    },
+    {
+      "index": 271,
+      "sentences": [
+        {
+          "text": "“I think I’ll go to bed,” said Harry, stuffing the homework planner back into his bag and making a mental note to drop it in the fire the first opportunity he got.",
+          "wordCount": 32
+        }
+      ]
+    },
+    {
+      "index": 272,
+      "sentences": [
+        {
+          "text": "He walked across the common room, dodging George, who tried to put a Headless Hat on him, and reached the peace and cool of the stone staircase to the boys’ dormitories.",
+          "wordCount": 31
+        },
+        {
+          "text": "He was feeling sick again, just as he had the night he had had the vision of the snake, but thought that if he could just lie down for a while he would be all right.",
+          "wordCount": 36
+        }
+      ]
+    },
+    {
+      "index": 273,
+      "sentences": [
+        {
+          "text": "He opened the door of his dormitory and was one step inside it when he experienced pain so severe he thought that someone must have sliced into the top of his head.",
+          "wordCount": 32
+        },
+        {
+          "text": "He did not know where he was, whether he was standing or lying down, he did not even know his own name. . . .",
+          "wordCount": 25
+        }
+      ]
+    },
+    {
+      "index": 274,
+      "sentences": [
+        {
+          "text": "Maniacal laughter was ringing in his ears. . . .",
+          "wordCount": 10
+        },
+        {
+          "text": "He was happier than he had been in a very long time. . . .",
+          "wordCount": 15
+        },
+        {
+          "text": "Jubilant, ecstatic, triumphant . . .",
+          "wordCount": 6
+        },
+        {
+          "text": "A wonderful, wonderful thing had happened. . . .",
+          "wordCount": 9
+        }
+      ]
+    },
+    {
+      "index": 275,
+      "sentences": [
+        {
+          "text": "“Harry?",
+          "wordCount": 1
+        },
+        {
+          "text": "HARRY!”",
+          "wordCount": 1
+        }
+      ]
+    },
+    {
+      "index": 276,
+      "sentences": [
+        {
+          "text": "Someone had hit him around the face.",
+          "wordCount": 7
+        },
+        {
+          "text": "The insane laughter was punctuated with a cry of pain.",
+          "wordCount": 10
+        },
+        {
+          "text": "The happiness was draining out of him, but the laughter continued. . . .",
+          "wordCount": 14
+        }
+      ]
+    },
+    {
+      "index": 277,
+      "sentences": [
+        {
+          "text": "He opened his eyes and as he did so, he became aware that the wild laughter was coming out of his own mouth.",
+          "wordCount": 23
+        },
+        {
+          "text": "The moment he realized this, it died away; Harry lay panting on the floor, staring up at the ceiling, the scar on his forehead throbbing horribly.",
+          "wordCount": 26
+        },
+        {
+          "text": "Ron was bending over him, looking very worried.",
+          "wordCount": 8
+        }
+      ]
+    },
+    {
+      "index": 278,
+      "sentences": [
+        {
+          "text": "“What happened?” he said.",
+          "wordCount": 4
+        }
+      ]
+    },
+    {
+      "index": 279,
+      "sentences": [
+        {
+          "text": "“I . . . dunno . . .”",
+          "wordCount": 8
+        },
+        {
+          "text": "Harry gasped, sitting up again.",
+          "wordCount": 5
+        },
+        {
+          "text": "“He’s really happy . . . really happy . . .”",
+          "wordCount": 11
+        }
+      ]
+    },
+    {
+      "index": 280,
+      "sentences": [
+        {
+          "text": "“You-Know-Who is?”",
+          "wordCount": 2
+        }
+      ]
+    },
+    {
+      "index": 281,
+      "sentences": [
+        {
+          "text": "“Something good’s happened,” mumbled Harry.",
+          "wordCount": 5
+        },
+        {
+          "text": "He was shaking as badly as he had done after seeing the snake attack Mr. Weasley and felt very sick.",
+          "wordCount": 20
+        },
+        {
+          "text": "“Something he’s been hoping for.”",
+          "wordCount": 5
+        }
+      ]
+    },
+    {
+      "index": 282,
+      "sentences": [
+        {
+          "text": "The words came, just as they had back in the Gryffindor changing room, as though a stranger was speaking them through Harry’s mouth, yet he knew they were true.",
+          "wordCount": 29
+        },
+        {
+          "text": "He took deep breaths, willing himself not to vomit all over Ron.",
+          "wordCount": 12
+        },
+        {
+          "text": "He was very glad that Dean and Seamus were not here to watch this time.",
+          "wordCount": 15
+        }
+      ]
+    },
+    {
+      "index": 283,
+      "sentences": [
+        {
+          "text": "“Hermione told me to come and check on you,” said Ron in a low voice, helping Harry to his feet.",
+          "wordCount": 20
+        },
+        {
+          "text": "“She says your defenses will be low at the moment, after Snape’s been fiddling around with your mind. . . .",
+          "wordCount": 21
+        },
+        {
+          "text": "Still, I suppose it’ll help in the long run, won’t it?”",
+          "wordCount": 11
+        }
+      ]
+    },
+    {
+      "index": 284,
+      "sentences": [
+        {
+          "text": "He looked doubtfully at Harry as he helped him toward bed.",
+          "wordCount": 11
+        },
+        {
+          "text": "Harry nodded without any conviction and slumped back on his pillows, aching all over from having fallen to the floor so often that evening, his scar still prickling painfully.",
+          "wordCount": 29
+        },
+        {
+          "text": "He could not help feeling that his first foray into Occlumency had weakened his mind’s resistance rather than strengthening it, and he wondered, with a feeling of great trepidation, what had happened to make Lord Voldemort the happiest he had been in fourteen years.",
+          "wordCount": 44
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "bookId": "hp1",
+  "chapterIndex": 1,
+  "title": "The Boy Who Lived",
+  "paragraphs": [
+    {
+      "index": 0,
+      "sentences": [
+        {
+          "text": "Mr. Dursley was the director of a firm called Grunnings, which made drills.",
+          "wordCount": 13
+        },
+        {
+          "text": "He was a big, beefy man with hardly any neck, although he did have a very large mustache.",
+          "wordCount": 18
+        },
+        {
+          "text": "The Dursleys had a small son called Dudley and in their opinion there was no finer boy anywhere.",
+          "wordCount": 18
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "sentences": [
+        {
+          "text": "Mrs. Dursley was thin and blonde and had nearly twice the usual amount of neck.",
+          "wordCount": 15
+        },
+        {
+          "text": "She spent so much of her time craning over garden fences, spying on the neighbors.",
+          "wordCount": 15
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "sentences": [
+        {
+          "text": "The Dursleys had everything they wanted, but they also had a secret.",
+          "wordCount": 12
+        }
+      ]
+    }
+  ]
+}
