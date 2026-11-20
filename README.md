@@ -10,6 +10,8 @@
 
 代码部分以 [MIT 协议](LICENSE) 开源；`data/corpus/`、`docs/screenshots/` 及 README 中的原文摘录**不在 MIT 协议覆盖范围内**。
 
+> 仓库地址：<https://github.com/Flying-Dog-ux/translate-study>
+
 ## ✨ 功能
 
 - **7 本语料**：魔法石 / 密室 / 阿兹卡班的囚徒 / 火焰杯 / 凤凰社 / 混血王子 / 死亡圣器，共 199 章 / 80,204 句 / 约 112 万词，自动切分到句。
@@ -38,11 +40,12 @@
 前置：Windows + Node.js ≥ 20（实测 v24）。仓库已包含生成好的语料，无需 PDF，直接启动即可。
 
 ```powershell
-cd translate-study   # 进入项目目录
+git clone https://github.com/Flying-Dog-ux/translate-study.git
+cd translate-study
 npm start
 ```
 
-或直接**双击 `start.bat`**。浏览器打开 **http://127.0.0.1:5180** 。
+或下载 ZIP 解压后直接**双击 `start.bat`**。浏览器打开 **http://127.0.0.1:5180** 。
 
 ### 配置 DeepSeek Key
 
