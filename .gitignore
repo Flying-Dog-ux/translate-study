@@ -1,7 +1,9 @@
-﻿node_modules/
+node_modules/
 .env
 data/progress.json
 data/progress.json.tmp
 .scratch/
 __pycache__/
 *.pyc
+# 宣传片制作工作区（画布/工程/渲染产物，不入库）
+video/
